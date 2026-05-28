@@ -1,0 +1,11 @@
+sites:
+  # ここに監視したいサイトを追加していくだけでOK！
+  - name: 大同信号
+    url: https://www.daido-signal.co.jp/newsrelease/
+
+  # 追加例（コメントアウトを外せば有効になります）
+  # - name: ○○電機
+  #   url: https://www.example.co.jp/news/
+
+  # - name: △△工業
+  #   url: https://www.example2.co.jp/newsrelease/
