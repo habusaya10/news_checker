@@ -1,1 +1,35 @@
 
+name: ニュースリリース更新チェック
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: コードをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ライブラリインストール
+        run: pip install requests beautifulsoup4 pyyaml
+
+      - name: ニュースチェック実行
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python checker.py
+
+      - name: データを保存してプッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_data.json
+          git diff --cached --quiet || git commit -m "chore: ニュースデータ更新 $(date +'%Y-%m-%d')"
+          git push
