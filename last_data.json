@@ -1,1 +1,744 @@
-{}
+{
+  "https://www.daido-signal.co.jp/newsrelease/": [
+    {
+      "text": "2026/06/01 株主総会関連情報 「第80期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260601.pdf"
+    },
+    {
+      "text": "2026/05/29 NEWS 「「只見線応援団総会」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260529-02.pdf"
+    },
+    {
+      "text": "2026/05/29 NEWS 「TOKYO MX「THE LEADERS」放送映像を公式YouTubeで公開しました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260529-01.pdf"
+    },
+    {
+      "text": "2026/05/20 その他 「資本コストや株価を意識した経営の実現に向けた対応について」を更新しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260520-02.pdf"
+    },
+    {
+      "text": "2026/05/20 適時開示情報 「剰余金の配当（増配）に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260520-04.pdf"
+    },
+    {
+      "text": "2026/05/20 適時開示情報 「業績予想と決算値との差異に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260520-03.pdf"
+    },
+    {
+      "text": "2026/05/20 適時開示情報 「役員の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260520-02.pdf"
+    },
+    {
+      "text": "2026/05/20 決算情報 「2026年3月期 決算短信〔日本基準〕（連結）」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260520-01.pdf"
+    },
+    {
+      "text": "2026/05/20 NEWS 「地方圏線区向け無線式列車制御システムの開発について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260520-01.pdf"
+    },
+    {
+      "text": "2026/04/24 NEWS 「踏切障害物検知装置MT型（MT-OD）が IRSE Global Industry Awards 2026 の最終候補に選出」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260424-02.pdf"
+    },
+    {
+      "text": "2026/04/24 NEWS 「第2回 鉄道技術展・大阪2026に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260424-01.pdf"
+    },
+    {
+      "text": "2026/04/13 NEWS 「TOKYO MXの「THE LEADERS」で紹介されます」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260413.pdf"
+    },
+    {
+      "text": "2026/04/01 その他 「営業所長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260401.pdf"
+    },
+    {
+      "text": "2026/04/01 その他 組織図を更新しました。",
+      "link": "https://www.daido-signal.co.jp/company/organization.html"
+    },
+    {
+      "text": "2026/03/19 NEWS 「「健康経営優良法人2026（大規模法人部門）」に認定されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260319.pdf"
+    },
+    {
+      "text": "2026/03/06 NEWS 「JR電話廃止のお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20260306.pdf"
+    },
+    {
+      "text": "2026/02/06 決算情報 「2026年3月期 第3四半期決算短信〔日本基準〕(連結)」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20260206.pdf"
+    },
+    {
+      "text": "2025/12/12 NEWS 「福島テレビ『アスノタクト』放送映像を公式YouTubeで公開しました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20251212.pdf"
+    },
+    {
+      "text": "2025/11/27 NEWS 「「ふくしま鉄道博」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20251127.pdf"
+    },
+    {
+      "text": "2025/11/11 NEWS 「第9回 鉄道技術展2025 に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20251111.pdf"
+    },
+    {
+      "text": "2025/11/07 適時開示情報 「2026年3月期 業績予想の修正及び配当予想の修正（増配）、特別利益（投資有価証券売却益）の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20251107-02.pdf"
+    },
+    {
+      "text": "2025/11/07 決算情報 「2026年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結)」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20251107.pdf"
+    },
+    {
+      "text": "2025/10/31 NEWS 「福島テレビ『アスノタクト』で紹介されます 」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20251031.pdf"
+    },
+    {
+      "text": "2025/10/01 その他 「営業所長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20251001.pdf"
+    },
+    {
+      "text": "2025/08/08 決算情報 「2026年3月期  第1四半期決算短信〔日本基準〕(連結)」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_202500808.pdf"
+    },
+    {
+      "text": "2025/07/01 その他 「中期経営計画トップインタビュー」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/plan.html#Banner"
+    },
+    {
+      "text": "2025/06/27 NEWS 「役員就任挨拶状廃止のお知らせおよび役員就任のご挨拶」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250627.pdf"
+    },
+    {
+      "text": "2025/06/27 適時開示情報 「中期経営計画の進捗に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250627-3.pdf"
+    },
+    {
+      "text": "2025/06/27 適時開示情報 「コーポレートガバナンスに関する報告書」を更新しました。",
+      "link": "https://www.daido-signal.co.jp/images/corporate_governance/corporate_governance.pdf"
+    },
+    {
+      "text": "2025/06/27 株主総会関連情報 「 第79期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250627.pdf"
+    },
+    {
+      "text": "2025/06/03 その他 「 資本コストや株価を意識した経営の実現に向けた対応について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250603.pdf"
+    },
+    {
+      "text": "2025/06/03 株主総会関連情報 「 第79期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250603.pdf"
+    },
+    {
+      "text": "2025/05/22 NEWS 「「JECA FAIR 2025 ～第73回電設工業展～」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250522.pdf"
+    },
+    {
+      "text": "2025/05/15 適時開示情報 「2025年3月期配当予想の修正（増配）に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250515-3.pdf"
+    },
+    {
+      "text": "2025/05/15 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250515-2.pdf"
+    },
+    {
+      "text": "2025/05/15 決算情報 「2025年3月期 決算短信〔日本基準〕(連結)」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250515-1.pdf"
+    },
+    {
+      "text": "2025/04/25 NEWS 「「のりまち就活サイト」に協賛いたしました 」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250425.pdf"
+    },
+    {
+      "text": "2025/04/01 その他 九州支社の住所表記が変更になりました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-kyusyushisya"
+    },
+    {
+      "text": "2025/04/01 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250401_01.pdf"
+    },
+    {
+      "text": "2025/04/01 その他 「大阪支店金沢営業所 閉鎖のお知らせ 」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250401_02.pdf"
+    },
+    {
+      "text": "2025/04/01 その他 組織図を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2025/03/17 NEWS 「「健康経営優良法人2025（大規模法人部門）」に認定されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20250312.pdf"
+    },
+    {
+      "text": "2025/02/06 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250206_2.pdf"
+    },
+    {
+      "text": "2025/02/06 決算情報 「2025年3月期 第3四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20250206_1.pdf"
+    },
+    {
+      "text": "2024/11/22 NEWS 「「ふくしま鉄道博」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20241122.pdf"
+    },
+    {
+      "text": "2024/11/20 適時開示情報 「特別利益（受取保険金）の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20241120.pdf"
+    },
+    {
+      "text": "2024/11/08 決算情報 「2025年3月期 第2四半期（中間期）決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20241108.pdf"
+    },
+    {
+      "text": "2024/10/21 適時開示情報 「特別利益（受取保険金）の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20241018.pdf"
+    },
+    {
+      "text": "2024/10/01 その他 「支社長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20241001.pdf"
+    },
+    {
+      "text": "2024/09/10 NEWS 「「Japan Robot Week 2024」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_news_20240910.pdf"
+    },
+    {
+      "text": "2024/08/09 適時開示情報 「自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_202400809.pdf"
+    },
+    {
+      "text": "2024/08/08 適時開示情報 「自己株式取得の再開及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_202400808-2.pdf"
+    },
+    {
+      "text": "2024/08/08 適時開示情報 「法人税等調整額（損）の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_202400808-3.pdf"
+    },
+    {
+      "text": "2024/08/08 決算情報 「2025年3月期第1四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_202400808.pdf"
+    },
+    {
+      "text": "2024/07/01 NEWS 「当社グループ会社における火災について（最終報）」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_news_20240701.pdf"
+    },
+    {
+      "text": "2024/06/27 適時開示情報 「コーポレートガバナンスに関する報告書」を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2024/06/27 株主総会関連情報 「第78期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240627.pdf"
+    },
+    {
+      "text": "2024/06/03 株主総会関連情報 「第78期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240603.pdf"
+    },
+    {
+      "text": "2024/05/21 NEWS 「「JECA FAIR 2024 〜第72 回電設⼯業展〜」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/assets/image/news/pdf/daido_news_20240521.pdf"
+    },
+    {
+      "text": "2024/05/17 適時開示情報 「自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得の一時中断に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240517.pdf"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516-07.pdf"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「自己株式の取得枠設定に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516-06.pdf"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「「株式給付信託（従業員持株会処分型）」の導入（詳細決定）に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516-05.pdf"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「中期経営計画（2024-2026）」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/plan.html"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「2024年３月期業績予想と決算値との差異及び役員報酬の返上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516-03.pdf"
+    },
+    {
+      "text": "2024/05/16 決算情報 「2024年3月期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516-02.pdf"
+    },
+    {
+      "text": "2024/05/16 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240516.pdf"
+    },
+    {
+      "text": "2024/05/10 適時開示情報 「特別利益（受取保険金）の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240510.pdf"
+    },
+    {
+      "text": "2024/05/08 その他 当社ホームページをリニューアルしました。",
+      "link": ""
+    },
+    {
+      "text": "2024/04/23 適時開示情報 「特別利益（投資有価証券売却益）の計上に関するお知らせ 」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240423.pdf"
+    },
+    {
+      "text": "2024/04/17 NEWS 「電気学会より当社が開発に関わった鉄道用単線自動閉そく「電子閉そくシステム」が顕彰されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240417.pdf"
+    },
+    {
+      "text": "2024/04/01 その他 九州支社のJR電話を廃止しました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-kyusyushisya"
+    },
+    {
+      "text": "2024/04/01 その他 組織図を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2024/03/21 NEWS 「公式LINEスタンプ第三弾の販売について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240321_2.pdf"
+    },
+    {
+      "text": "2024/03/21 適時開示情報 「「株式給付信託（従業員持株会処分型）」の導入に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240321_1.pdf"
+    },
+    {
+      "text": "2024/03/11 NEWS 「「健康経営優良法人2024（大規模法人部門）」に認定されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240311.pdf"
+    },
+    {
+      "text": "2024/02/13 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240213.pdf"
+    },
+    {
+      "text": "2024/02/09 適時開示情報 「2024年3月期業績予想の修正及び繰延税金資産の取崩しに関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240209.pdf"
+    },
+    {
+      "text": "2024/02/09 決算情報 「2024年3月期第3四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/79_3.pdf"
+    },
+    {
+      "text": "2024/01/05 その他 「営業所長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20240105.pdf"
+    },
+    {
+      "text": "2023/12/25 NEWS 「「terminal.0 HANEDA」への参画のお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231225.pdf"
+    },
+    {
+      "text": "2023/12/21 株主総会関連情報 「事業報告書（株主通信）廃止及び定時株主総会決議ご通知の送付廃止のお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231221.pdf"
+    },
+    {
+      "text": "2023/11/15 NEWS 「2023国際ロボット展に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231115.pdf"
+    },
+    {
+      "text": "2023/11/10 適時開示情報 「法人税等調整額（益）の計上及び業績予想の修正に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231110.pdf"
+    },
+    {
+      "text": "2023/11/10 決算情報 「2024年3月期第2四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/79_2.pdf"
+    },
+    {
+      "text": "2023/11/02 適時開示情報 「特別損失の計上に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231102.pdf"
+    },
+    {
+      "text": "2023/11/01 NEWS 「公式LINEスタンプ第二弾の販売について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231101_2.pdf"
+    },
+    {
+      "text": "2023/11/01 NEWS 「ジョブ・リターン採用（再入社制度）について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231101.pdf"
+    },
+    {
+      "text": "2023/10/06 適時開示情報 「当社グループ会社における火災について（第2報）」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231006.pdf"
+    },
+    {
+      "text": "2023/10/04 NEWS 「第8回 鉄道技術展2023に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20231004.pdf"
+    },
+    {
+      "text": "2023/09/25 適時開示情報 「当社グループ会社における火災について（第1報）」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230925.pdf"
+    },
+    {
+      "text": "2023/09/21 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230921.pdf"
+    },
+    {
+      "text": "2023/08/21 その他 盛岡支所が移転しました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-moriokashisyo"
+    },
+    {
+      "text": "2023/08/04 決算情報 「2024年3月期第1四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/79_1.pdf"
+    },
+    {
+      "text": "2023/08/01 その他 「営業所長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230801.pdf"
+    },
+    {
+      "text": "2023/07/03 適時開示情報 「3ヶ年経営計画（2021-2023）」の進捗を掲載しました。",
+      "link": ""
+    },
+    {
+      "text": "2023/06/29 適時開示情報 「コーポレートガバナンスに関する報告書」を掲載しました。",
+      "link": ""
+    },
+    {
+      "text": "2023/06/29 株主総会関連情報 「第77期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230629.pdf"
+    },
+    {
+      "text": "2023/06/05 NEWS 「マスク＆チケットホルダーの販売について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230605_2.pdf"
+    },
+    {
+      "text": "2023/06/05 株主総会関連情報 「第77期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230605_1.pdf"
+    },
+    {
+      "text": "2023/05/18 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230518_2.pdf"
+    },
+    {
+      "text": "2023/05/18 適時開示情報 「2023年3月期通期連結業績予想と決算値との差異に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230518_1.pdf"
+    },
+    {
+      "text": "2023/05/18 決算情報 「2023年3月期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/78_4.pdf"
+    },
+    {
+      "text": "2023/05/15 NEWS 「「JECA FAIR 2023 ～第71回電設工業展～」に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230515.pdf"
+    },
+    {
+      "text": "2023/04/03 その他 「⼈事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230403.pdf"
+    },
+    {
+      "text": "2023/04/03 その他 組織図を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2023/03/02 NEWS 「⽇本橋ふくしま館 MIDETTEに出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230302.pdf"
+    },
+    {
+      "text": "2023/02/22 NEWS 「福島県知事が浅川事業所に来所されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230222.pdf"
+    },
+    {
+      "text": "2023/02/17 NEWS 「踏切しゃ断機 WL‐S形 アクリルジオラマの販売について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230217.pdf"
+    },
+    {
+      "text": "2023/02/03 決算情報 「2023年3月期第3四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/78_3.pdf"
+    },
+    {
+      "text": "2023/02/03 適時開示情報 「組織改編および役員の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230203.pdf"
+    },
+    {
+      "text": "2023/02/01 その他 「⼈事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230201.pdf"
+    },
+    {
+      "text": "2023/01/20 株主総会関連情報 「「株主総会資料の電子提供制度」に係る当社の対応について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20230120.pdf"
+    },
+    {
+      "text": "2022/11/30 NEWS 「危機管理産業展(RISCON TOKYO)2022に出展いたしました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20221130.pdf"
+    },
+    {
+      "text": "2022/11/14 NEWS 「公式LINEスタンプの販売について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20221114.pdf"
+    },
+    {
+      "text": "2022/11/14 株式情報 株主・投資家の皆様へに株式情報のページを追加しました。",
+      "link": "https://www.daido-signal.co.jp/financial/stock_info.html"
+    },
+    {
+      "text": "2022/11/11 決算情報 「2023年3月期第2四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/78_2.pdf"
+    },
+    {
+      "text": "2022/08/22 その他 長野営業所の住所表記が変更になりました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-naganoeigyousyo"
+    },
+    {
+      "text": "2022/08/05 決算情報 「2023年3月期第1四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/78_1.pdf"
+    },
+    {
+      "text": "2022/06/29 適時開示情報 「コーポレートガバナンスに関する報告書」を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2022/06/29 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220629_2.pdf"
+    },
+    {
+      "text": "2022/06/29 株主総会関連情報 「第76期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220629_1.pdf"
+    },
+    {
+      "text": "2022/06/07 株主総会関連情報 「第76期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220607.pdf"
+    },
+    {
+      "text": "2022/05/19 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220519_2.pdf"
+    },
+    {
+      "text": "2022/05/19 適時開示情報 「定款の一部変更に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220519_1.pdf"
+    },
+    {
+      "text": "2022/05/19 決算情報 「2022年3月期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/77_4.pdf"
+    },
+    {
+      "text": "2022/04/01 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220401.pdf"
+    },
+    {
+      "text": "2022/04/01 その他 組織図を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2022/03/31 その他 会社概要に健康経営のページを追加しました。",
+      "link": ""
+    },
+    {
+      "text": "2022/03/17 その他 「グループ会社の社名変更のお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220317.pdf"
+    },
+    {
+      "text": "2022/02/04 決算情報 「2022年3月期第3四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/77_3.pdf"
+    },
+    {
+      "text": "2022/01/24 NEWS 「作業服のリニューアルについて」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20220124.pdf"
+    },
+    {
+      "text": "2021/12/01 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20211201.pdf"
+    },
+    {
+      "text": "2021/11/25 その他 「年賀状取り止めのお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20211125.pdf"
+    },
+    {
+      "text": "2021/11/11 NEWS 「第7回 鉄道技術展2021に出展いたします」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20211111.pdf"
+    },
+    {
+      "text": "2021/11/05 決算情報 「2022年3月期第2四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/77_2.pdf"
+    },
+    {
+      "text": "2021/10/22 電子公告 「株主名簿管理人の本店および事務取扱場所の所在地変更に関する公告」を掲載しました。 2021/09/29 NEWS 「第１回「TOKYOテレワークアワード」推進賞の受賞について」を掲載しました。 2021/08/23 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。 2021/08/17 その他 「新型コロナウイルス感染者の発生状況について」を",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210929.pdf"
+    },
+    {
+      "text": "2021/09/29 NEWS 「第１回「TOKYOテレワークアワード」推進賞の受賞について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210929.pdf"
+    },
+    {
+      "text": "2021/08/23 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210823.pdf"
+    },
+    {
+      "text": "2021/08/17 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210817.pdf"
+    },
+    {
+      "text": "2021/08/13 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210813.pdf"
+    },
+    {
+      "text": "2021/08/06 決算情報 「2022年3月期第1四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/77_1.pdf"
+    },
+    {
+      "text": "2021/07/16 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210716.pdf"
+    },
+    {
+      "text": "2021/07/01 その他 「支社長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210701.pdf"
+    },
+    {
+      "text": "2021/07/01 適時開示情報 「コーポレートガバナンスに関する報告書」を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2021/06/29 株主総会関連情報 「第75期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210629.pdf"
+    },
+    {
+      "text": "2021/06/09 その他 「新型コロナウイルス感染者の発生状況について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210609.pdf"
+    },
+    {
+      "text": "2021/06/07 株主総会関連情報 「第75期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210607.pdf"
+    },
+    {
+      "text": "2021/05/24 適時開示情報 「3ヶ年経営計画（2021-2023）」を掲載しました。",
+      "link": ""
+    },
+    {
+      "text": "2021/05/24 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210524_1.pdf"
+    },
+    {
+      "text": "2021/05/20 決算情報 「2021年3月期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/76_4.pdf"
+    },
+    {
+      "text": "2021/05/12 適時開示情報 「業績予想の修正に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210512.pdf"
+    },
+    {
+      "text": "2021/04/21 NEWS 「福島県より浅川事業所が「空気のきれいな施設」として認証されました」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210421.pdf"
+    },
+    {
+      "text": "2021/04/01 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210401.pdf"
+    },
+    {
+      "text": "2021/04/01 その他 組織図を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2021/03/08 その他 九州支社が移転しました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-kyusyushisya"
+    },
+    {
+      "text": "2021/02/09 NEWS 「港区景観表彰 景観街づくり賞特別賞を受賞」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210209.pdf"
+    },
+    {
+      "text": "2021/02/05 決算情報 「2021年3月期第3四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/76_3.pdf"
+    },
+    {
+      "text": "2021/02/05 適時開示情報 「役員の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210205.pdf"
+    },
+    {
+      "text": "2021/01/25 その他 北海道支社が移転しました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-hokkaidoshisya"
+    },
+    {
+      "text": "2021/01/05 その他 「人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20210105.pdf"
+    },
+    {
+      "text": "2020/11/06 決算情報 「2021年3月期第2四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/76_2.pdf"
+    },
+    {
+      "text": "2020/11/02 その他 「支社長の人事に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20201102.pdf"
+    },
+    {
+      "text": "2020/10/15 適時開示情報 「業績予想に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20201015.pdf"
+    },
+    {
+      "text": "2020/09/28 その他 「人事異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200928.pdf"
+    },
+    {
+      "text": "2020/09/17 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200917.pdf"
+    },
+    {
+      "text": "2020/09/03 NEWS 「GNSS 及び汎用携帯無線通信網を活用した踏切制御システムについて」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200903.pdf"
+    },
+    {
+      "text": "2020/08/06 決算情報 「2021年3月期第1四半期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/76_1.pdf"
+    },
+    {
+      "text": "2020/06/29 適時開示情報 コーポレートガバナンスに関する報告書を更新しました。",
+      "link": ""
+    },
+    {
+      "text": "2020/06/26 株主総会関連情報 「第74期定時株主総会決議ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200626.pdf"
+    },
+    {
+      "text": "2020/06/15 株主総会関連情報 「第74期定時株主総会における新型コロナウイルス感染拡大防止策について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200615.pdf"
+    },
+    {
+      "text": "2020/06/05 株主総会関連情報 「第74期定時株主総会招集ご通知に際してのインターネット開示事項」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200605_2.pdf"
+    },
+    {
+      "text": "2020/06/05 株主総会関連情報 「第74期定時株主総会招集ご通知」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200605_1.pdf"
+    },
+    {
+      "text": "2020/06/03 決算情報 「2020年3月期決算短信」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/75_4.pdf"
+    },
+    {
+      "text": "2020/06/01 その他 「緊急事態宣言解除に伴う当社の対応について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200601.pdf"
+    },
+    {
+      "text": "2020/05/20 適時開示情報 「2020年３月期決算発表の日程に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200520_2.pdf"
+    },
+    {
+      "text": "2020/05/20 適時開示情報 「役員等の異動に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200520_1.pdf"
+    },
+    {
+      "text": "2020/05/18 その他 秋田営業所のフロアが4階から5階に移動しました。",
+      "link": "https://www.daido-signal.co.jp/company/map.html#is-akitaeigyousyo"
+    },
+    {
+      "text": "2020/05/08 その他 「緊急事態宣言発出に伴う対応の継続について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200508.pdf"
+    },
+    {
+      "text": "2020/04/28 適時開示情報 「2020年3月期決算発表の延期に関するお知らせ」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200428.pdf"
+    },
+    {
+      "text": "2020/04/16 その他 「新型コロナウイルス感染者の発生について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200416.pdf"
+    },
+    {
+      "text": "2020/04/13 その他 「緊急事態宣言発出に伴う当社の対応について」を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200413.pdf"
+    },
+    {
+      "text": "2020/04/01 その他 人事異動に関するお知らせを掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200401.pdf"
+    },
+    {
+      "text": "2020/02/07 決算情報 2020年3月期第3四半期決算短信を掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/75_3.pdf"
+    },
+    {
+      "text": "2020/02/07 適時開示情報 役員の人事に関するお知らせを掲載しました。",
+      "link": "https://www.daido-signal.co.jp/financial/file/daido_ir_20200207.pdf"
+    }
+  ]
+}
