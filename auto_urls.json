@@ -1,9 +1,4788 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-08-16T12:01:23.124600+00:00",
   "criteria": {
     "per_max": 12.0,
-    "pbr_max": 1.0
+    "pbr_max": 1.0,
+    "basis": "trailing"
   },
-  "sites": [],
-  "unresolved": []
+  "sites": [
+    {
+      "name": "KYOKUYO CO LTD",
+      "url": "https://www.kyokuyo.co.jp/news/003149.html",
+      "symbol": "1301.T",
+      "per": 8.20341,
+      "pbr": 0.70941454,
+      "auto": true
+    },
+    {
+      "name": "HOKUTO CORP",
+      "url": "https://www.hokto-kinoko.co.jp/corporate/ir/news/",
+      "symbol": "1379.T",
+      "per": 10.395162,
+      "pbr": 0.96967834,
+      "auto": true
+    },
+    {
+      "name": "SANYO HOMES CORPORATION",
+      "url": "https://www.sanyohomes.co.jp/release/20260330_2.html",
+      "symbol": "1420.T",
+      "per": 5.1867557,
+      "pbr": 0.48802572,
+      "auto": true
+    },
+    {
+      "name": "INPEX CORPORATION",
+      "url": "https://www.inpex.com/news/",
+      "symbol": "1605.T",
+      "per": 10.214443,
+      "pbr": 0.8614318,
+      "auto": true
+    },
+    {
+      "name": "JAPAN PETROLEUM EXPLORATION CO ",
+      "url": "https://www.japex.co.jp/news/ir/",
+      "symbol": "1662.T",
+      "per": 8.718563,
+      "pbr": 0.7877939,
+      "auto": true
+    },
+    {
+      "name": "DAI-ICHI CUTTER KOGYO KK",
+      "url": "https://www.daiichi-cutter.co.jp/news/",
+      "symbol": "1716.T",
+      "per": 10.51558,
+      "pbr": 0.8375275,
+      "auto": true
+    },
+    {
+      "name": "TAIYO KISOKOGYO CO",
+      "url": "https://taiyoukiso.co.jp/news/4559/",
+      "symbol": "1758.T",
+      "per": 10.638298,
+      "pbr": 0.5098898,
+      "auto": true
+    },
+    {
+      "name": "TAKAMATSU CONSTRUCTION GROUP CO",
+      "url": "https://www.takamatsu-cg.co.jp/news/99acf9c287baa96675d9fc42485d96421c5bc073.html",
+      "symbol": "1762.T",
+      "per": 12.195122,
+      "pbr": 0.9457427,
+      "auto": true
+    },
+    {
+      "name": "KUDO CORP",
+      "url": "https://www.kudo.co.jp/news/",
+      "symbol": "1764.T",
+      "per": 6.8775406,
+      "pbr": 0.57006913,
+      "auto": true
+    },
+    {
+      "name": "SONEC CORP",
+      "url": "https://www.sonec-const.co.jp/news/",
+      "symbol": "1768.T",
+      "per": 5.5309143,
+      "pbr": 0.7359408,
+      "auto": true
+    },
+    {
+      "name": "FUJITA ENGINEERING CO",
+      "url": "https://www.fujita-eng.co.jp/news/",
+      "symbol": "1770.T",
+      "per": 10.548629,
+      "pbr": 0.8726443,
+      "auto": true
+    },
+    {
+      "name": "SANTO CORPORATION",
+      "url": "https://www.santo.co.jp/news/",
+      "symbol": "1788.T",
+      "per": 8.305712,
+      "pbr": 0.7128581,
+      "auto": true
+    },
+    {
+      "name": "MATSUI CONSTRUCTION CO",
+      "url": "https://www.matsui-ken.co.jp/press",
+      "symbol": "1810.T",
+      "per": 9.680606,
+      "pbr": 0.7271817,
+      "auto": true
+    },
+    {
+      "name": "TEKKEN CORP",
+      "url": "https://www.tekken.co.jp/ir/calendar.html",
+      "symbol": "1815.T",
+      "per": 12.033677,
+      "pbr": 0.7975883,
+      "auto": true
+    },
+    {
+      "name": "NAKANO CORPORATION",
+      "url": "https://www.wave-nakano.co.jp/news/614",
+      "symbol": "1827.T",
+      "per": 10.881154,
+      "pbr": 0.9563325,
+      "auto": true
+    },
+    {
+      "name": "TANABE ENGINEERING CORP",
+      "url": "https://www.tanabe-ind.co.jp/news_release/news/4313.html",
+      "symbol": "1828.T",
+      "per": 7.246421,
+      "pbr": 0.9006466,
+      "auto": true
+    },
+    {
+      "name": "FUJI P.S CORPORATION",
+      "url": "https://www.fujips.co.jp/news/detail/3773/",
+      "symbol": "1848.T",
+      "per": 12.375533,
+      "pbr": 0.92716676,
+      "auto": true
+    },
+    {
+      "name": "NANKAI TATSUMURA CONSTRUCTION C",
+      "url": "https://www.nantatsu.co.jp/ir/",
+      "symbol": "1850.T",
+      "per": 5.7138925,
+      "pbr": 0.5986322,
+      "auto": true
+    },
+    {
+      "name": "TODA CORP",
+      "url": "https://www.toda.co.jp/news/",
+      "symbol": "1860.T",
+      "per": 12.062952,
+      "pbr": 0.91451925,
+      "auto": true
+    },
+    {
+      "name": "KITANO CONSTRUCTION CORP",
+      "url": "https://www.kitano.co.jp/news/%e8%ad%b2%e6%b8%a1%e5%88%b6%e9%99%90%e4%bb%98%e6%a0%aa%e5%bc%8f%e5%a0%b1%e9%85%ac%e3%81%a8%e3%81%97%e3%81%a6%e3%81%ae%e8%87%aa%e5%b7%b1%e6%a0%aa%e5%bc%8f%e3%81%ae%e5%87%a6%e5%88%86%e3%81%ae%e6%89%95-2/",
+      "symbol": "1866.T",
+      "per": 8.292106,
+      "pbr": 0.5449679,
+      "auto": true
+    },
+    {
+      "name": "UEKI CORP",
+      "url": "https://www.uekigumi.co.jp/news/7084/",
+      "symbol": "1867.T",
+      "per": 7.3638225,
+      "pbr": 0.56242406,
+      "auto": true
+    },
+    {
+      "name": "NIHON HOUSE HOLDINGS CO LTD",
+      "url": "https://www.nihonhouse-hd.co.jp/company/newsrelease/",
+      "symbol": "1873.T",
+      "per": 9.522388,
+      "pbr": 0.56006575,
+      "auto": true
+    },
+    {
+      "name": "SHINNIHON CORP",
+      "url": "https://www.shinnihon-c.co.jp/ir/news/",
+      "symbol": "1879.T",
+      "per": 8.81042,
+      "pbr": 0.9902486,
+      "auto": true
+    },
+    {
+      "name": "JDC CORPORATION",
+      "url": "https://www.n-kokudo.co.jp/ir/calendar/",
+      "symbol": "1887.T",
+      "per": 7.812729,
+      "pbr": 0.59852993,
+      "auto": true
+    },
+    {
+      "name": "WAKACHIKU CONSTRUCTION CO",
+      "url": "https://www.wakachiku.co.jp/news/#ir",
+      "symbol": "1888.T",
+      "per": 11.324881,
+      "pbr": 0.93273616,
+      "auto": true
+    },
+    {
+      "name": "FUKUDA CORP",
+      "url": "https://www.fkd.co.jp/news/24166/",
+      "symbol": "1899.T",
+      "per": 10.988888,
+      "pbr": 0.86676776,
+      "auto": true
+    },
+    {
+      "name": "D&M COMPANY CO LTD",
+      "url": "https://www.dmcompany.co.jp/ir/news",
+      "symbol": "189A.T",
+      "per": 10.395564,
+      "pbr": 0.9545339,
+      "auto": true
+    },
+    {
+      "name": "TENOX CORP",
+      "url": "https://www.tenox.co.jp/category/ir/",
+      "symbol": "1905.T",
+      "per": 10.40618,
+      "pbr": 0.73358,
+      "auto": true
+    },
+    {
+      "name": "SUMITOMO FORESTRY CO",
+      "url": "https://sfc.jp/information/ir/news/",
+      "symbol": "1911.T",
+      "per": 9.803637,
+      "pbr": 0.6654201,
+      "auto": true
+    },
+    {
+      "name": "JAPAN FOUNDATION ENGINEERING CO",
+      "url": "https://www.jafec.co.jp/news-release",
+      "symbol": "1914.T",
+      "per": 8.176241,
+      "pbr": 0.5424294,
+      "auto": true
+    },
+    {
+      "name": "TOMOE CORPORATION",
+      "url": "https://www.tomoe-corporation.co.jp/ir/other.html",
+      "symbol": "1921.T",
+      "per": 11.273818,
+      "pbr": 0.8525581,
+      "auto": true
+    },
+    {
+      "name": "HOKURIKU ELECTRICAL CONSTRUCTIO",
+      "url": "https://www.rikudenko.co.jp/ir/news/",
+      "symbol": "1930.T",
+      "per": 10.893215,
+      "pbr": 0.90760714,
+      "auto": true
+    },
+    {
+      "name": "NIPPON RIETEC CO LTD",
+      "url": "https://www.j-rietec.co.jp/news/company/2670/",
+      "symbol": "1938.T",
+      "per": 10.893431,
+      "pbr": 0.89348006,
+      "auto": true
+    },
+    {
+      "name": "CHUGAI RO CO LTD",
+      "url": "https://chugai.co.jp/ir/news",
+      "symbol": "1964.T",
+      "per": 6.523157,
+      "pbr": 1.0056351,
+      "auto": true
+    },
+    {
+      "name": "TAKADA CORPORATION",
+      "url": "https://www.takada.co.jp/news/tec/2395/",
+      "symbol": "1966.T",
+      "per": 10.030359,
+      "pbr": 0.5852653,
+      "auto": true
+    },
+    {
+      "name": "NIPPN CORPORATION",
+      "url": "https://www.nippn.co.jp/news/",
+      "symbol": "2001.T",
+      "per": 11.160819,
+      "pbr": 0.8432157,
+      "auto": true
+    },
+    {
+      "name": "SHOWA SANGYO CO",
+      "url": "https://www.showa-sangyo.co.jp/corporate/ir/news/",
+      "symbol": "2004.T",
+      "per": 11.037629,
+      "pbr": 0.7704404,
+      "auto": true
+    },
+    {
+      "name": "FEED ONE CO LTD",
+      "url": "https://www.feed-one.co.jp/ir/calendar.html",
+      "symbol": "2060.T",
+      "per": 8.460339,
+      "pbr": 0.8627943,
+      "auto": true
+    },
+    {
+      "name": "CADOS CORPORATION",
+      "url": "https://cados.jp/category/news/",
+      "symbol": "211A.T",
+      "per": null,
+      "pbr": 0.7665238,
+      "auto": true
+    },
+    {
+      "name": "LIFULL CO LTD",
+      "url": "https://lifull.com/ir-news/",
+      "symbol": "2120.T",
+      "per": 9.414956,
+      "pbr": 1.5724288,
+      "auto": true
+    },
+    {
+      "name": "E J HOLDINGS INC",
+      "url": "https://www.ejec.ej-hds.co.jp/all/news/okayamasdgs_exhibition2026/",
+      "symbol": "2153.T",
+      "per": 8.695652,
+      "pbr": 0.7919356,
+      "auto": true
+    },
+    {
+      "name": "FIRST BAKING CO",
+      "url": "https://www.daiichipan.co.jp/news/9074/",
+      "symbol": "2215.T",
+      "per": 14.023733,
+      "pbr": 0.5149563,
+      "auto": true
+    },
+    {
+      "name": "MEGMILK SNOW BRAND CO.LTD",
+      "url": "https://www.meg-snow.com/news/",
+      "symbol": "2270.T",
+      "per": 6.9832134,
+      "pbr": 0.90294755,
+      "auto": true
+    },
+    {
+      "name": "HAYASHIKANE SANGYO CO",
+      "url": "https://www.hayashikane.co.jp/ir/news/",
+      "symbol": "2286.T",
+      "per": 5.6657777,
+      "pbr": 0.5242718,
+      "auto": true
+    },
+    {
+      "name": "MARUDAI FOOD CO",
+      "url": "https://www.marudai.jp/corporate/sustainability/newslist.html",
+      "symbol": "2288.T",
+      "per": 5.5679173,
+      "pbr": 0.71960413,
+      "auto": true
+    },
+    {
+      "name": "FUKUTOME MEAT PACKERS",
+      "url": "https://www.fukutome.com/ir/ir-news/",
+      "symbol": "2291.T",
+      "per": 5.4170613,
+      "pbr": 0.6909181,
+      "auto": true
+    },
+    {
+      "name": "KYOKUTO CO LTD",
+      "url": "https://k-cleaning.jp/category/news/",
+      "symbol": "2300.T",
+      "per": 49.021526,
+      "pbr": 0.81634516,
+      "auto": true
+    },
+    {
+      "name": "TOHOKUSHINSHA FILM CORPORATION",
+      "url": "https://www.tfc.co.jp/news/2026/08/24535/",
+      "symbol": "2329.T",
+      "per": 9.679969,
+      "pbr": 0.78514946,
+      "auto": true
+    },
+    {
+      "name": "HUMAN HLDGS CO.LTD",
+      "url": "https://www.athuman.com/news/",
+      "symbol": "2415.T",
+      "per": 7.445912,
+      "pbr": 0.85271883,
+      "auto": true
+    },
+    {
+      "name": "TSUKADA GLOBAL HOLDINGS INC",
+      "url": "https://www.tsukada-global.holdings/ir/news/",
+      "symbol": "2418.T",
+      "per": 10.559773,
+      "pbr": 0.7151219,
+      "auto": true
+    },
+    {
+      "name": "WORLD HOLDINGS CO LTD",
+      "url": "https://www.world-hd.co.jp/irrelease/2026/",
+      "symbol": "2429.T",
+      "per": 8.389262,
+      "pbr": 0.996397,
+      "auto": true
+    },
+    {
+      "name": "TAKAMIYA CO LTD",
+      "url": "https://corp.takamiya.co#TabModule403_401",
+      "symbol": "2445.T",
+      "per": 11.072939,
+      "pbr": 0.822454,
+      "auto": true
+    },
+    {
+      "name": "PRAP JAPAN INC",
+      "url": "https://www.prap.co.jp/topics/article/prapglobalnewsrelease_0807/",
+      "symbol": "2449.T",
+      "per": 10.298691,
+      "pbr": 0.87470096,
+      "auto": true
+    },
+    {
+      "name": "TOWNNEWS-SHA CO LTD",
+      "url": "https://www.townnews.co.jp/corporate/",
+      "symbol": "2481.T",
+      "per": 9.47019,
+      "pbr": 0.65299815,
+      "auto": true
+    },
+    {
+      "name": "OENON HOLDINGS INC",
+      "url": "https://www.oenon.jp#tab02",
+      "symbol": "2533.T",
+      "per": 8.006993,
+      "pbr": 0.929468,
+      "auto": true
+    },
+    {
+      "name": "OLBA HEALTHCARE HLDGS INC",
+      "url": "https://www.olba.co.jp/ir/",
+      "symbol": "2689.T",
+      "per": 9.140741,
+      "pbr": 0.8969888,
+      "auto": true
+    },
+    {
+      "name": "KITOKU SHINRYO CO",
+      "url": "https://www.kitoku-shinryo.co.jp/ja/news.html",
+      "symbol": "2700.T",
+      "per": 2.6177855,
+      "pbr": 0.7041334,
+      "auto": true
+    },
+    {
+      "name": "KUZE CO LTD",
+      "url": "https://www.kuze.co.jp",
+      "symbol": "2708.T",
+      "per": 5.2994237,
+      "pbr": 0.9645057,
+      "auto": true
+    },
+    {
+      "name": "ARATA CORPORATION",
+      "url": "https://www.arata-gr.jp/news/?sustainability",
+      "symbol": "2733.T",
+      "per": 8.525186,
+      "pbr": 0.6989848,
+      "auto": true
+    },
+    {
+      "name": "SALA CORPORATION",
+      "url": "https://www.sala.jp/ja/irnews.html",
+      "symbol": "2734.T",
+      "per": 10.3630085,
+      "pbr": 0.7956062,
+      "auto": true
+    },
+    {
+      "name": "WATTS CO LTD",
+      "url": "https://www.watts-jp.com/news/?current=news",
+      "symbol": "2735.T",
+      "per": 10.928526,
+      "pbr": 0.6672732,
+      "auto": true
+    },
+    {
+      "name": "NIPPON PRIMEX INC",
+      "url": "https://www.primex.co.jp/ir/news/",
+      "symbol": "2795.T",
+      "per": 11.037604,
+      "pbr": 0.56956375,
+      "auto": true
+    },
+    {
+      "name": "EBARA FOODS INDUSTRY INC",
+      "url": "https://www.ebarafoods.com/company/press/",
+      "symbol": "2819.T",
+      "per": 13.7549925,
+      "pbr": 0.66976434,
+      "auto": true
+    },
+    {
+      "name": "KENKO MAYONNAISE CO",
+      "url": "https://www.kenkomayo.co.jp/information",
+      "symbol": "2915.T",
+      "per": 10.309123,
+      "pbr": 0.71188635,
+      "auto": true
+    },
+    {
+      "name": "WARABEYA NICHIYO HOLDINGS CO LT",
+      "url": "https://www.warabeya.co.jp/ja/ir/news.html",
+      "symbol": "2918.T",
+      "per": 9.225212,
+      "pbr": 0.8247124,
+      "auto": true
+    },
+    {
+      "name": "PICKLES HOLDINGS CO LTD",
+      "url": "https://www.pickles-hd.co.jp/ir/faq/",
+      "symbol": "2935.T",
+      "per": 10.917234,
+      "pbr": 0.7265393,
+      "auto": true
+    },
+    {
+      "name": "AD WORKS GRP CO LTD",
+      "url": "https://www.adwg.co.jp/ir/",
+      "symbol": "2982.T",
+      "per": 5.191791,
+      "pbr": 1.2744927,
+      "auto": true
+    },
+    {
+      "name": "YAMAICHI REAL ESTATE CO LTD",
+      "url": "https://www.yueg.co.jp/news/",
+      "symbol": "2984.T",
+      "per": 11.669218,
+      "pbr": 0.47581166,
+      "auto": true
+    },
+    {
+      "name": "BANNERS CO LTD",
+      "url": "https://www.banners.jp/ir/news.html",
+      "symbol": "3011.T",
+      "per": 10.603829,
+      "pbr": 0.81271905,
+      "auto": true
+    },
+    {
+      "name": "APPLIED CO.LTD",
+      "url": "https://www.applied-g.jp/ir-news/",
+      "symbol": "3020.T",
+      "per": 5.151999,
+      "pbr": 0.83427095,
+      "auto": true
+    },
+    {
+      "name": "RASA CORPORATION",
+      "url": "https://www.rasaco.co.jp/release/index.html",
+      "symbol": "3023.T",
+      "per": 9.551142,
+      "pbr": 0.95806724,
+      "auto": true
+    },
+    {
+      "name": "KTK INC",
+      "url": "https://www.ktk.gr.jp/news/",
+      "symbol": "3035.T",
+      "per": 11.519954,
+      "pbr": 0.91350234,
+      "auto": true
+    },
+    {
+      "name": "ALCONIX CORPORATION",
+      "url": "https://www.alconix.com/news/2026/08/ceo.html",
+      "symbol": "3036.T",
+      "per": 20.161074,
+      "pbr": 0.99939317,
+      "auto": true
+    },
+    {
+      "name": "HYPER INC",
+      "url": "https://hyperpc.co.jp/news/news04/1909/",
+      "symbol": "3054.T",
+      "per": 9.661836,
+      "pbr": 0.7234886,
+      "auto": true
+    },
+    {
+      "name": "SAIBO CO LTD",
+      "url": "https://www.saibo.co.jp/news.php",
+      "symbol": "3123.T",
+      "per": 7.716421,
+      "pbr": 0.40592524,
+      "auto": true
+    },
+    {
+      "name": "VITAL KSK HOLDINGS INC",
+      "url": "https://www.vitalksk.co.jp/news/details.html",
+      "symbol": "3151.T",
+      "per": 10.593331,
+      "pbr": 0.67768,
+      "auto": true
+    },
+    {
+      "name": "GEOLIVE GROUP CORPORATION",
+      "url": "https://www.geolive.co.jp/ir/calendar/",
+      "symbol": "3157.T",
+      "per": 8.748836,
+      "pbr": 0.7422626,
+      "auto": true
+    },
+    {
+      "name": "MARUZEN CHI HOLDINGS CO LTD",
+      "url": "https://www.maruzen-chi.co.jp/ja/ir/news.html",
+      "symbol": "3159.T",
+      "per": 11.274647,
+      "pbr": 0.67154944,
+      "auto": true
+    },
+    {
+      "name": "SHIROHATO CO LTD",
+      "url": "https://www.shirohato.co.jp/ir/calendar/",
+      "symbol": "3192.T",
+      "per": 3.728684,
+      "pbr": 0.69522053,
+      "auto": true
+    },
+    {
+      "name": "TOABO CORPORATION",
+      "url": "https://www.toabo.co.jp/ir/release/",
+      "symbol": "3204.T",
+      "per": 6.7114096,
+      "pbr": 0.30276442,
+      "auto": true
+    },
+    {
+      "name": "NOMURA REAL ESTATE HOLDINGS INC",
+      "url": "https://www.nomura-re-hd.co.jp/ir/",
+      "symbol": "3231.T",
+      "per": 9.505535,
+      "pbr": 0.98164165,
+      "auto": true
+    },
+    {
+      "name": "CENTRAL GENERAL DEVELOPMENT CO.",
+      "url": "https://central-gd.co.jp/news-release/",
+      "symbol": "3238.T",
+      "per": 25.130209,
+      "pbr": 0.35368422,
+      "auto": true
+    },
+    {
+      "name": "URBANET CORPORATION CO. LTD.",
+      "url": "https://www.urbanet.jp/ir/",
+      "symbol": "3242.T",
+      "per": 8.953168,
+      "pbr": 0.98457444,
+      "auto": true
+    },
+    {
+      "name": "KOSE R.E. CO.LTD",
+      "url": "https://www.kose-re.jp/ir/ir-news",
+      "symbol": "3246.T",
+      "per": 9.910961,
+      "pbr": 0.66222453,
+      "auto": true
+    },
+    {
+      "name": "SANSEI LANDIC CO LTD",
+      "url": "https://www.sansei-l.co.jp/ir/irnews/",
+      "symbol": "3277.T",
+      "per": 10.481943,
+      "pbr": 0.9231636,
+      "auto": true
+    },
+    {
+      "name": "TOUBUJYUHAN CO LTD",
+      "url": "https://www.toubu.co.jp#TabModule403_624",
+      "symbol": "3297.T",
+      "per": 9.115531,
+      "pbr": 0.67643887,
+      "auto": true
+    },
+    {
+      "name": "CROSS PLUS INC",
+      "url": "https://www.crossplus.co.jp/2026/?post_type=ir_page&info",
+      "symbol": "3320.T",
+      "per": 5.6148252,
+      "pbr": 0.51103324,
+      "auto": true
+    },
+    {
+      "name": "MITACHI CO LTD",
+      "url": "https://www.mitachi.co.jp/news/ir_news/bb6cda99b9fafe6160072dd552d6ac8e873efd7e/",
+      "symbol": "3321.T",
+      "per": 6.381626,
+      "pbr": 0.76055664,
+      "auto": true
+    },
+    {
+      "name": "BUFFALO CO LTD",
+      "url": "https://www.buffalo.co.jp/news/860/",
+      "symbol": "3352.T",
+      "per": 9.3456955,
+      "pbr": 0.6327529,
+      "auto": true
+    },
+    {
+      "name": "MEDICAL IKKOU GP CO LTD",
+      "url": "https://www.m-ikkou.co.jp/ir/library/release/2026/irp20260731.html",
+      "symbol": "3353.T",
+      "per": 8.481879,
+      "pbr": 0.68327886,
+      "auto": true
+    },
+    {
+      "name": "KURIYAMA HOLDINGS CORP",
+      "url": "https://www.kuriyama-holdings.com#news-irnews",
+      "symbol": "3355.T",
+      "per": 8.673048,
+      "pbr": 0.66975594,
+      "auto": true
+    },
+    {
+      "name": "TOELL CO.LTD",
+      "url": "https://www.toell.co.jp/newsrelease/",
+      "symbol": "3361.T",
+      "per": 10.182707,
+      "pbr": 0.7463642,
+      "auto": true
+    },
+    {
+      "name": "ZOA CORPORATION",
+      "url": "https://www.zoa.co.jp/news/detail.php?id=1751",
+      "symbol": "3375.T",
+      "per": 6.6935487,
+      "pbr": 0.6886731,
+      "auto": true
+    },
+    {
+      "name": "BIKE O & CO LTD",
+      "url": "https://www.8190.co.jp/ir/schedule/",
+      "symbol": "3377.T",
+      "per": 11.612712,
+      "pbr": 0.7644468,
+      "auto": true
+    },
+    {
+      "name": "MEIJI ELECTRIC INDUSTRIES CO LT",
+      "url": "https://www.meijidenki.co.jp/ja/newsrelease.html",
+      "symbol": "3388.T",
+      "per": 9.624518,
+      "pbr": 0.7075467,
+      "auto": true
+    },
+    {
+      "name": "KFC LTD (JAPAN)",
+      "url": "https://www.kfc-net.co.jp/news-release/news/7203.html",
+      "symbol": "3420.T",
+      "per": 11.324877,
+      "pbr": 0.53415734,
+      "auto": true
+    },
+    {
+      "name": "SANKO TECHNO CO LTD",
+      "url": "https://sanko-techno.co.jp/ir_news",
+      "symbol": "3435.T",
+      "per": 7.2780566,
+      "pbr": 0.57793593,
+      "auto": true
+    },
+    {
+      "name": "TOKUDEN CO.LTD",
+      "url": "https://www.tokuden.co.jp/news/news_cat/ir-information/",
+      "symbol": "3437.T",
+      "per": 9.514584,
+      "pbr": 0.5509016,
+      "auto": true
+    },
+    {
+      "name": "KAWADA TECHNOLOGIES INC",
+      "url": "https://www.kawada.jp/ir/dialogue/",
+      "symbol": "3443.T",
+      "per": 8.291667,
+      "pbr": 0.7269141,
+      "auto": true
+    },
+    {
+      "name": "SHINWA CO LTD",
+      "url": "https://ir.shinwa-jp.com/ja/index.html",
+      "symbol": "3447.T",
+      "per": 8.190099,
+      "pbr": 0.8290884,
+      "auto": true
+    },
+    {
+      "name": "&DO HOLDINGS CO LTD",
+      "url": "https://www.housedo.co.jp/news/",
+      "symbol": "3457.T",
+      "per": 14.285715,
+      "pbr": 0.97367233,
+      "auto": true
+    },
+    {
+      "name": "FORLIFE CO LTD",
+      "url": "https://www.forlifeand.com/news/%ef%bc%9c%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%9e2026%e5%b9%b48%e6%9c%888%e6%97%a5%e5%9c%9f%ef%bd%9e2025%e5%b9%b48%e6%9c%8816%e6%97%a5%e6%97%a5/",
+      "symbol": "3477.T",
+      "per": 6.523176,
+      "pbr": 0.80730057,
+      "auto": true
+    },
+    {
+      "name": "KORYOJYUHAN CO LTD",
+      "url": "https://www.koryo-j.co.jp/news/368",
+      "symbol": "3495.T",
+      "per": 7.391018,
+      "pbr": 0.9463901,
+      "auto": true
+    },
+    {
+      "name": "ICHIKAWA CO LTD",
+      "url": "https://www.ik-felt.co.jp/ir/private/briefing/",
+      "symbol": "3513.T",
+      "per": 12.7879095,
+      "pbr": 0.58667606,
+      "auto": true
+    },
+    {
+      "name": "NITTO SEIMO CO",
+      "url": "https://www.nittoseimo.co.jp/news/",
+      "symbol": "3524.T",
+      "per": 5.6946826,
+      "pbr": 0.47912288,
+      "auto": true
+    },
+    {
+      "name": "SHOEI YAKUHIN CO LTD",
+      "url": "https://www.shoei-yakuhin.co.jp/ir/index.html",
+      "symbol": "3537.T",
+      "per": 10.6158285,
+      "pbr": 0.614631,
+      "auto": true
+    },
+    {
+      "name": "DENSAN CO LTD",
+      "url": "https://www.ndensan.co.jp/ir/calendar/index.html",
+      "symbol": "3640.T",
+      "per": 3.4794543,
+      "pbr": 0.9724487,
+      "auto": true
+    },
+    {
+      "name": "LIPPS CO LTD",
+      "url": "https://lipps.co.jp/news/",
+      "symbol": "373A.T",
+      "per": 7.326044,
+      "pbr": 0.9588414,
+      "auto": true
+    },
+    {
+      "name": "TECHNO MATHEMATICAL CO.LTD",
+      "url": "https://www.tmath.co.jp/news/category/31181/",
+      "symbol": "3787.T",
+      "per": 8.446455,
+      "pbr": 0.40067774,
+      "auto": true
+    },
+    {
+      "name": "ABALANCE CORPORATION",
+      "url": "https://www.abalance.co.jp/welcome/",
+      "symbol": "3856.T",
+      "per": 0.97493815,
+      "pbr": 0.17676133,
+      "auto": true
+    },
+    {
+      "name": "MITSUBISHI PAPER MILLS",
+      "url": "https://www.mpm.co.jp/ir/news.html",
+      "symbol": "3864.T",
+      "per": 26.592798,
+      "pbr": 0.48789415,
+      "auto": true
+    },
+    {
+      "name": "CHUETSU PULP & PAPER",
+      "url": "https://www.chuetsu-pulp.co.jp/ir-news",
+      "symbol": "3877.T",
+      "per": 11.350656,
+      "pbr": 0.4579328,
+      "auto": true
+    },
+    {
+      "name": "TOMOEGAWA CORPORATION",
+      "url": "https://www.tomoegawa.co.jp/ir/calendar/",
+      "symbol": "3878.T",
+      "per": 9.311104,
+      "pbr": 0.4710798,
+      "auto": true
+    },
+    {
+      "name": "HAVIX CORP",
+      "url": "https://www.havix.co.jp/news/3280248.html",
+      "symbol": "3895.T",
+      "per": 8.136708,
+      "pbr": 0.6115643,
+      "auto": true
+    },
+    {
+      "name": "AWA PAPER MFG CO LTD",
+      "url": "https://www.awapaper.co.jp/news/products/tokushima2025.php",
+      "symbol": "3896.T",
+      "per": 5.350455,
+      "pbr": 0.61512536,
+      "auto": true
+    },
+    {
+      "name": "GUMI INC",
+      "url": "https://www.gu3.co.jp/news/",
+      "symbol": "3903.T",
+      "per": 9.353802,
+      "pbr": 0.6608185,
+      "auto": true
+    },
+    {
+      "name": "SUPERBAG CO LTD",
+      "url": "https://www.superbag.co.jp/news/2026/0803-528.html",
+      "symbol": "3945.T",
+      "per": 3.9951797,
+      "pbr": 0.5750083,
+      "auto": true
+    },
+    {
+      "name": "TOMOKU CO LTD",
+      "url": "https://www.tomoku.co.jp/news/",
+      "symbol": "3946.T",
+      "per": 10.504155,
+      "pbr": 0.75670254,
+      "auto": true
+    },
+    {
+      "name": "DYNAPAC CO LTD",
+      "url": "https://www.dynapac-gr.co.jp/news/index.html",
+      "symbol": "3947.T",
+      "per": 7.751914,
+      "pbr": 0.50583136,
+      "auto": true
+    },
+    {
+      "name": "BEAGLEE INC",
+      "url": "https://www.beaglee.com/news/tag/other/",
+      "symbol": "3981.T",
+      "per": 10.13187,
+      "pbr": 0.87936807,
+      "auto": true
+    },
+    {
+      "name": "SUMITOMO CHEMICAL COMPANY",
+      "url": "https://www.sumitomo-chem.co.jp/news/",
+      "symbol": "4005.T",
+      "per": 14.283792,
+      "pbr": 0.79436266,
+      "auto": true
+    },
+    {
+      "name": "ISHIHARA SANGYO KAISHA",
+      "url": "https://www.iskweb.co.jp/ir/communication.html",
+      "symbol": "4028.T",
+      "per": 7.153043,
+      "pbr": 0.93304044,
+      "auto": true
+    },
+    {
+      "name": "NANKAI CHEMICAL COMPANY LIMITED",
+      "url": "https://www.nankai-chem.co.jp/news/",
+      "symbol": "4040.T",
+      "per": 2.7662468,
+      "pbr": 0.686658,
+      "auto": true
+    },
+    {
+      "name": "NIPPON SODA CO LTD",
+      "url": "https://www.nippon-soda.co.jp/profile/newslogan.html",
+      "symbol": "4041.T",
+      "per": 11.695993,
+      "pbr": 0.99835443,
+      "auto": true
+    },
+    {
+      "name": "NIPPON CARBIDE INDUSTRIES CO IN",
+      "url": "https://www.carbide.co.jp/ir/info/",
+      "symbol": "4064.T",
+      "per": 12.106581,
+      "pbr": 0.81468445,
+      "auto": true
+    },
+    {
+      "name": "TOHO ACETYLENE CO",
+      "url": "https://www.toho-ace.co.jp/ir/",
+      "symbol": "4093.T",
+      "per": 11.402325,
+      "pbr": 0.76883,
+      "auto": true
+    },
+    {
+      "name": "MARUO CALCIUM CO",
+      "url": "https://www.maruo-cal.co.jp/category/news-release/",
+      "symbol": "4102.T",
+      "per": 10.753007,
+      "pbr": 0.29953685,
+      "auto": true
+    },
+    {
+      "name": "HODOGAYA CHEMICAL CO",
+      "url": "https://www.hodogaya.co.jp/investors/news/",
+      "symbol": "4112.T",
+      "per": 12.121212,
+      "pbr": 0.6831489,
+      "auto": true
+    },
+    {
+      "name": "TAOKA CHEMICAL CO",
+      "url": "https://www.taoka-chem.co.jp/ir/news.html",
+      "symbol": "4113.T",
+      "per": 6.953921,
+      "pbr": 0.5487159,
+      "auto": true
+    },
+    {
+      "name": "KANEKA CORP",
+      "url": "https://www.kaneka.co.jp/topics/news/2026/nr2608041.html",
+      "symbol": "4118.T",
+      "per": 12.706518,
+      "pbr": 0.75573224,
+      "auto": true
+    },
+    {
+      "name": "NIPPON PIGMENT HOLDINGS CO LTD",
+      "url": "https://www.pigment.co.jp/ir/enquete/2026/00288.html",
+      "symbol": "4119.T",
+      "per": 8.084064,
+      "pbr": 0.40808228,
+      "auto": true
+    },
+    {
+      "name": "FUJI UNITED HOLDINGS CO LTD",
+      "url": "https://www.fujiunited.com/news/",
+      "symbol": "416A.T",
+      "per": 11.494775,
+      "pbr": 0.8143988,
+      "auto": true
+    },
+    {
+      "name": "KODAMA CHEMICAL INDUSTRY CO",
+      "url": "https://www.kodama-chemical.co.jp/ir/news/",
+      "symbol": "4222.T",
+      "per": 0.46264076,
+      "pbr": 0.38164997,
+      "auto": true
+    },
+    {
+      "name": "LONSEAL CORP",
+      "url": "https://www.lonseal.co.jp/ir/",
+      "symbol": "4224.T",
+      "per": 9.74672,
+      "pbr": 0.50278157,
+      "auto": true
+    },
+    {
+      "name": "SUN A. KAKEN CO LTD",
+      "url": "https://www.sun-a-kaken.co.jp/news/",
+      "symbol": "4234.T",
+      "per": 9.41578,
+      "pbr": 0.39637482,
+      "auto": true
+    },
+    {
+      "name": "LION OFFICE PRODUCTS CORP",
+      "url": "https://www.lion-jimuki.co.jp/ja/ir/news.html",
+      "symbol": "423A.T",
+      "per": 9.310446,
+      "pbr": 0.8086444,
+      "auto": true
+    },
+    {
+      "name": "TAKAGI SEIKO CORPORATION",
+      "url": "https://www.takagi-seiko.co.jp/news/",
+      "symbol": "4242.T",
+      "per": 3.1298661,
+      "pbr": 0.39027125,
+      "auto": true
+    },
+    {
+      "name": "DAIKI AXIS CO LTD",
+      "url": "https://www.daiki-axis.com/ir/mail/",
+      "symbol": "4245.T",
+      "per": 20.24117,
+      "pbr": 0.9089725,
+      "auto": true
+    },
+    {
+      "name": "DAIKYONISHIKAWA CORPORATION",
+      "url": "https://www.daikyonishikawa.co.jp/recruit/news/",
+      "symbol": "4246.T",
+      "per": 8.920374,
+      "pbr": 0.8300809,
+      "auto": true
+    },
+    {
+      "name": "MORIROKU CO LTD",
+      "url": "https://www.moriroku.co.jp/news/2026/20260803.html",
+      "symbol": "4249.T",
+      "per": 17.181828,
+      "pbr": 0.59928596,
+      "auto": true
+    },
+    {
+      "name": "SEIRYO ELECTRIC CORPORATION",
+      "url": "https://www.seiryodenki.co.jp/ir-information/ir-news/",
+      "symbol": "4341.T",
+      "per": 11.806312,
+      "pbr": 0.5520094,
+      "auto": true
+    },
+    {
+      "name": "MANAC CHEMICAL PARTNERS CO LTD",
+      "url": "https://mcps.co.jp/news_category/ir/",
+      "symbol": "4360.T",
+      "per": 9.416196,
+      "pbr": 0.6287261,
+      "auto": true
+    },
+    {
+      "name": "KAWAGUCHI CHEMICAL INDUSTRY CO",
+      "url": "https://www.kawachem.co.jp#tabs-2",
+      "symbol": "4361.T",
+      "per": 5.007503,
+      "pbr": 0.5671165,
+      "auto": true
+    },
+    {
+      "name": "MATSUMOTO YUSHI SEIYAKU CO",
+      "url": "https://www.mtmtys.co.jp/ir/",
+      "symbol": "4365.T",
+      "per": 7.2939487,
+      "pbr": 0.6381173,
+      "auto": true
+    },
+    {
+      "name": "NEW JAPAN CHEMICAL CO",
+      "url": "https://www.nj-chem.co.jp/app/news/",
+      "symbol": "4406.T",
+      "per": 15.970056,
+      "pbr": 0.46056336,
+      "auto": true
+    },
+    {
+      "name": "TOHO CHEMICAL INDUSTRY CO",
+      "url": "https://toho-chem.co.jp/news/8",
+      "symbol": "4409.T",
+      "per": 10.525592,
+      "pbr": 0.6445911,
+      "auto": true
+    },
+    {
+      "name": "HARIMA CHEMICALS GROUP INC",
+      "url": "https://www.harima.co.jp/news_release/",
+      "symbol": "4410.T",
+      "per": 12.048442,
+      "pbr": 0.6766061,
+      "auto": true
+    },
+    {
+      "name": "NE INC",
+      "url": "https://www.ne-inc.jp/news/article/venture_capital_press_2606/",
+      "symbol": "441A.T",
+      "per": 9.03437,
+      "pbr": 0.9910838,
+      "auto": true
+    },
+    {
+      "name": "RICKSOFT CO LTD",
+      "url": "https://www.ricksoft.jp/news/n20260805.html",
+      "symbol": "4429.T",
+      "per": 12.2998295,
+      "pbr": 0.9500288,
+      "auto": true
+    },
+    {
+      "name": "NIITAKA CO LTD",
+      "url": "https://www.niitaka.co.jp/news",
+      "symbol": "4465.T",
+      "per": 7.283262,
+      "pbr": 0.8520946,
+      "auto": true
+    },
+    {
+      "name": "NIPPON SHINYAKU CO",
+      "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/",
+      "symbol": "4516.T",
+      "per": 8.250788,
+      "pbr": 0.83050185,
+      "auto": true
+    },
+    {
+      "name": "FUSO PHARMACEUTICAL INDUSTRIES",
+      "url": "https://www.fuso-pharm.co.jp/news/",
+      "symbol": "4538.T",
+      "per": 9.652362,
+      "pbr": 0.5429666,
+      "auto": true
+    },
+    {
+      "name": "TSUMURA & CO",
+      "url": "https://www.tsumura.co.jp#tab-content03",
+      "symbol": "4540.T",
+      "per": 9.969974,
+      "pbr": 0.85570663,
+      "auto": true
+    },
+    {
+      "name": "ZERIA PHARMACEUTICAL",
+      "url": "https://www.zeria.co.jp/news/",
+      "symbol": "4559.T",
+      "per": 11.001095,
+      "pbr": 0.861286,
+      "auto": true
+    },
+    {
+      "name": "DAITO PHARMACEUTICAL CO.LTD",
+      "url": "https://www.daitonet.co.jp/news/",
+      "symbol": "4577.T",
+      "per": 12.254765,
+      "pbr": 0.71628565,
+      "auto": true
+    },
+    {
+      "name": "KAWAKAMI PAINT MFG CO",
+      "url": "https://www.kawakami-paint.co.jp/news.html",
+      "symbol": "4616.T",
+      "per": 8.503259,
+      "pbr": 0.5766508,
+      "auto": true
+    },
+    {
+      "name": "FUJIKURA KASEI CO",
+      "url": "https://www.fkkasei.co.jp/news/",
+      "symbol": "4620.T",
+      "per": 9.191315,
+      "pbr": 0.5506049,
+      "auto": true
+    },
+    {
+      "name": "ISAMU PAINT CO",
+      "url": "https://www.isamu.co.jp/news/custom02-13489/",
+      "symbol": "4624.T",
+      "per": 9.578495,
+      "pbr": 0.40052634,
+      "auto": true
+    },
+    {
+      "name": "ATOMIX CO LTD",
+      "url": "https://www.atomix.co.jp/ir/other/",
+      "symbol": "4625.T",
+      "per": 4.504504,
+      "pbr": 0.3772359,
+      "auto": true
+    },
+    {
+      "name": "NATOCO CO LTD",
+      "url": "https://www.natoco.co.jp/news/products/news29/",
+      "symbol": "4627.T",
+      "per": 9.425046,
+      "pbr": 0.5373463,
+      "auto": true
+    },
+    {
+      "name": "SK KAKEN CO LTD",
+      "url": "https://www.sk-kaken.co.jp/ir/news/",
+      "symbol": "4628.T",
+      "per": 9.832852,
+      "pbr": 0.6824761,
+      "auto": true
+    },
+    {
+      "name": "DAISHIN CHEMICAL",
+      "url": "https://www.daishin-chemical.co.jp/sustainability/environment/",
+      "symbol": "4629.T",
+      "per": 11.061947,
+      "pbr": 0.54818493,
+      "auto": true
+    },
+    {
+      "name": "TOKYO PRINTING INK MFG CO",
+      "url": "https://www.tokyoink.co.jp/ir/news/",
+      "symbol": "4635.T",
+      "per": 14.184012,
+      "pbr": 0.8264032,
+      "auto": true
+    },
+    {
+      "name": "INTELLEX HOLDINGS CO. LTD.",
+      "url": "https://www.intellex-hd.co.jp/ir/release/archive/",
+      "symbol": "463A.T",
+      "per": 4.8924375,
+      "pbr": 0.58056974,
+      "auto": true
+    },
+    {
+      "name": "IMAGINEER CO LTD",
+      "url": "https://www.imagineer.co.jp/ir/news.php",
+      "symbol": "4644.T",
+      "per": 13.605267,
+      "pbr": 0.82698774,
+      "auto": true
+    },
+    {
+      "name": "PARACA INC",
+      "url": "https://paraca.co.jp/news/ir/",
+      "symbol": "4809.T",
+      "per": 10.581795,
+      "pbr": 0.9733977,
+      "auto": true
+    },
+    {
+      "name": "ASKA PHARMACEUTICAL HOLDINGS CO",
+      "url": "https://www.aska-pharma-hd.co.jp/news/",
+      "symbol": "4886.T",
+      "per": 11.049463,
+      "pbr": 0.8470642,
+      "auto": true
+    },
+    {
+      "name": "KONICA MINOLTA INC",
+      "url": "https://www.konicaminolta.com/global/newsroom/index.html",
+      "symbol": "4902.T",
+      "per": 10.627596,
+      "pbr": 0.6206276,
+      "auto": true
+    },
+    {
+      "name": "NIPPON SHIKIZAI",
+      "url": "https://shikizai.com/news/news-2263/",
+      "symbol": "4920.T",
+      "per": 6.9880853,
+      "pbr": 0.54758686,
+      "auto": true
+    },
+    {
+      "name": "HABA LABORATORIES INC",
+      "url": "https://www.haba.com/ir/ir-news/",
+      "symbol": "4925.T",
+      "per": 8.710784,
+      "pbr": 0.6947518,
+      "auto": true
+    },
+    {
+      "name": "TOYO DRILUBE CO LTD",
+      "url": "https://www.drilube.co.jp/ir/customer.php",
+      "symbol": "4976.T",
+      "per": 8.802817,
+      "pbr": 0.5043478,
+      "auto": true
+    },
+    {
+      "name": "NITTA GELATIN INC",
+      "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+      "symbol": "4977.T",
+      "per": 6.8353305,
+      "pbr": 0.8920813,
+      "auto": true
+    },
+    {
+      "name": "HOKKO CHEMICAL INDUSTRY CO",
+      "url": "https://www.hokkochem.co.jp/archives/category/news",
+      "symbol": "4992.T",
+      "per": 10.438263,
+      "pbr": 0.8647386,
+      "auto": true
+    },
+    {
+      "name": "NIPPON SEIRO CO",
+      "url": "https://www.seiro.co.jp/news/",
+      "symbol": "5010.T",
+      "per": 8.788854,
+      "pbr": 0.7260964,
+      "auto": true
+    },
+    {
+      "name": "YUSHIRO INC",
+      "url": "https://www.yushiro.co.jp/investors",
+      "symbol": "5013.T",
+      "per": 8.424483,
+      "pbr": 0.8083434,
+      "auto": true
+    },
+    {
+      "name": "MORESCO CORP",
+      "url": "https://www.moresco.co.jp/news/",
+      "symbol": "5018.T",
+      "per": 13.351384,
+      "pbr": 0.8443504,
+      "auto": true
+    },
+    {
+      "name": "IDEMITSU KOSAN CO.LTD",
+      "url": "https://www.idemitsu.com/jp/ir/library/shell/news/index.html",
+      "symbol": "5019.T",
+      "per": 9.310861,
+      "pbr": 0.9510436,
+      "auto": true
+    },
+    {
+      "name": "ENEOS HOLDINGS INC",
+      "url": "https://www.hd.eneos.co.jp/news/release_information/tg/",
+      "symbol": "5020.T",
+      "per": 13.440916,
+      "pbr": 0.9181639,
+      "auto": true
+    },
+    {
+      "name": "COSMO ENERGY HLDGS CO LTD",
+      "url": "https://www.cosmo-energy.co.jp/ja/ir/news.html",
+      "symbol": "5021.T",
+      "per": 9.165986,
+      "pbr": 0.973734,
+      "auto": true
+    },
+    {
+      "name": "SUMITOMO RUBBER INDUSTRIES",
+      "url": "https://www.srigroup.co.jp/newsrelease/",
+      "symbol": "5110.T",
+      "per": 10.183495,
+      "pbr": 0.83550674,
+      "auto": true
+    },
+    {
+      "name": "ACHILLES CORP",
+      "url": "https://www.achilles.jp/news/ir/?ref=footer",
+      "symbol": "5142.T",
+      "per": 12.18048,
+      "pbr": 0.580278,
+      "auto": true
+    },
+    {
+      "name": "NICHIRIN CO LTD",
+      "url": "https://www.nichirin.co.jp/newspage",
+      "symbol": "5184.T",
+      "per": 10.183349,
+      "pbr": 0.8704799,
+      "auto": true
+    },
+    {
+      "name": "NIHON YAMAMURA GLASS CO LTD",
+      "url": "https://www.yamamura.co.jp/news?c=IR情報",
+      "symbol": "5210.T",
+      "per": 9.337208,
+      "pbr": 0.5288119,
+      "auto": true
+    },
+    {
+      "name": "NIHON KOGYO CO LTD",
+      "url": "https://www.nihon-kogyo.co.jp/information/indexinfo.html",
+      "symbol": "5279.T",
+      "per": 5.95586,
+      "pbr": 0.40276814,
+      "auto": true
+    },
+    {
+      "name": "YOSHICON CO LTD",
+      "url": "https://www.yoshicon.co.jp/main/ir/",
+      "symbol": "5280.T",
+      "per": 5.7537127,
+      "pbr": 0.53433484,
+      "auto": true
+    },
+    {
+      "name": "GEOSTR CORP",
+      "url": "https://www.geostr.co.jp/news",
+      "symbol": "5282.T",
+      "per": 6.901195,
+      "pbr": 0.50756896,
+      "auto": true
+    },
+    {
+      "name": "NIPPON CRUCIBLE CO",
+      "url": "https://www.rutsubo.com/ir/news.php",
+      "symbol": "5355.T",
+      "per": 10.526316,
+      "pbr": 0.72965205,
+      "auto": true
+    },
+    {
+      "name": "MINO CERAMIC CO",
+      "url": "https://www.mino-ceramic.co.jp/ir/message/",
+      "symbol": "5356.T",
+      "per": 10.775791,
+      "pbr": 0.83279985,
+      "auto": true
+    },
+    {
+      "name": "JAPAN INSULATION CO LTD",
+      "url": "https://www.jic-bestork.co.jp/news/press-release/1617/",
+      "symbol": "5368.T",
+      "per": 7.5016546,
+      "pbr": 0.59733796,
+      "auto": true
+    },
+    {
+      "name": "SHINTO COMPANY(JP)",
+      "url": "http://www.shintokawara.co.jp/news/gr.php?i=342",
+      "symbol": "5380.T",
+      "per": 93.49206,
+      "pbr": 0.2518672,
+      "auto": true
+    },
+    {
+      "name": "KUNIMINE INDUSTRIES CO",
+      "url": "https://www.kunimine.co.jp/news/",
+      "symbol": "5388.T",
+      "per": 11.546841,
+      "pbr": 0.6949688,
+      "auto": true
+    },
+    {
+      "name": "KOBE STEEL",
+      "url": "https://www.kobelco.co.jp/releases/2026/1219020_18738.html",
+      "symbol": "5406.T",
+      "per": 8.354366,
+      "pbr": 0.62382597,
+      "auto": true
+    },
+    {
+      "name": "NAKAYAMA STEEL WORKS",
+      "url": "https://www.nakayama-steel.co.jp/menu/news/",
+      "symbol": "5408.T",
+      "per": 14.043584,
+      "pbr": 0.31208557,
+      "auto": true
+    },
+    {
+      "name": "GODO STEEL LTD",
+      "url": "https://www.godo-steel.co.jp/seihin/wires/",
+      "symbol": "5410.T",
+      "per": 5.3850346,
+      "pbr": 0.3065332,
+      "auto": true
+    },
+    {
+      "name": "ARCHION CORPORATION",
+      "url": "https://archion.co.jp/news/",
+      "symbol": "543A.T",
+      "per": 1.897168,
+      "pbr": 0.80649406,
+      "auto": true
+    },
+    {
+      "name": "KYOEI STEEL LTD",
+      "url": "https://www.kyoeisteel.co.jp/ja/ir/news.html",
+      "symbol": "5440.T",
+      "per": 8.657913,
+      "pbr": 0.40345985,
+      "auto": true
+    },
+    {
+      "name": "TOKYO TEKKO CO LTD",
+      "url": "https://www.tokyotekko.co.jp/ja/news.html",
+      "symbol": "5445.T",
+      "per": 6.4183836,
+      "pbr": 0.80419916,
+      "auto": true
+    },
+    {
+      "name": "TAKASAGO TEKKO KK",
+      "url": "https://www.takasago-t.co.jp/news.php#00114",
+      "symbol": "5458.T",
+      "per": 11.778368,
+      "pbr": 0.8357258,
+      "auto": true
+    },
+    {
+      "name": "MORY INDUSTRIES",
+      "url": "https://www.mory.co.jp/content/news/information",
+      "symbol": "5464.T",
+      "per": 10.881122,
+      "pbr": 0.6202582,
+      "auto": true
+    },
+    {
+      "name": "MUNINOVA HOLDINGS INC",
+      "url": "https://www.muninova.co.jp/news/muninova_artist_award/",
+      "symbol": "547A.T",
+      "per": 7.788429,
+      "pbr": 0.89076304,
+      "auto": true
+    },
+    {
+      "name": "NIPPON YAKIN KOGYO CO",
+      "url": "https://www.nyk.co.jp/news/",
+      "symbol": "5480.T",
+      "per": 10.537449,
+      "pbr": 0.7395252,
+      "auto": true
+    },
+    {
+      "name": "SYSTEMEXE INC",
+      "url": "https://www.system-exe.co.jp/news/20260728/",
+      "symbol": "548A.T",
+      "per": 9.434152,
+      "pbr": 0.78209776,
+      "auto": true
+    },
+    {
+      "name": "PROPERTY TECHNOLOGIES INC",
+      "url": "https://pptc.co.jp/news/",
+      "symbol": "5527.T",
+      "per": 7.9742107,
+      "pbr": 1.0130314,
+      "auto": true
+    },
+    {
+      "name": "PACIFIC METALS CO",
+      "url": "https://www.pacific-metals.co.jp/news/",
+      "symbol": "5541.T",
+      "per": 18.415827,
+      "pbr": 0.75795335,
+      "auto": true
+    },
+    {
+      "name": "MITSUBISHI STEEL MFG CO",
+      "url": "https://www.mitsubishisteel.co.jp/news/release/2026/",
+      "symbol": "5632.T",
+      "per": 12.033462,
+      "pbr": 0.75394624,
+      "auto": true
+    },
+    {
+      "name": "METALART CORP",
+      "url": "https://www.metalart.co.jp/ir/news/",
+      "symbol": "5644.T",
+      "per": 7.867812,
+      "pbr": 0.81019145,
+      "auto": true
+    },
+    {
+      "name": "IBOKIN CO LTD",
+      "url": "https://www.ibokin.co.jp/newscat/ir%e9%96%a2%e9%80%a3/",
+      "symbol": "5699.T",
+      "per": 8.417527,
+      "pbr": 0.96696,
+      "auto": true
+    },
+    {
+      "name": "MITSUBISHI MATERIALS CORP",
+      "url": "https://www.mmc.co.jp/corporate/ja/news/press/2026/26-0806.html",
+      "symbol": "5711.T",
+      "per": 16.638775,
+      "pbr": 0.8719185,
+      "auto": true
+    },
+    {
+      "name": "FURUKAWA CO",
+      "url": "https://www.furukawakk.co.jp/ir/",
+      "symbol": "5715.T",
+      "per": 10.9528885,
+      "pbr": 0.84954506,
+      "auto": true
+    },
+    {
+      "name": "CANARE ELECTRIC CO",
+      "url": "https://www.canare.co.jp/ir/ir_news/",
+      "symbol": "5819.T",
+      "per": 10.121411,
+      "pbr": 0.6153842,
+      "auto": true
+    },
+    {
+      "name": "MITSUBOSHI CO",
+      "url": "https://www.kk-mitsuboshi.co.jp/news/kenkouyuryouhoujin2025/",
+      "symbol": "5820.T",
+      "per": 11.441518,
+      "pbr": 0.43721905,
+      "auto": true
+    },
+    {
+      "name": "RYOBI LTD",
+      "url": "https://www.ryobi-group.co.jp/news/newsrelease/008627.html",
+      "symbol": "5851.T",
+      "per": 8.568873,
+      "pbr": 0.4869652,
+      "auto": true
+    },
+    {
+      "name": "AHRESTY CORPORATION",
+      "url": "https://www.ahresty.co.jp/ir/newslist/",
+      "symbol": "5852.T",
+      "per": 4.6750364,
+      "pbr": 0.3001516,
+      "auto": true
+    },
+    {
+      "name": "HOKKAN HOLDINGS LIMITED",
+      "url": "https://hokkanholdings.co.jp/ir/individual/",
+      "symbol": "5902.T",
+      "per": 9.708555,
+      "pbr": 0.5179875,
+      "auto": true
+    },
+    {
+      "name": "MK SEIKO CO LTD",
+      "url": "https://www.mkseiko.co.jp/news/index.html",
+      "symbol": "5906.T",
+      "per": 4.466205,
+      "pbr": 0.53579897,
+      "auto": true
+    },
+    {
+      "name": "TAKIGAMI STEEL CONSTRUCTION CO",
+      "url": "https://www.takigami.co.jp/ir_news",
+      "symbol": "5918.T",
+      "per": 16.583784,
+      "pbr": 0.3148494,
+      "auto": true
+    },
+    {
+      "name": "KAWAGISHI BRIDGE WORKS CO LTD",
+      "url": "https://kawagishi.co.jp/news/260727/",
+      "symbol": "5921.T",
+      "per": 10.362631,
+      "pbr": 0.39337686,
+      "auto": true
+    },
+    {
+      "name": "NASU DENKI-TEKKO CO",
+      "url": "https://www.nasudenki.co.jp/blog/archives/category/news",
+      "symbol": "5922.T",
+      "per": 9.372049,
+      "pbr": 0.6818396,
+      "auto": true
+    },
+    {
+      "name": "TOYO SHUTTER CO",
+      "url": "https://www.toyo-shutter.co.jp/news/2026/07/cm/",
+      "symbol": "5936.T",
+      "per": 6.761295,
+      "pbr": 0.55834025,
+      "auto": true
+    },
+    {
+      "name": "FUJISASH CO LTD",
+      "url": "https://www.fujisash.co.jp",
+      "symbol": "5940.T",
+      "per": 4.5893126,
+      "pbr": 0.3746735,
+      "auto": true
+    },
+    {
+      "name": "DAINICHI CO LTD",
+      "url": "https://www.dainichi-net.co.jp/ir/",
+      "symbol": "5951.T",
+      "per": 12.88693,
+      "pbr": 0.6659479,
+      "auto": true
+    },
+    {
+      "name": "TOSO CO LTD",
+      "url": "https://www.toso.co.jp/ir/calendar/",
+      "symbol": "5956.T",
+      "per": 7.5471697,
+      "pbr": 0.3184185,
+      "auto": true
+    },
+    {
+      "name": "NITTOSEIKO CO LTD",
+      "url": "https://www.nittoseiko.co.jp/news.html",
+      "symbol": "5957.T",
+      "per": 11.375933,
+      "pbr": 0.76241696,
+      "auto": true
+    },
+    {
+      "name": "FUJIMAK CORP",
+      "url": "https://www.fujimak.co.jp/event/news/2026/202608219_001492.html",
+      "symbol": "5965.T",
+      "per": 6.711409,
+      "pbr": 0.85036784,
+      "auto": true
+    },
+    {
+      "name": "KYOTO TOOL CO LTD",
+      "url": "https://www.ktc.co.jp/ir/management/",
+      "symbol": "5966.T",
+      "per": 12.610098,
+      "pbr": 0.5017704,
+      "auto": true
+    },
+    {
+      "name": "TONE CO LTD",
+      "url": "https://www.tonetool.co.jp/topics/index_ir.php",
+      "symbol": "5967.T",
+      "per": 9.688995,
+      "pbr": 0.83247113,
+      "auto": true
+    },
+    {
+      "name": "LOBTEX CO LTD",
+      "url": "https://www.lobtex.co.jp/ir/news/tabid/86/Default.aspx",
+      "symbol": "5969.T",
+      "per": 17.890257,
+      "pbr": 0.4371334,
+      "auto": true
+    },
+    {
+      "name": "KYOWAKOGYOSYO CO",
+      "url": "https://www.kyowakogyosyo.co.jp/ir/index.html",
+      "symbol": "5971.T",
+      "per": 12.300086,
+      "pbr": 0.6166765,
+      "auto": true
+    },
+    {
+      "name": "TOAMI CORP",
+      "url": "https://www.toami.co.jp/ir/",
+      "symbol": "5973.T",
+      "per": 20.28702,
+      "pbr": 0.31908122,
+      "auto": true
+    },
+    {
+      "name": "TOPRE CORPORATION",
+      "url": "https://www.topre.co.jp/sustainability/governance/investor.html",
+      "symbol": "5975.T",
+      "per": 8.650611,
+      "pbr": 0.63320655,
+      "auto": true
+    },
+    {
+      "name": "KANEFUSA CORP",
+      "url": "https://www.kanefusa.co.jp/news/ir/000662.html",
+      "symbol": "5984.T",
+      "per": 10.193913,
+      "pbr": 0.3314091,
+      "auto": true
+    },
+    {
+      "name": "KYORITSU AIR TECH INC",
+      "url": "https://www.kak-net.co.jp/news/index.html",
+      "symbol": "5997.T",
+      "per": 9.728034,
+      "pbr": 0.45222026,
+      "auto": true
+    },
+    {
+      "name": "JSS CORPORATION",
+      "url": "https://www.jss-group.co.jp/blog/category/news",
+      "symbol": "6074.T",
+      "per": 8.627841,
+      "pbr": 0.6578689,
+      "auto": true
+    },
+    {
+      "name": "KOIKE SANSO KOGYO CO",
+      "url": "https://www.koike-japan.com/ir/news/",
+      "symbol": "6137.T",
+      "per": 9.017193,
+      "pbr": 0.65948325,
+      "auto": true
+    },
+    {
+      "name": "ODAWARA ENGINEERING CO",
+      "url": "https://odawara-eng.co.jp/irinfo//ir_news/",
+      "symbol": "6149.T",
+      "per": 6.289308,
+      "pbr": 0.6892721,
+      "auto": true
+    },
+    {
+      "name": "TAKEDA MACHINERY CO",
+      "url": "https://www.takeda-mc.co.jp/ir/",
+      "symbol": "6150.T",
+      "per": 8.635579,
+      "pbr": 0.4712597,
+      "auto": true
+    },
+    {
+      "name": "NITTO KOHKI CO LTD",
+      "url": "https://www.nitto-kohki.co.jp/news/2026/release/002329.html",
+      "symbol": "6151.T",
+      "per": 15.3141365,
+      "pbr": 0.538402,
+      "auto": true
+    },
+    {
+      "name": "ESTIC",
+      "url": "https://www.estic.co.jp/news/",
+      "symbol": "6161.T",
+      "per": 9.140752,
+      "pbr": 0.93525445,
+      "auto": true
+    },
+    {
+      "name": "PHOENIXBIO CO LTD",
+      "url": "https://phoenixbio.co.jp/news/sumitomo-chemical_registration-in-us_new-herbicide_pxb-mouse.html",
+      "symbol": "6190.T",
+      "per": 11.403508,
+      "pbr": 0.92051566,
+      "auto": true
+    },
+    {
+      "name": "NPR-RIKEN CORPORATION",
+      "url": "https://www.npr-riken.co.jp/news/entry/2026/156.html",
+      "symbol": "6209.T",
+      "per": 7.6923075,
+      "pbr": 0.65163857,
+      "auto": true
+    },
+    {
+      "name": "SANEI LTD",
+      "url": "https://www.sanei.ltd/news/",
+      "symbol": "6230.T",
+      "per": 7.9617476,
+      "pbr": 0.6411644,
+      "auto": true
+    },
+    {
+      "name": "GENERAL PACKER CO",
+      "url": "https://www.general-packer.co.jp/recruit/news/info/",
+      "symbol": "6267.T",
+      "per": 9.633819,
+      "pbr": 0.8858923,
+      "auto": true
+    },
+    {
+      "name": "RHEON AUTOMATIC MACHINERY CO",
+      "url": "https://www.rheon.com/ir-topics/",
+      "symbol": "6272.T",
+      "per": 10.615608,
+      "pbr": 0.951512,
+      "auto": true
+    },
+    {
+      "name": "SEIKO CORP (MACHINERY)",
+      "url": "https://www.seiko-co.com/ir/",
+      "symbol": "6286.T",
+      "per": 7.622095,
+      "pbr": 0.52682793,
+      "auto": true
+    },
+    {
+      "name": "SANSEI CO LTD",
+      "url": "https://sansei-group.co.jp/pages/35/#block127-214",
+      "symbol": "6307.T",
+      "per": 4.7801924,
+      "pbr": 0.717421,
+      "auto": true
+    },
+    {
+      "name": "MARUYAMA MANUFACTURING CO",
+      "url": "https://www.maruyama.co.jp/ir/news/",
+      "symbol": "6316.T",
+      "per": 9.606267,
+      "pbr": 0.49275538,
+      "auto": true
+    },
+    {
+      "name": "TOKYO KIKAI SEISAKUSHO",
+      "url": "https://www.tks-net.co.jp/news/",
+      "symbol": "6335.T",
+      "per": 4.4822845,
+      "pbr": 0.50628155,
+      "auto": true
+    },
+    {
+      "name": "SANSEI TECHNOLOGIES INC",
+      "url": "https://www.sansei-technologies.com/news/ir-info/3674",
+      "symbol": "6357.T",
+      "per": 9.4161825,
+      "pbr": 0.92521805,
+      "auto": true
+    },
+    {
+      "name": "DMW CORPORATION",
+      "url": "https://www.dmw.co.jp/news/all/ir/",
+      "symbol": "6365.T",
+      "per": 8.733555,
+      "pbr": 0.73546666,
+      "auto": true
+    },
+    {
+      "name": "TRINITY INDUSTRIAL CORP",
+      "url": "https://www.trinityind.co.jp/news/",
+      "symbol": "6382.T",
+      "per": 7.3965206,
+      "pbr": 0.58378667,
+      "auto": true
+    },
+    {
+      "name": "KATO WORKS CO LTD",
+      "url": "https://www.kato-works.co.jp/ir/index.html",
+      "symbol": "6390.T",
+      "per": 3.3910208,
+      "pbr": 0.35611662,
+      "auto": true
+    },
+    {
+      "name": "KAJI TECHNOLOGY CORP",
+      "url": "https://www.kajitech.com/news/11815/",
+      "symbol": "6391.T",
+      "per": 10.729712,
+      "pbr": 0.9125015,
+      "auto": true
+    },
+    {
+      "name": "YAMADA CORPORATION",
+      "url": "https://yamadacorp.co.jp/news/",
+      "symbol": "6392.T",
+      "per": 10.460279,
+      "pbr": 0.98293054,
+      "auto": true
+    },
+    {
+      "name": "YUKEN KOGYO CO",
+      "url": "https://www.yuken.co.jp/ir/index",
+      "symbol": "6393.T",
+      "per": 10.810716,
+      "pbr": 0.45495826,
+      "auto": true
+    },
+    {
+      "name": "FUJI SEIKI CO",
+      "url": "https://www.fujiseiki.com/news-company/%e9%80%9a%e6%9c%9f%e9%80%a3%e7%b5%90%e6%a5%ad%e7%b8%be%e4%ba%88%e6%83%b3%e3%81%ae%e4%bf%ae%e6%ad%a3%ef%bc%88%e4%b8%8a%e6%96%b9%e4%bf%ae%e6%ad%a3%ef%bc%89%e3%81%8a%e3%82%88%e3%81%b3%e9%85%8d%e5%bd%93/",
+      "symbol": "6400.T",
+      "per": 10.21411,
+      "pbr": 0.5685737,
+      "auto": true
+    },
+    {
+      "name": "OGURA CLUTCH CO",
+      "url": "https://www.oguraclutch.co.jp/#newsrelease",
+      "symbol": "6408.T",
+      "per": 4.385965,
+      "pbr": 0.3221359,
+      "auto": true
+    },
+    {
+      "name": "JAPAN CASH MACHINE CO",
+      "url": "https://www.jcm-hq.co.jp/ja/news.html",
+      "symbol": "6418.T",
+      "per": 7.3746824,
+      "pbr": 0.93311864,
+      "auto": true
+    },
+    {
+      "name": "MARS GROUP HOLDINGS CORPORATION",
+      "url": "https://www.mars-ghd.co.jp/news.html",
+      "symbol": "6419.T",
+      "per": 8.888889,
+      "pbr": 0.67293465,
+      "auto": true
+    },
+    {
+      "name": "TAKAMISAWA CYBERNETICS CO LTD",
+      "url": "https://www.tacy.co.jp/news/",
+      "symbol": "6424.T",
+      "per": 7.8926387,
+      "pbr": 0.5921021,
+      "auto": true
+    },
+    {
+      "name": "OIZUMI CORP",
+      "url": "https://oizumi.co.jp/ir/news/",
+      "symbol": "6428.T",
+      "per": 12.254902,
+      "pbr": 0.39183915,
+      "auto": true
+    },
+    {
+      "name": "DAIKOKU DENKI CO LTD",
+      "url": "https://www.daikoku.co.jp/ir/news/",
+      "symbol": "6430.T",
+      "per": 6.2539496,
+      "pbr": 0.71963227,
+      "auto": true
+    },
+    {
+      "name": "JUKI CORP",
+      "url": "https://www.juki.co.jp/ir/news/",
+      "symbol": "6440.T",
+      "per": 10.905699,
+      "pbr": 0.5682406,
+      "auto": true
+    },
+    {
+      "name": "MORITA HOLDINGS",
+      "url": "https://www.morita119.com/ir/news/",
+      "symbol": "6455.T",
+      "per": 10.537328,
+      "pbr": 0.9517613,
+      "auto": true
+    },
+    {
+      "name": "TVE CO LTD",
+      "url": "https://www.toavalve.co.jp/news/",
+      "symbol": "6466.T",
+      "per": 9.36321,
+      "pbr": 0.74739957,
+      "auto": true
+    },
+    {
+      "name": "KVK CORPORATION",
+      "url": "https://www.kvk.co.jp/news/index.html",
+      "symbol": "6484.T",
+      "per": 8.130081,
+      "pbr": 0.57312715,
+      "auto": true
+    },
+    {
+      "name": "NITTAN CORPORATION",
+      "url": "https://www.niv.co.jp/news/detail.php?id=2DN3CK4",
+      "symbol": "6493.T",
+      "per": 6.565852,
+      "pbr": 0.4583299,
+      "auto": true
+    },
+    {
+      "name": "NAKAKITA SEISAKUSHO",
+      "url": "https://www.nakakita-s.co.jp/ir/news",
+      "symbol": "6496.T",
+      "per": 11.135858,
+      "pbr": 0.6832013,
+      "auto": true
+    },
+    {
+      "name": "HAMAI INDUSTRIES",
+      "url": "https://www.hamai-net.com/corporation/ir/index.html",
+      "symbol": "6497.T",
+      "per": 10.02004,
+      "pbr": 0.5589736,
+      "auto": true
+    },
+    {
+      "name": "DM SOLUTIONS CO LTD",
+      "url": "https://www.dm-s.co.jp/news/news20260713/",
+      "symbol": "6549.T",
+      "per": 9.842379,
+      "pbr": 1.6882939,
+      "auto": true
+    },
+    {
+      "name": "SEMITEC CORPORATION",
+      "url": "https://www.semitec.co.jp/news/%e3%82%bb%e3%83%b3%e3%82%b5%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%8a%e3%83%83%e3%83%97%e3%81%ae%e6%8b%a1%e5%85%85%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%99%e7%ac%ac%e4%b8%80%e5%bc%be%e3%80%8c%e5%b0%8f%e5%9e%8b",
+      "symbol": "6626.T",
+      "per": 8.117013,
+      "pbr": 0.901948,
+      "auto": true
+    },
+    {
+      "name": "JVCKENWOOD CORPORATION",
+      "url": "https://www.jvckenwood.com/jp/whatsnew/",
+      "symbol": "6632.T",
+      "per": 9.354838,
+      "pbr": 1.013362,
+      "auto": true
+    },
+    {
+      "name": "TAIYO TECHNOLEX CO LTD",
+      "url": "https://www.taiyo-tx.com/ir/",
+      "symbol": "6663.T",
+      "per": 7.552795,
+      "pbr": 0.6598239,
+      "auto": true
+    },
+    {
+      "name": "SAXA INC",
+      "url": "https://www.saxa.co.jp/news/release/",
+      "symbol": "6675.T",
+      "per": 27.549084,
+      "pbr": 0.8041236,
+      "auto": true
+    },
+    {
+      "name": "SK-ELECTRONICS CO",
+      "url": "https://www.sk-el.co.jp/news/",
+      "symbol": "6677.T",
+      "per": 12.019145,
+      "pbr": 0.932079,
+      "auto": true
+    },
+    {
+      "name": "DIAMOND ELECTRIC HLDGS CO LTD",
+      "url": "https://www.diaelec-hd.co.jp/news",
+      "symbol": "6699.T",
+      "per": 5.537252,
+      "pbr": 0.398819,
+      "auto": true
+    },
+    {
+      "name": "DKK CO LTD",
+      "url": "https://denkikogyo.co.jp/news/release/",
+      "symbol": "6706.T",
+      "per": 15.999629,
+      "pbr": 0.80590606,
+      "auto": true
+    },
+    {
+      "name": "AXELL CORP",
+      "url": "https://www.axell.co.jp/ir/",
+      "symbol": "6730.T",
+      "per": 9.670926,
+      "pbr": 0.8516096,
+      "auto": true
+    },
+    {
+      "name": "DAIDO SIGNAL CO",
+      "url": "https://www.daido-signal.co.jp/newsrelease/",
+      "symbol": "6743.T",
+      "per": 9.354811,
+      "pbr": 0.6127042,
+      "auto": true
+    },
+    {
+      "name": "TENSHO ELECTRIC INDUSTRIES CO",
+      "url": "https://www.tensho-plastic.co.jp/ir/news/",
+      "symbol": "6776.T",
+      "per": 9.268621,
+      "pbr": 0.4155265,
+      "auto": true
+    },
+    {
+      "name": "NAGOYA ELECTRIC WORKS",
+      "url": "https://www.nagoya-denki.co.jp/news/2026/06/214683/",
+      "symbol": "6797.T",
+      "per": 9.049424,
+      "pbr": 0.58491987,
+      "auto": true
+    },
+    {
+      "name": "TEAC CORP",
+      "url": "https://www.teac.co.jp/jp/corporate/ir/news",
+      "symbol": "6803.T",
+      "per": 35.460995,
+      "pbr": 0.7078243,
+      "auto": true
+    },
+    {
+      "name": "HOSIDEN CORP",
+      "url": "https://www.hosiden.com/ir.html",
+      "symbol": "6804.T",
+      "per": 9.891134,
+      "pbr": 0.94966,
+      "auto": true
+    },
+    {
+      "name": "OI ELECTRIC CO LTD",
+      "url": "https://www.ooi.co.jp/news/news-2026-6-9",
+      "symbol": "6822.T",
+      "per": 4.5808473,
+      "pbr": 0.7192396,
+      "auto": true
+    },
+    {
+      "name": "NEW COSMOS ELECTRONIC CO",
+      "url": "https://www.new-cosmos.co.jp/news/",
+      "symbol": "6824.T",
+      "per": 10.18318,
+      "pbr": 0.9859486,
+      "auto": true
+    },
+    {
+      "name": "SHINDENGEN ELECTRIC MANUFACTURI",
+      "url": "https://www.shindengen.co.jp/information/newsrelease/202606_sdp.html",
+      "symbol": "6844.T",
+      "per": 5.8823533,
+      "pbr": 0.44753194,
+      "auto": true
+    },
+    {
+      "name": "KYORITSU ELECTRIC CORPORATION",
+      "url": "https://www.kdwan.co.jp/news/ir/270/",
+      "symbol": "6874.T",
+      "per": 10.101095,
+      "pbr": 0.87679976,
+      "auto": true
+    },
+    {
+      "name": "MEGACHIPS CORP",
+      "url": "https://www.megachips.co.jp/irinfo/calendar/",
+      "symbol": "6875.T",
+      "per": 19.455254,
+      "pbr": 0.47122288,
+      "auto": true
+    },
+    {
+      "name": "ASTI CORPORATION",
+      "url": "https://www.asti.co.jp/ir-topics/",
+      "symbol": "6899.T",
+      "per": 10.21437,
+      "pbr": 0.28984797,
+      "auto": true
+    },
+    {
+      "name": "HELIOS TECHNO HOLDING CO LTD",
+      "url": "https://www.heliostec-hd.co.jp/ir/index.html",
+      "symbol": "6927.T",
+      "per": 10.741603,
+      "pbr": 1.108735,
+      "auto": true
+    },
+    {
+      "name": "NKK SWITCHES CO LTD",
+      "url": "https://www.nkkswitches.co.jp/ir/news.html",
+      "symbol": "6943.T",
+      "per": 15.31372,
+      "pbr": 0.31748083,
+      "auto": true
+    },
+    {
+      "name": "SANKO CO LTD",
+      "url": "https://www.sko.co.jp/ir/release",
+      "symbol": "6964.T",
+      "per": 10.26694,
+      "pbr": 0.3793855,
+      "auto": true
+    },
+    {
+      "name": "FUTABA CORP",
+      "url": "https://www.futaba.co.jp/sustainability/news",
+      "symbol": "6986.T",
+      "per": 11.198924,
+      "pbr": 0.33712608,
+      "auto": true
+    },
+    {
+      "name": "SANOYAS HOLDINGS CORPORATION",
+      "url": "https://www.sanoyas.co.jp/ir/library/news.html",
+      "symbol": "7022.T",
+      "per": 7.368421,
+      "pbr": 0.8555226,
+      "auto": true
+    },
+    {
+      "name": "SUN LIFE HOLDING CO LTD",
+      "url": "https://sunlife-hd.jp/news/item-5611/",
+      "symbol": "7040.T",
+      "per": 9.775625,
+      "pbr": 0.8722164,
+      "auto": true
+    },
+    {
+      "name": "KYOEI SECURITY SERVICE CO LTD",
+      "url": "https://www.kyoei-ss.co.jp/news/",
+      "symbol": "7058.T",
+      "per": 6.565964,
+      "pbr": 0.83897436,
+      "auto": true
+    },
+    {
+      "name": "FUREASU CO LTD",
+      "url": "https://fureasu.jp/company/news/22133/",
+      "symbol": "7062.T",
+      "per": 3.7665648,
+      "pbr": 0.8850819,
+      "auto": true
+    },
+    {
+      "name": "UPR CORPORATION",
+      "url": "https://www.upr-net.co.jp/wordpress/news/",
+      "symbol": "7065.T",
+      "per": 11.197748,
+      "pbr": 0.82131284,
+      "auto": true
+    },
+    {
+      "name": "WILLTEC CO LTD",
+      "url": "https://www.willtec.jp/news/detail/251",
+      "symbol": "7087.T",
+      "per": 10.010046,
+      "pbr": 1.0167334,
+      "auto": true
+    },
+    {
+      "name": "NIPPON SHARYO LTD",
+      "url": "https://www.n-sharyo.co.jp/finance/index.html",
+      "symbol": "7102.T",
+      "per": 4.4483767,
+      "pbr": 0.6143226,
+      "auto": true
+    },
+    {
+      "name": "INEST INC",
+      "url": "https://inest-inc.co.jp/ir_news",
+      "symbol": "7111.T",
+      "per": 86.206894,
+      "pbr": 0.7092501,
+      "auto": true
+    },
+    {
+      "name": "KINKI SHARYO CO",
+      "url": "https://www.kinkisharyo.co.jp/ir/news/",
+      "symbol": "7122.T",
+      "per": 10.235531,
+      "pbr": 0.44739705,
+      "auto": true
+    },
+    {
+      "name": "YAMAE GRP HLDGS CO LTD",
+      "url": "https://www.yamaegroup-hd.co.jp/news/",
+      "symbol": "7130.T",
+      "per": 7.3259892,
+      "pbr": 0.7373559,
+      "auto": true
+    },
+    {
+      "name": "ASTMAX CO LTD",
+      "url": "https://www.astmax.com/ir/library/",
+      "symbol": "7162.T",
+      "per": 1.7534539,
+      "pbr": 0.45858014,
+      "auto": true
+    },
+    {
+      "name": "IMAMURA SECURITIES CO LTD(THE)",
+      "url": "https://www.imamura.co.jp/news/index.html",
+      "symbol": "7175.T",
+      "per": 8.326463,
+      "pbr": 0.6433299,
+      "auto": true
+    },
+    {
+      "name": "TOYOTA MOTOR CORP",
+      "url": "https://global.toyota/jp/newsroom/toyota/44397601.html?padid=ag478_from_pickup",
+      "symbol": "7203.T",
+      "per": 8.591017,
+      "pbr": 0.9585488,
+      "auto": true
+    },
+    {
+      "name": "KANEMITSU CORPORATION",
+      "url": "https://kanemitsu.co.jp/ir/ir-news/",
+      "symbol": "7208.T",
+      "per": 8.920705,
+      "pbr": 0.52659595,
+      "auto": true
+    },
+    {
+      "name": "TEIN INC",
+      "url": "https://www.tein.co.jp/tag/ir/",
+      "symbol": "7217.T",
+      "per": 13.331371,
+      "pbr": 0.64088327,
+      "auto": true
+    },
+    {
+      "name": "TANAKA SEIMITSU KOGYO",
+      "url": "https://www.tanasei.co.jp/news_topics",
+      "symbol": "7218.T",
+      "per": 8.81086,
+      "pbr": 0.3904988,
+      "auto": true
+    },
+    {
+      "name": "KYOKUTO KAIHATSU KOGYO CO",
+      "url": "https://www.kyokuto.com/news/",
+      "symbol": "7226.T",
+      "per": 24.388975,
+      "pbr": 0.8030874,
+      "auto": true
+    },
+    {
+      "name": "TOKYO RADIATOR MFG CO",
+      "url": "https://www.tokyo-radiator.co.jp/news_list/",
+      "symbol": "7235.T",
+      "per": 7.4460163,
+      "pbr": 0.62084156,
+      "auto": true
+    },
+    {
+      "name": "TACHI-S CO LTD",
+      "url": "https://www.tachi-s.co.jp/ir/ir_news/",
+      "symbol": "7239.T",
+      "per": 8.517781,
+      "pbr": 0.7317074,
+      "auto": true
+    },
+    {
+      "name": "NOK CORP",
+      "url": "https://www.nokgrp.com/news/ir/",
+      "symbol": "7240.T",
+      "per": 10.869566,
+      "pbr": 0.78678226,
+      "auto": true
+    },
+    {
+      "name": "FUTABA INDUSTRIAL CO",
+      "url": "https://www.futabasangyo.com/news/",
+      "symbol": "7241.T",
+      "per": 6.101166,
+      "pbr": 0.701627,
+      "auto": true
+    },
+    {
+      "name": "ICHIKOH INDUSTRIES",
+      "url": "https://www.ichikoh.com/ir/news/",
+      "symbol": "7244.T",
+      "per": 7.7998433,
+      "pbr": 1.7973104,
+      "auto": true
+    },
+    {
+      "name": "SAKURAI LTD",
+      "url": "https://sakurai-net.co.jp/news_category/ir%e3%80%80news/",
+      "symbol": "7255.T",
+      "per": 7.4854136,
+      "pbr": 0.34566173,
+      "auto": true
+    },
+    {
+      "name": "MURO CORPORATION",
+      "url": "https://www.muro.co.jp/ir/news",
+      "symbol": "7264.T",
+      "per": 11.325382,
+      "pbr": 0.35388798,
+      "auto": true
+    },
+    {
+      "name": "YASUNAGA CORP",
+      "url": "https://www.fine-yasunaga.co.jp/ir/calendar.html",
+      "symbol": "7271.T",
+      "per": 4.4423647,
+      "pbr": 0.56617117,
+      "auto": true
+    },
+    {
+      "name": "HI-LEX CORPORATION",
+      "url": "https://www.hi-lex.co.jp/news/",
+      "symbol": "7279.T",
+      "per": 11.376579,
+      "pbr": 0.44490758,
+      "auto": true
+    },
+    {
+      "name": "MITSUBA CORP",
+      "url": "https://www.mitsuba.co.jp/jp/news_ir/index.html",
+      "symbol": "7280.T",
+      "per": 5.230065,
+      "pbr": 0.46369705,
+      "auto": true
+    },
+    {
+      "name": "FUJI OOZX INC",
+      "url": "https://www.oozx.co.jp/release/?category_name=news",
+      "symbol": "7299.T",
+      "per": 8.665633,
+      "pbr": 0.5576269,
+      "auto": true
+    },
+    {
+      "name": "MERCURIA HOLDINGS CO LTD",
+      "url": "https://www.mercuria.jp/ir/schedule.html",
+      "symbol": "7347.T",
+      "per": null,
+      "pbr": 0.87768143,
+      "auto": true
+    },
+    {
+      "name": "GOODPATCH INC",
+      "url": "https://goodpatch.com/ir",
+      "symbol": "7351.T",
+      "per": 9.785043,
+      "pbr": 0.8666542,
+      "auto": true
+    },
+    {
+      "name": "HYOJITO CO LTD",
+      "url": "https://www.hyojito.co.jp/news/",
+      "symbol": "7368.T",
+      "per": 9.980041,
+      "pbr": 0.9414856,
+      "auto": true
+    },
+    {
+      "name": "DN HLDGS CO LTD",
+      "url": "https://www.dcne.co.jp/news/2026/20260805/",
+      "symbol": "7377.T",
+      "per": 10.394817,
+      "pbr": 0.8058684,
+      "auto": true
+    },
+    {
+      "name": "NANYO CORP",
+      "url": "https://www.nanyo.co.jp/wp/category/news/news-release",
+      "symbol": "7417.T",
+      "per": 9.871538,
+      "pbr": 0.83522093,
+      "auto": true
+    },
+    {
+      "name": "TOHO LAMAC CO",
+      "url": "https://toho-lamac.co.jp/news/250918/2025/18/",
+      "symbol": "7422.T",
+      "per": 78.0911,
+      "pbr": 0.3471345,
+      "auto": true
+    },
+    {
+      "name": "ECHO TRADING CO",
+      "url": "https://echotd.co.jp/category/news-list/",
+      "symbol": "7427.T",
+      "per": 6.485225,
+      "pbr": 0.4217521,
+      "auto": true
+    },
+    {
+      "name": "OTAKE CORP",
+      "url": "https://www.kk-otake.co.jp/news",
+      "symbol": "7434.T",
+      "per": 7.501972,
+      "pbr": 0.41531503,
+      "auto": true
+    },
+    {
+      "name": "HARIMA-KYOWA CO",
+      "url": "https://www.harimakb.co.jp/news/",
+      "symbol": "7444.T",
+      "per": 7.0422535,
+      "pbr": 0.41042575,
+      "auto": true
+    },
+    {
+      "name": "TOHOKU CHEMICAL CO",
+      "url": "https://t-kagaku.co.jp/ir-news/",
+      "symbol": "7446.T",
+      "per": 7.082199,
+      "pbr": 0.4482997,
+      "auto": true
+    },
+    {
+      "name": "SPK CORPORATION",
+      "url": "https://www.spk.co.jp/news/2400/",
+      "symbol": "7466.T",
+      "per": 10.493179,
+      "pbr": 0.95787275,
+      "auto": true
+    },
+    {
+      "name": "SHIMOJIMA CO LTD",
+      "url": "https://www.shimojima.co.jp/ir/news.html",
+      "symbol": "7482.T",
+      "per": 12.516008,
+      "pbr": 0.9203571,
+      "auto": true
+    },
+    {
+      "name": "SANRIN CO LTD",
+      "url": "https://www.sanrinkk.co.jp/ir/news/",
+      "symbol": "7486.T",
+      "per": 19.417475,
+      "pbr": 0.44098347,
+      "auto": true
+    },
+    {
+      "name": "NISSIN SHOJI CO",
+      "url": "https://www.nissin-shoji.co.jp/ir/news/",
+      "symbol": "7490.T",
+      "per": 3.9904435,
+      "pbr": 0.55178523,
+      "auto": true
+    },
+    {
+      "name": "I.A.GROUP",
+      "url": "https://www.ia-group.co.jp/news",
+      "symbol": "7509.T",
+      "per": 5.0710154,
+      "pbr": 0.42003772,
+      "auto": true
+    },
+    {
+      "name": "KOHNAN SHOJI",
+      "url": "https://www.hc-kohnan.com/news/store/",
+      "symbol": "7516.T",
+      "per": 9.920681,
+      "pbr": 0.67802215,
+      "auto": true
+    },
+    {
+      "name": "MUSASHI CO LTD",
+      "url": "https://www.musashinet.co.jp/ir/news/",
+      "symbol": "7521.T",
+      "per": 6.7024717,
+      "pbr": 0.50803137,
+      "auto": true
+    },
+    {
+      "name": "DAISUI CO LTD",
+      "url": "https://www.daisui.co.jp/topics/",
+      "symbol": "7538.T",
+      "per": 7.278481,
+      "pbr": 0.37412366,
+      "auto": true
+    },
+    {
+      "name": "AINAVO HOLDINGS CO LTD",
+      "url": "https://www.ainavo.co.jp/ir/",
+      "symbol": "7539.T",
+      "per": 10.266356,
+      "pbr": 0.67830265,
+      "auto": true
+    },
+    {
+      "name": "WEDS CO LTD",
+      "url": "https://www.weds.co.jp/news/20260727_2/",
+      "symbol": "7551.T",
+      "per": 11.723118,
+      "pbr": 0.64667505,
+      "auto": true
+    },
+    {
+      "name": "MANSEI  CORP",
+      "url": "https://www.mansei.co.jp/ir/news/",
+      "symbol": "7565.T",
+      "per": 11.655011,
+      "pbr": 0.9750452,
+      "auto": true
+    },
+    {
+      "name": "HASHIMOTO SOGYO HOLDINGS CO LTD",
+      "url": "https://www.hat-hd.co.jp/news?category=7",
+      "symbol": "7570.T",
+      "per": 9.891327,
+      "pbr": 0.7325688,
+      "auto": true
+    },
+    {
+      "name": "VT HOLDINGS CO LTD",
+      "url": "https://www.vt-holdings.co.jp/news/pr/index.html#20260803",
+      "symbol": "7593.T",
+      "per": 12.530121,
+      "pbr": 0.8522146,
+      "auto": true
+    },
+    {
+      "name": "OM2 NETWORK CO LTD",
+      "url": "https://www.om2.co.jp/media/news/a41",
+      "symbol": "7614.T",
+      "per": 10.811001,
+      "pbr": 0.56244373,
+      "auto": true
+    },
+    {
+      "name": "TANAKA CO LTD",
+      "url": "https://www.tanakashoji.co.jp/news-release/",
+      "symbol": "7619.T",
+      "per": 8.403435,
+      "pbr": 0.50459105,
+      "auto": true
+    },
+    {
+      "name": "HOSHIIRYO-SANKI CO LTD",
+      "url": "https://www.hosi.co.jp/news/%e8%ad%b2%e6%b8%a1%e5%88%b6%e9%99%90%e4%bb%98%e6%a0%aa%e5%bc%8f%e5%a0%b1%e9%85%ac%e3%81%a8%e3%81%97%e3%81%a6%e3%81%ae%e8%87%aa%e5%b7%b1%e6%a0%aa%e5%bc%8f%e3%81%ae%e5%87%a6%e5%88%86%e3%81%ae%e6%89%95-5/",
+      "symbol": "7634.T",
+      "per": 11.668637,
+      "pbr": 0.7962418,
+      "auto": true
+    },
+    {
+      "name": "HANDSMAN CO LTD",
+      "url": "https://www.handsman.co.jp/ir/newsrelease",
+      "symbol": "7636.T",
+      "per": 11.905474,
+      "pbr": 0.5813814,
+      "auto": true
+    },
+    {
+      "name": "O-WELL CORPORATION",
+      "url": "https://www.owell.co.jp/news/",
+      "symbol": "7670.T",
+      "per": 6.675612,
+      "pbr": 0.503691,
+      "auto": true
+    },
+    {
+      "name": "DAIKO TSUSAN CO LTD",
+      "url": "https://www.daiko-tsusan.co.jp/ja/ir/irnews.html",
+      "symbol": "7673.T",
+      "per": 9.560408,
+      "pbr": 0.9710518,
+      "auto": true
+    },
+    {
+      "name": "KOKUSAI CO LTD",
+      "url": "https://www.kokusaikk.co.jp/ir/calendar/",
+      "symbol": "7722.T",
+      "per": 7.0572333,
+      "pbr": 0.85041684,
+      "auto": true
+    },
+    {
+      "name": "RICOH CO",
+      "url": "https://www.ricoh.com/release/2026/0806_1",
+      "symbol": "7752.T",
+      "per": 17.18206,
+      "pbr": 0.8037827,
+      "auto": true
+    },
+    {
+      "name": "KYORITSU CO LTD",
+      "url": "https://www.kyoritsu-hd.co.jp/news/",
+      "symbol": "7795.T",
+      "per": 8.0334425,
+      "pbr": 0.5235528,
+      "auto": true
+    },
+    {
+      "name": "PRINTNET INC",
+      "url": "https://printnet.jp/ir/faq.html",
+      "symbol": "7805.T",
+      "per": 8.725923,
+      "pbr": 0.8102785,
+      "auto": true
+    },
+    {
+      "name": "C.S. LUMBER CO INC",
+      "url": "https://www.c-s-lumber.co.jp/news",
+      "symbol": "7808.T",
+      "per": 7.1786933,
+      "pbr": 1.7776403,
+      "auto": true
+    },
+    {
+      "name": "NAKAMOTO PACKS CO LTD",
+      "url": "https://www.npacks.co.jp/news/rn%e3%82%b9%e3%83%9e%e3%83%bc%e3%83%88%e3%83%91%e3%83%83%e3%82%b1%e3%83%bc%e3%82%b8%e3%83%b3%e3%82%b0%e3%80%81%e3%82%ab%e3%83%8a%e3%82%aa%e3%82%ab%e3%81%a8%e9%a3%9f%e5%93%81%e5%8c%85%e8%a3%85%e5%88%86/",
+      "symbol": "7811.T",
+      "per": 7.9365077,
+      "pbr": 0.81014353,
+      "auto": true
+    },
+    {
+      "name": "CRESTEC INC",
+      "url": "https://www.crestec.co.jp/news/?t=3",
+      "symbol": "7812.T",
+      "per": 7.769897,
+      "pbr": 0.67617595,
+      "auto": true
+    },
+    {
+      "name": "PLATZ CO LTD",
+      "url": "https://www.platz-ltd.co.jp",
+      "symbol": "7813.T",
+      "per": 15.290115,
+      "pbr": 0.8079698,
+      "auto": true
+    },
+    {
+      "name": "KAWASE COMPUTER SUPPLIES CO",
+      "url": "https://www.kc-s.co.jp/news/",
+      "symbol": "7851.T",
+      "per": 9.141135,
+      "pbr": 0.34338132,
+      "auto": true
+    },
+    {
+      "name": "PEOPLE CO(TOYS)",
+      "url": "https://www.people-kk.co.jp/news/IR/",
+      "symbol": "7865.T",
+      "per": null,
+      "pbr": 0.6686082,
+      "auto": true
+    },
+    {
+      "name": "FUKUVI CHEMICAL INDUSTRY CO",
+      "url": "https://www.fukuvi.co.jp/ir/release",
+      "symbol": "7871.T",
+      "per": 12.005184,
+      "pbr": 0.50257355,
+      "auto": true
+    },
+    {
+      "name": "LEC INC",
+      "url": "https://www.lecinc.co.jp/ir/news/",
+      "symbol": "7874.T",
+      "per": 10.593174,
+      "pbr": 0.8310369,
+      "auto": true
+    },
+    {
+      "name": "EIDAI KAKO CO LTD",
+      "url": "https://www.eidaikako.co.jp/ir/",
+      "symbol": "7877.T",
+      "per": 8.051566,
+      "pbr": 0.35262606,
+      "auto": true
+    },
+    {
+      "name": "NANKAI PLYWOOD CO",
+      "url": "https://www.nankaiplywood.co.jp/news/",
+      "symbol": "7887.T",
+      "per": 4.0717044,
+      "pbr": 0.2793999,
+      "auto": true
+    },
+    {
+      "name": "MATSUMOTO INC",
+      "url": "https://www.matsumoto-inc.co.jp/ir",
+      "symbol": "7901.T",
+      "per": 6.0975614,
+      "pbr": 0.95454985,
+      "auto": true
+    },
+    {
+      "name": "KYODO PRINTING CO",
+      "url": "https://www.kyodoprinting.co.jp/release/index.php",
+      "symbol": "7914.T",
+      "per": 12.375957,
+      "pbr": 0.69342345,
+      "auto": true
+    },
+    {
+      "name": "TSUTSUMI JEWELRY",
+      "url": "https://www.tsutsumi.co.jp/ir/",
+      "symbol": "7937.T",
+      "per": 11.111111,
+      "pbr": 0.5927534,
+      "auto": true
+    },
+    {
+      "name": "CLEANUP CORP",
+      "url": "https://cleanup.jp/topics/",
+      "symbol": "7955.T",
+      "per": 10.059967,
+      "pbr": 0.5686258,
+      "auto": true
+    },
+    {
+      "name": "TOLI CORP",
+      "url": "https://www.toli.co.jp/newsrelease/",
+      "symbol": "7971.T",
+      "per": 9.017567,
+      "pbr": 0.75446475,
+      "auto": true
+    },
+    {
+      "name": "SHIGEMATSU WORKS CO",
+      "url": "https://www.sts-japan.com/ir/ir_news/",
+      "symbol": "7980.T",
+      "per": 8.849736,
+      "pbr": 0.63707775,
+      "auto": true
+    },
+    {
+      "name": "KUROGANE KOSAKUSHO",
+      "url": "https://www.kurogane-kks.co.jp/news_info.html",
+      "symbol": "7997.T",
+      "per": 4.355372,
+      "pbr": 0.37170973,
+      "auto": true
+    },
+    {
+      "name": "YUASA FUNASHOKU CO",
+      "url": "https://www.yuasa-funashoku.com/investors/irnews/",
+      "symbol": "8006.T",
+      "per": 12.180286,
+      "pbr": 0.62226593,
+      "auto": true
+    },
+    {
+      "name": "CHORI CO LTD",
+      "url": "https://www.chori.co.jp/ir/calendar.html",
+      "symbol": "8014.T",
+      "per": 8.525175,
+      "pbr": 0.981667,
+      "auto": true
+    },
+    {
+      "name": "DAIKO XTECH LTD",
+      "url": "https://www.daiko-xtech.co.jp/irinfo/",
+      "symbol": "8023.T",
+      "per": 8.873091,
+      "pbr": 0.9600265,
+      "auto": true
+    },
+    {
+      "name": "LOOK HOLDINGS INCORPORATED",
+      "url": "https://www.look-holdings.jp/irinfo/calendar/",
+      "symbol": "8029.T",
+      "per": 10.834381,
+      "pbr": 0.4803337,
+      "auto": true
+    },
+    {
+      "name": "CHUO GYORUI CO LTD",
+      "url": "https://www.chuogyorui.com/ir/news/",
+      "symbol": "8030.T",
+      "per": 4.9504952,
+      "pbr": 0.3830486,
+      "auto": true
+    },
+    {
+      "name": "KAMEI CORP",
+      "url": "https://www.kamei.co.jp/ir/index.html",
+      "symbol": "8037.T",
+      "per": 11.148257,
+      "pbr": 0.73696613,
+      "auto": true
+    },
+    {
+      "name": "MARUFUJI SHEET PILING CO",
+      "url": "https://www.mrfj.co.jp/ir_news",
+      "symbol": "8046.T",
+      "per": 9.099132,
+      "pbr": 0.53374875,
+      "auto": true
+    },
+    {
+      "name": "TOKYO SANGYO CO",
+      "url": "https://www.tscom.co.jp/ir/irlist/",
+      "symbol": "8070.T",
+      "per": 9.242125,
+      "pbr": 0.91997373,
+      "auto": true
+    },
+    {
+      "name": "SHINSHO CORP",
+      "url": "https://www.shinsho.co.jp/news/?category=rec",
+      "symbol": "8075.T",
+      "per": 9.6245775,
+      "pbr": 0.8062027,
+      "auto": true
+    },
+    {
+      "name": "TORQ INC",
+      "url": "https://www.torq.co.jp/news/2026%e5%b9%b410%e6%9c%88%e6%9c%9f%e3%80%80%e7%ac%ac2%e5%9b%9b%e5%8d%8a%e6%9c%9f%e6%a0%aa%e4%b8%bb%e9%80%9a%e4%bf%a1/",
+      "symbol": "8077.T",
+      "per": 6.4102564,
+      "pbr": 0.33636007,
+      "auto": true
+    },
+    {
+      "name": "HANWA CO LTD",
+      "url": "https://www.hanwa.co.jp/news/ir/",
+      "symbol": "8078.T",
+      "per": 9.542064,
+      "pbr": 0.815626,
+      "auto": true
+    },
+    {
+      "name": "NARASAKI SANGYO CO",
+      "url": "https://www.narasaki.co.jp/news_release/",
+      "symbol": "8085.T",
+      "per": 9.718217,
+      "pbr": 0.7222964,
+      "auto": true
+    },
+    {
+      "name": "NICE CORPORATION",
+      "url": "https://www.nice.co.jp/release/",
+      "symbol": "8089.T",
+      "per": 8.936345,
+      "pbr": 0.3783138,
+      "auto": true
+    },
+    {
+      "name": "KYOKUTO BOEKI KAISHA",
+      "url": "https://www.kbk.co.jp/ja/news/20266/",
+      "symbol": "8093.T",
+      "per": 12.224713,
+      "pbr": 0.67411023,
+      "auto": true
+    },
+    {
+      "name": "ASTENA HOLDINGS CO LTD",
+      "url": "https://www.astena-hd.com/media/news/a80",
+      "symbol": "8095.T",
+      "per": 9.398431,
+      "pbr": 0.7665167,
+      "auto": true
+    },
+    {
+      "name": "INABATA & CO",
+      "url": "https://www.inabata.co.jp/news/field/sub-category/%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/",
+      "symbol": "8098.T",
+      "per": 10.893302,
+      "pbr": 0.9263812,
+      "auto": true
+    },
+    {
+      "name": "KUWAZAWA HOLDINGS CORPORATION",
+      "url": "https://www.kuwazawa-hd.co.jp/ir/news/",
+      "symbol": "8104.T",
+      "per": 9.56076,
+      "pbr": 0.5994818,
+      "auto": true
+    },
+    {
+      "name": "ZETT CORPORATION",
+      "url": "https://zett.jp/news/?cate=ニュースリリース",
+      "symbol": "8135.T",
+      "per": 9.02527,
+      "pbr": 0.57490134,
+      "auto": true
+    },
+    {
+      "name": "SANKYO KASEI CORP",
+      "url": "https://www.sankyokasei-corp.co.jp/ir/calendar.html",
+      "symbol": "8138.T",
+      "per": 5.0968585,
+      "pbr": 0.40828824,
+      "auto": true
+    },
+    {
+      "name": "SANSHIN ELECTRONICS CO",
+      "url": "https://www.sanshin.co.jp/news/",
+      "symbol": "8150.T",
+      "per": 7.7280135,
+      "pbr": 0.8440562,
+      "auto": true
+    },
+    {
+      "name": "SOMAR CORPORATION",
+      "url": "https://www.somar.co.jp/ir/news/",
+      "symbol": "8152.T",
+      "per": 9.606123,
+      "pbr": 0.64028925,
+      "auto": true
+    },
+    {
+      "name": "TACHIBANA ELETECH CO LTD.",
+      "url": "https://www.tachibana.co.jp/ir/calendar/",
+      "symbol": "8159.T",
+      "per": 12.97009,
+      "pbr": 0.859362,
+      "auto": true
+    },
+    {
+      "name": "TAKA-Q CO LTD",
+      "url": "https://online.taka-q.jp/shop/pages/ir_library.aspx?area=hd&pageid=top",
+      "symbol": "8166.T",
+      "per": 6.4356437,
+      "pbr": 0.31804022,
+      "auto": true
+    },
+    {
+      "name": "MRMAX HOLDINGS LTD",
+      "url": "https://www.mrmaxhd.co.jp/release/",
+      "symbol": "8203.T",
+      "per": 9.578121,
+      "pbr": 0.6776943,
+      "auto": true
+    },
+    {
+      "name": "TAKACHIHO CO LTD",
+      "url": "https://kk-takachiho.jp/pages/18/",
+      "symbol": "8225.T",
+      "per": 7.4906764,
+      "pbr": 0.9535195,
+      "auto": true
+    },
+    {
+      "name": "RIKEI CORPORATION",
+      "url": "https://www.rikei.co.jp/finance/ir_news/",
+      "symbol": "8226.T",
+      "per": 7.862209,
+      "pbr": 0.97771907,
+      "auto": true
+    },
+    {
+      "name": "CREDIT SAISON CO",
+      "url": "https://corporate.saisoncard.co.jp/ir/",
+      "symbol": "8253.T",
+      "per": 11.148258,
+      "pbr": 0.894071,
+      "auto": true
+    },
+    {
+      "name": "IZUTSUYA CO LTD",
+      "url": "http://corp.izutsuya.co.jp/news/",
+      "symbol": "8260.T",
+      "per": 8.562345,
+      "pbr": 0.34492478,
+      "auto": true
+    },
+    {
+      "name": "TOTTORI BANK",
+      "url": "https://www.tottoribank.co.jp/torigin/news/index.html",
+      "symbol": "8383.T",
+      "per": 11.5339155,
+      "pbr": 0.3527585,
+      "auto": true
+    },
+    {
+      "name": "SHIKOKU BANK",
+      "url": "https://www.shikokubank.co.jp#newsrelease",
+      "symbol": "8387.T",
+      "per": 8.488984,
+      "pbr": 0.7492733,
+      "auto": true
+    },
+    {
+      "name": "BANK OF SAGA",
+      "url": "https://www.sagabank.co.jp/news/release/",
+      "symbol": "8395.T",
+      "per": 12.642175,
+      "pbr": 0.81987363,
+      "auto": true
+    },
+    {
+      "name": "MIZUHO LEASING COMPANY LTD",
+      "url": "https://www.mizuho-ls.co.jp/ja/ir.html",
+      "symbol": "8425.T",
+      "per": 7.9936476,
+      "pbr": 0.84448224,
+      "auto": true
+    },
+    {
+      "name": "J TRUST CO. LTD",
+      "url": "https://www.jt-corp.co.jp/news/",
+      "symbol": "8508.T",
+      "per": 8.389576,
+      "pbr": 0.94749105,
+      "auto": true
+    },
+    {
+      "name": "KITA-NIPPON BANK",
+      "url": "https://www.kitagin.co.jp/news/",
+      "symbol": "8551.T",
+      "per": 13.986014,
+      "pbr": 0.6287108,
+      "auto": true
+    },
+    {
+      "name": "DAITO BANK",
+      "url": "https://www.daitobank.co.jp/information/",
+      "symbol": "8563.T",
+      "per": 8.251073,
+      "pbr": 0.49211025,
+      "auto": true
+    },
+    {
+      "name": "KYUSHU LEASING SERVICE",
+      "url": "https://www.k-lease.co.jp/ja/news.html",
+      "symbol": "8596.T",
+      "per": 9.569268,
+      "pbr": 0.81592906,
+      "auto": true
+    },
+    {
+      "name": "OKASAN SECURITIES GROUP INC",
+      "url": "https://www.okasan.jp/news/",
+      "symbol": "8609.T",
+      "per": 10.47145,
+      "pbr": 0.9497049,
+      "auto": true
+    },
+    {
+      "name": "MARUHACHI SECURITIES CO LTD",
+      "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+      "symbol": "8700.T",
+      "per": 11.454566,
+      "pbr": 0.9379542,
+      "auto": true
+    },
+    {
+      "name": "FIDEA HOLDINGS CO LTD",
+      "url": "https://www.fidea.co.jp/news/",
+      "symbol": "8713.T",
+      "per": 11.494253,
+      "pbr": 0.51565975,
+      "auto": true
+    },
+    {
+      "name": "AKATSUKI CORP",
+      "url": "https://www.akatsuki-fg.com/news_release/",
+      "symbol": "8737.T",
+      "per": 4.8237753,
+      "pbr": 0.930388,
+      "auto": true
+    },
+    {
+      "name": "YUTAKA TRUSTY SECURITIES CO LTD",
+      "url": "https://www.yutaka-trusty.co.jp/news-release/news-recruit/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%8f%82%e5%8a%a0%e3%80%80%e5%b0%8f%e6%a8%bd%e5%95%86%e7%a7%91%e5%a4%a7%e5%ad%a6%e3%80%8c%e7%b7%91%e4%b8%98%e4%bc%81%e6%a5%ad%e7%ad%89%e3%82%bb%e3%83%9f%e3%83%8a-2/",
+      "symbol": "8747.T",
+      "per": 2.6673856,
+      "pbr": 0.6873952,
+      "auto": true
+    },
+    {
+      "name": "FUJI CORPORATION LIMITED",
+      "url": "https://www.fuji-jutaku.co.jp/ir/",
+      "symbol": "8860.T",
+      "per": 5.8307495,
+      "pbr": 0.46736225,
+      "auto": true
+    },
+    {
+      "name": "GOLDCREST CO LTD",
+      "url": "https://www.goldcrest.co.jp/ir/",
+      "symbol": "8871.T",
+      "per": 18.691854,
+      "pbr": 0.7814349,
+      "auto": true
+    },
+    {
+      "name": "ESLEAD CORPORATION",
+      "url": "https://www.eslead.co.jp/news/",
+      "symbol": "8877.T",
+      "per": 7.2780004,
+      "pbr": 0.98087466,
+      "auto": true
+    },
+    {
+      "name": "SYLA HOLDINGS CO LTD",
+      "url": "https://syla-holdings.jp/ir_news",
+      "symbol": "8887.T",
+      "per": 2.1659634,
+      "pbr": 0.010638582,
+      "auto": true
+    },
+    {
+      "name": "AMG HOLDINGS CO LTD",
+      "url": "https://www.amg-hd.co.jp/release/re2026.php",
+      "symbol": "8891.T",
+      "per": 5.1413383,
+      "pbr": 0.48481876,
+      "auto": true
+    },
+    {
+      "name": "MIRARTH HOLDINGS INC",
+      "url": "https://mirarth.co.jp/news/20260515172000.html",
+      "symbol": "8897.T",
+      "per": 13.227665,
+      "pbr": 0.74202806,
+      "auto": true
+    },
+    {
+      "name": "TOSHO CO LTD",
+      "url": "https://www.to-sho.net/ir/irdata/index.html",
+      "symbol": "8920.T",
+      "per": 7.6275644,
+      "pbr": 0.69316834,
+      "auto": true
+    },
+    {
+      "name": "ANABUKI KOSAN INC",
+      "url": "https://www.anabuki.ne.jp/news/ir/",
+      "symbol": "8928.T",
+      "per": 4.6447167,
+      "pbr": 0.52525747,
+      "auto": true
+    },
+    {
+      "name": "FJ NEXT HOLDINGS CO LTD",
+      "url": "https://www.fjnext-hd.co.jp/news/",
+      "symbol": "8935.T",
+      "per": 6.6180563,
+      "pbr": 0.7914802,
+      "auto": true
+    },
+    {
+      "name": "LAND BUSINESS CO LTD",
+      "url": "https://www.lbca.co.jp/ir/library/",
+      "symbol": "8944.T",
+      "per": 35.70392,
+      "pbr": 0.275097,
+      "auto": true
+    },
+    {
+      "name": "TOBU RAILWAY CO",
+      "url": "https://www.tobu.co.jp/topics/",
+      "symbol": "9001.T",
+      "per": 10.395095,
+      "pbr": 0.9170302,
+      "auto": true
+    },
+    {
+      "name": "KEIO CORPORATION",
+      "url": "https://www.keio.co.jp/news/update/news_release/news_all.html",
+      "symbol": "9008.T",
+      "per": 10.405536,
+      "pbr": 0.96690375,
+      "auto": true
+    },
+    {
+      "name": "CHICHIBU RAILWAY CO",
+      "url": "https://www.chichibu-railway.co.jp/kankoevent/news.html",
+      "symbol": "9012.T",
+      "per": 8.084018,
+      "pbr": 0.5441869,
+      "auto": true
+    },
+    {
+      "name": "NIIGATA KOTSU CO",
+      "url": "https://www.niigata-kotsu.co.jp/~noriai/news/timetable/2026/260601_tokyo.html",
+      "symbol": "9017.T",
+      "per": 6.6711254,
+      "pbr": 0.37415618,
+      "auto": true
+    },
+    {
+      "name": "CENTRAL JAPAN RAILWAY CO",
+      "url": "https://jr-central.co.jp/news/",
+      "symbol": "9022.T",
+      "per": 6.7658505,
+      "pbr": 0.70761096,
+      "auto": true
+    },
+    {
+      "name": "KONOIKE TRANSPORT CO LIMITED",
+      "url": "https://www.konoike.net/news/detail/20260729130256.html",
+      "symbol": "9025.T",
+      "per": 10.822672,
+      "pbr": 0.9570817,
+      "auto": true
+    },
+    {
+      "name": "NISHI-NIPPON RAILROAD CO",
+      "url": "https://www.nishitetsu.co.jp/ja/news.html",
+      "symbol": "9031.T",
+      "per": 7.189001,
+      "pbr": 0.7874222,
+      "auto": true
+    },
+    {
+      "name": "NANSO TRANSPORT CO",
+      "url": "https://www.nanso.co.jp/ir-news/irnews-year/year2026",
+      "symbol": "9034.T",
+      "per": 11.454699,
+      "pbr": 0.673696,
+      "auto": true
+    },
+    {
+      "name": "KANDA HOLDINGS CO LTD",
+      "url": "https://www.kanda-web.co.jp/news/",
+      "symbol": "9059.T",
+      "per": 7.9117236,
+      "pbr": 0.69181347,
+      "auto": true
+    },
+    {
+      "name": "JAPAN LOGISTIC SYSTEMS CORP",
+      "url": "https://www.logitem.co.jp/ir/calendar.html",
+      "symbol": "9060.T",
+      "per": 8.257679,
+      "pbr": 0.33840266,
+      "auto": true
+    },
+    {
+      "name": "MARUZEN SHOWA UNYU CO",
+      "url": "https://www.maruzenshowa.co.jp/ir/management/?tab=5",
+      "symbol": "9068.T",
+      "per": 11.286681,
+      "pbr": 0.99758965,
+      "auto": true
+    },
+    {
+      "name": "JAPAN OIL TRANSPORTATION CO",
+      "url": "https://www.jot.co.jp/ir/news/list2022/",
+      "symbol": "9074.T",
+      "per": 11.123519,
+      "pbr": 0.5761367,
+      "auto": true
+    },
+    {
+      "name": "SHINKI BUS CO LTD",
+      "url": "https://www.shinkibus.co.jp/ir/news/",
+      "symbol": "9083.T",
+      "per": 7.616135,
+      "pbr": 0.44981748,
+      "auto": true
+    },
+    {
+      "name": "NIPPON YUSEN KABUSHIKI KAISHA",
+      "url": "https://www.nyk.com/news/2026/20260813.html",
+      "symbol": "9101.T",
+      "per": 12.674272,
+      "pbr": 0.82922167,
+      "auto": true
+    },
+    {
+      "name": "MITSUI O.S.K. LINES LTD",
+      "url": "https://www.mol.co.jp/news/",
+      "symbol": "9104.T",
+      "per": 10.438444,
+      "pbr": 0.74646163,
+      "auto": true
+    },
+    {
+      "name": "CUC INC",
+      "url": "https://www.cuc-jpn.com/news/",
+      "symbol": "9158.T",
+      "per": 7.6923075,
+      "pbr": 0.6568879,
+      "auto": true
+    },
+    {
+      "name": "ON THE PAGE INC",
+      "url": "https://onthepage.jp/ir/",
+      "symbol": "9160.T",
+      "per": 12.0060215,
+      "pbr": 0.800739,
+      "auto": true
+    },
+    {
+      "name": "ANA HOLDINGS INC NPV PRF STOCK ",
+      "url": "https://www.ana.co.jp/group/investors/",
+      "symbol": "92025.T",
+      "per": null,
+      "pbr": 1.4948294,
+      "auto": true
+    },
+    {
+      "name": "FB CARE SERVICE CO LTD",
+      "url": "https://www.fb-kaigo.co.jp/news/20260803-ir/",
+      "symbol": "9220.T",
+      "per": 6.5486345,
+      "pbr": 0.76177907,
+      "auto": true
+    },
+    {
+      "name": "PEOPLE DREAMS & TECHNOLOGIES GR",
+      "url": "https://www.pdt-g.co.jp/ir/news.html",
+      "symbol": "9248.T",
+      "per": 6.108704,
+      "pbr": 0.64838916,
+      "auto": true
+    },
+    {
+      "name": "SILVER LIFE CO LTD",
+      "url": "https://www.silver-life.co.jp/news/%e8%87%aa%e5%ae%b6%e6%b6%88%e8%b2%bb%e5%9e%8b%e5%a4%aa%e9%99%bd%e5%85%89%e7%99%ba%e9%9b%bb%e8%a8%ad%e5%82%99%e3%82%92%e5%b0%8e%e5%85%a5%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab%e4%bc%b4%e3%81%84",
+      "symbol": "9262.T",
+      "per": 9.267625,
+      "pbr": 1.0047299,
+      "auto": true
+    },
+    {
+      "name": "CANADIAN SOLAR INFRASTRUCTURE F",
+      "url": "https://www.canadiansolarinfra.com/ja/ir/schedule.html",
+      "symbol": "9284.T",
+      "per": 12.004802,
+      "pbr": 0.7781535,
+      "auto": true
+    },
+    {
+      "name": "YAMATANE CORP",
+      "url": "https://www.yamatane.co.jp/ir/investor/presentations/",
+      "symbol": "9305.T",
+      "per": 8.237323,
+      "pbr": 0.70878273,
+      "auto": true
+    },
+    {
+      "name": "TOYO LOGISTICS CO",
+      "url": "https://www.toyo-logistics.co.jp/investor/ir_news/",
+      "symbol": "9306.T",
+      "per": 9.041518,
+      "pbr": 0.51569766,
+      "auto": true
+    },
+    {
+      "name": "KEIHIN CO LTD",
+      "url": "https://www.keihin.co.jp/category/ir/",
+      "symbol": "9312.T",
+      "per": 7.358427,
+      "pbr": 0.5306397,
+      "auto": true
+    },
+    {
+      "name": "TOYO WHARF & WAREHOUSE CO",
+      "url": "https://www.toyofuto.co.jp/news/",
+      "symbol": "9351.T",
+      "per": 9.132421,
+      "pbr": 0.41743207,
+      "auto": true
+    },
+    {
+      "name": "RINKO CORP",
+      "url": "https://www.rinko.co.jp/kessan/ir-news/",
+      "symbol": "9355.T",
+      "per": 5.4377112,
+      "pbr": 0.29257748,
+      "auto": true
+    },
+    {
+      "name": "FUSHIKI KAIRIKU UNSO CO",
+      "url": "https://www.fkk-toyama.co.jp/news/%e5%89%b0%e4%bd%99%e9%87%91%e3%81%ae%e9%85%8d%e5%bd%93%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-7/",
+      "symbol": "9361.T",
+      "per": 6.835341,
+      "pbr": 0.39966482,
+      "auto": true
+    },
+    {
+      "name": "HYOKI KAIUN KAISHA",
+      "url": "http://www.hyoki.co.jp/contents/ir/index.html",
+      "symbol": "9362.T",
+      "per": 10.917162,
+      "pbr": 0.92430186,
+      "auto": true
+    },
+    {
+      "name": "TRADIA CORPORATION",
+      "url": "https://www.tradia.co.jp/news/",
+      "symbol": "9365.T",
+      "per": 6.5360007,
+      "pbr": 0.4001156,
+      "auto": true
+    },
+    {
+      "name": "BSN MEDIA HOLDINGS INC",
+      "url": "https://www.ohbsn.com/holdings/release/20250825.php",
+      "symbol": "9408.T",
+      "per": 11.025287,
+      "pbr": 0.5719671,
+      "auto": true
+    },
+    {
+      "name": "SHOBUNSHA HOLDINGS INC",
+      "url": "https://www.mapple.co.jp/28170/",
+      "symbol": "9475.T",
+      "per": 7.8557534,
+      "pbr": 0.66760004,
+      "auto": true
+    },
+    {
+      "name": "SE HOLDINGS AND INCUBATIONS CO ",
+      "url": "https://www.sehi.co.jp/ir/news/",
+      "symbol": "9478.T",
+      "per": 13.495852,
+      "pbr": 0.68182683,
+      "auto": true
+    },
+    {
+      "name": "CHUBU ELECTRIC POWER CO INC",
+      "url": "https://www.chuden.co.jp/ir/ir_news/index.html",
+      "symbol": "9502.T",
+      "per": 9.345671,
+      "pbr": 0.6717811,
+      "auto": true
+    },
+    {
+      "name": "KANSAI ELECTRIC POWER CO INC",
+      "url": "https://www.kepco.co.jp/ir/calendar/index.html",
+      "symbol": "9503.T",
+      "per": 7.037341,
+      "pbr": 0.7498223,
+      "auto": true
+    },
+    {
+      "name": "HOKURIKU ELECTRIC POWER CO",
+      "url": "https://www.rikuden.co.jp/corporate/ir.html",
+      "symbol": "9505.T",
+      "per": 3.7092443,
+      "pbr": 0.42885658,
+      "auto": true
+    },
+    {
+      "name": "SHIKOKU ELECTRIC POWER CO INC",
+      "url": "https://www.yonden.co.jp/corporate/ir/irpublish/",
+      "symbol": "9507.T",
+      "per": 7.2728376,
+      "pbr": 0.7519583,
+      "auto": true
+    },
+    {
+      "name": "KYUSHU ELECTRIC POWER CO INC",
+      "url": "https://www.kyuden.co.jp/news.html",
+      "symbol": "9508.T",
+      "per": 5.952381,
+      "pbr": 0.7131024,
+      "auto": true
+    },
+    {
+      "name": "HOKKAIDO ELECTRIC POWER CO INC",
+      "url": "https://www.hepco.co.jp/corporate/ir/ir.html",
+      "symbol": "9509.T",
+      "per": 5.091734,
+      "pbr": 0.45479667,
+      "auto": true
+    },
+    {
+      "name": "EF-ON INC",
+      "url": "https://www.ef-on.co.jp/news/",
+      "symbol": "9514.T",
+      "per": 12.757353,
+      "pbr": 0.35432896,
+      "auto": true
+    },
+    {
+      "name": "EREX CO LTD",
+      "url": "https://www.erex.co.jp/news/pressrelease/3601/",
+      "symbol": "9517.T",
+      "per": 12.673789,
+      "pbr": 0.9555957,
+      "auto": true
+    },
+    {
+      "name": "HOKKAIDO GAS CO",
+      "url": "https://www.hokkaido-gas.co.jp/news/20260625",
+      "symbol": "9534.T",
+      "per": 6.042435,
+      "pbr": 0.7020264,
+      "auto": true
+    },
+    {
+      "name": "HOKURIKU GAS CO",
+      "url": "https://www.hokurikugas.co.jp/information/news/index.html",
+      "symbol": "9537.T",
+      "per": 6.535948,
+      "pbr": 0.38064456,
+      "auto": true
+    },
+    {
+      "name": "KEIYO GAS CO LTD",
+      "url": "https://www.keiyogas.co.jp/company/",
+      "symbol": "9539.T",
+      "per": 11.049985,
+      "pbr": 0.42561087,
+      "auto": true
+    },
+    {
+      "name": "SHIZUOKA GAS CO LTD",
+      "url": "https://www.shizuokagas.co.jp/news/index.html",
+      "symbol": "9543.T",
+      "per": 9.569342,
+      "pbr": 0.6670844,
+      "auto": true
+    },
+    {
+      "name": "SPACE CO LTD (JP)",
+      "url": "https://www.space-tokyo.co.jp/ir/ir_info_list/",
+      "symbol": "9622.T",
+      "per": 9.276248,
+      "pbr": 1.002759,
+      "auto": true
+    },
+    {
+      "name": "CERESPO CO LTD",
+      "url": "https://www.cerespo.co.jp/topics/detail.php?i=662&PHPSESSID=72258d75ab5af42d89f0eb2830f85760",
+      "symbol": "9625.T",
+      "per": 6.6490498,
+      "pbr": 0.5220395,
+      "auto": true
+    },
+    {
+      "name": "SANKYO FRONTIER CO",
+      "url": "https://www.sankyofrontier.com/corporate/news/detail.php?news_id=260728_summer",
+      "symbol": "9639.T",
+      "per": 9.372128,
+      "pbr": 0.9947083,
+      "auto": true
+    },
+    {
+      "name": "KYOWA ENGINEERING CONSULTANTS C",
+      "url": "https://www.kyowa-c.co.jp/irinfo/index.html",
+      "symbol": "9647.T",
+      "per": 5.574136,
+      "pbr": 0.7400312,
+      "auto": true
+    },
+    {
+      "name": "TOYO TEC CO LTD",
+      "url": "https://www.toyo-tec.co.jp/news/",
+      "symbol": "9686.T",
+      "per": 8.818547,
+      "pbr": 0.7572166,
+      "auto": true
+    },
+    {
+      "name": "NISHIO HOLDINGS CO LTD",
+      "url": "https://www.nishio-grp.co.jp/news/pressrelease/",
+      "symbol": "9699.T",
+      "per": 10.88134,
+      "pbr": 0.8662575,
+      "auto": true
+    },
+    {
+      "name": "TOKAI LEASE CO LTD",
+      "url": "https://tokai-lease.co.jp/ir/ir_news/",
+      "symbol": "9761.T",
+      "per": 11.723048,
+      "pbr": 0.48489964,
+      "auto": true
+    },
+    {
+      "name": "NIKKEN KOGAKU CO",
+      "url": "https://www.nikken-kogaku.co.jp/news/",
+      "symbol": "9767.T",
+      "per": 10.21467,
+      "pbr": 0.5826288,
+      "auto": true
+    },
+    {
+      "name": "IDEA CONSULTANTS INC",
+      "url": "https://www.ideacon.co.jp/news/detail/20260812170451.html",
+      "symbol": "9768.T",
+      "per": 10.952777,
+      "pbr": 0.86582124,
+      "auto": true
+    },
+    {
+      "name": "HARIMA B-STEM CORP",
+      "url": "https://www.bstem.co.jp/investor/ir/ir-6152/",
+      "symbol": "9780.T",
+      "per": 8.992646,
+      "pbr": 0.88304865,
+      "auto": true
+    },
+    {
+      "name": "BIKEN TECHNO CORP",
+      "url": "https://www.bikentechno.co.jp/news/",
+      "symbol": "9791.T",
+      "per": 6.1461706,
+      "pbr": 0.378233,
+      "auto": true
+    },
+    {
+      "name": "DAIMARU ENAWIN CO.LTD",
+      "url": "https://www.gas-daimaru.co.jp/news/2026/07/post-17.html",
+      "symbol": "9818.T",
+      "per": 12.0188465,
+      "pbr": 0.7130248,
+      "auto": true
+    },
+    {
+      "name": "MT GENEX CORPORATION",
+      "url": "https://www.mt-genex.co.jp/newsinfo/",
+      "symbol": "9820.T",
+      "per": 12.837168,
+      "pbr": 0.8941104,
+      "auto": true
+    },
+    {
+      "name": "TRUSCO NAKAYAMA CORP",
+      "url": "https://www.trusco.co.jp/ir/",
+      "symbol": "9830.T",
+      "per": 9.661933,
+      "pbr": 0.8169149,
+      "auto": true
+    },
+    {
+      "name": "PARKER CORPORATION",
+      "url": "https://www.parkercorp.co.jp/sustainability/environment/index.html",
+      "symbol": "9845.T",
+      "per": 7.6279316,
+      "pbr": 0.6894521,
+      "auto": true
+    },
+    {
+      "name": "KU HOLDINGS CO LTD",
+      "url": "https://www.ku-hd.com/news/press",
+      "symbol": "9856.T",
+      "per": 7.391071,
+      "pbr": 0.5538024,
+      "auto": true
+    },
+    {
+      "name": "EIWA CORPORATION",
+      "url": "https://www.eiwa-net.co.jp/news/",
+      "symbol": "9857.T",
+      "per": 8.116784,
+      "pbr": 0.8726721,
+      "auto": true
+    },
+    {
+      "name": "COX CO LTD",
+      "url": "https://www.cox-online.co.jp/news/ir/",
+      "symbol": "9876.T",
+      "per": 5.653527,
+      "pbr": 0.5716728,
+      "auto": true
+    },
+    {
+      "name": "JK HOLDINGS",
+      "url": "https://www.jkhd.co.jp/common/ir_document/?type=related",
+      "symbol": "9896.T",
+      "per": 9.487971,
+      "pbr": 0.56895226,
+      "auto": true
+    },
+    {
+      "name": "FUJII SANGYO CORP",
+      "url": "https://www.fujii.co.jp/news/",
+      "symbol": "9906.T",
+      "per": 7.256856,
+      "pbr": 0.84543306,
+      "auto": true
+    },
+    {
+      "name": "NIHON DENKEI CO",
+      "url": "https://www.n-denkei.co.jp/news/",
+      "symbol": "9908.T",
+      "per": 8.53237,
+      "pbr": 0.93331724,
+      "auto": true
+    },
+    {
+      "name": "VALOR HOLDINGS CO LTD",
+      "url": "https://valorholdings.co.jp/news-ir/",
+      "symbol": "9956.T",
+      "per": 10.245836,
+      "pbr": 0.8916735,
+      "auto": true
+    },
+    {
+      "name": "MRK HOLDINGS INC",
+      "url": "https://www.mrkholdings.co.jp/news/",
+      "symbol": "9980.T",
+      "per": 10.221286,
+      "pbr": 0.6118021,
+      "auto": true
+    },
+    {
+      "name": "SACS BAR HOLDINGS INC",
+      "url": "https://www.sacs-bar.co.jp/news/",
+      "symbol": "9990.T",
+      "per": 11.53436,
+      "pbr": 0.7283251,
+      "auto": true
+    },
+    {
+      "name": "YAMAZAWA CO LTD",
+      "url": "https://yamazawa.co.jp/news/2026/07/-2026728.html",
+      "symbol": "9993.T",
+      "per": 9.233395,
+      "pbr": 0.45403072,
+      "auto": true
+    }
+  ],
+  "unresolved": [
+    {
+      "symbol": "1381.T",
+      "reason": "HTTPSConnectionPool(host='www.axyz-grp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.a"
+    },
+    {
+      "symbol": "1443.T",
+      "reason": "HTTPSConnectionPool(host='www.giken-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
+    },
+    {
+      "symbol": "1718.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "1795.T",
+      "reason": "HTTPSConnectionPool(host='www.masaru-co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
+    },
+    {
+      "symbol": "1798.T",
+      "reason": "HTTPSConnectionPool(host='www.moriya-s.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "symbol": "1925.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.daiwahouse.co.jp/"
+    },
+    {
+      "symbol": "1960.T",
+      "reason": "HTTPSConnectionPool(host='www.suntec-sec.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.su"
+    },
+    {
+      "symbol": "1994.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2053.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2112.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2193.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2292.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2425.T",
+      "reason": "HTTPSConnectionPool(host='www.care.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
+    },
+    {
+      "symbol": "256A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2673.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2681.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.geonet.co.jp/"
+    },
+    {
+      "symbol": "2693.T",
+      "reason": "HTTPSConnectionPool(host='www.ykt.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ykt.co"
+    },
+    {
+      "symbol": "2750.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2784.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.alfresa.com/"
+    },
+    {
+      "symbol": "2788.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2813.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.wakoushokuhin.co.jp/"
+    },
+    {
+      "symbol": "2907.T",
+      "reason": "HTTPSConnectionPool(host='www.ahjikan.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ah"
+    },
+    {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ams"
+    },
+    {
+      "symbol": "2961.T",
+      "reason": "HTTPSConnectionPool(host='www.nitcho.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nit"
+    },
+    {
+      "symbol": "297A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2993.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3024.T",
+      "reason": "HTTPSConnectionPool(host='www.cr-net.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
+    },
+    {
+      "symbol": "3050.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3069.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3089.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3101.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3134.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3184.T",
+      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icda.jp'"
+    },
+    {
+      "symbol": "3232.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3236.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3248.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3266.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3291.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3374.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3422.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3434.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3454.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3494.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3538.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3551.T",
+      "reason": "HTTPSConnectionPool(host='www.dynic.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
+    },
+    {
+      "symbol": "3583.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3607.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3611.T",
+      "reason": "HTTPSConnectionPool(host='www.matuoka.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ma"
+    },
+    {
+      "symbol": "3636.T",
+      "reason": "404 Client Error: Not Found for url: https://www.mri.co.jp/"
+    },
+    {
+      "symbol": "3710.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3892.T",
+      "reason": "HTTPSConnectionPool(host='www.okayamaseishi.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL:"
+    },
+    {
+      "symbol": "3944.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3951.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3953.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3954.T",
+      "reason": "HTTPSConnectionPool(host='www.showa-paxxs.co.jp', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www"
+    },
+    {
+      "symbol": "4008.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4116.T",
+      "reason": "HTTPSConnectionPool(host='www.daicolor.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAK"
+    },
+    {
+      "symbol": "4120.T",
+      "reason": "HTTPSConnectionPool(host='www.sugai-chem.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
+      "symbol": "4228.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4231.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4243.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4247.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4317.T",
+      "reason": "HTTPSConnectionPool(host='www.ray.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ray.co"
+    },
+    {
+      "symbol": "4463.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4623.T",
+      "reason": "HTTPSConnectionPool(host='www.asahipen.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.asah"
+    },
+    {
+      "symbol": "4673.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4725.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4956.T",
+      "reason": "HTTPSConnectionPool(host='www.bond.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FA"
+    },
+    {
+      "symbol": "4990.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4994.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5189.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5204.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5283.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5351.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5363.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5391.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5697.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5858.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5923.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5928.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5958.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5962.T",
+      "reason": "HTTPSConnectionPool(host='www.asaka-ind.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+    },
+    {
+      "symbol": "5970.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5974.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5981.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5986.T",
+      "reason": "HTTPSConnectionPool(host='www.molitec.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mo"
+    },
+    {
+      "symbol": "5987.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5989.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5998.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6042.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6049.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6094.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6138.T",
+      "reason": "HTTPSConnectionPool(host='www.dijet.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dije"
+    },
+    {
+      "symbol": "6159.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6229.T",
+      "reason": "404 Client Error: Page Not Found for url: https://okm-net.jp/404.html"
+    },
+    {
+      "symbol": "6317.T",
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+    },
+    {
+      "symbol": "6322.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6342.T",
+      "reason": "HTTPSConnectionPool(host='www.taihei-ss.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
+    },
+    {
+      "symbol": "6343.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6358.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6371.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6395.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6444.T",
+      "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
+    },
+    {
+      "symbol": "6463.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6488.T",
+      "reason": "HTTPSConnectionPool(host='www.yoshitake.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIF"
+    },
+    {
+      "symbol": "6505.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6555.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6647.T",
+      "reason": "HTTPSConnectionPool(host='www.morio.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFI"
+    },
+    {
+      "symbol": "6658.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6748.T",
+      "reason": "HTTPSConnectionPool(host='www.seiwa.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh ke"
+    },
+    {
+      "symbol": "6810.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6858.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6894.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6902.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.denso.com/"
+    },
+    {
+      "symbol": "6915.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6932.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6989.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6995.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7181.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7192.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7212.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7213.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7219.T",
+      "reason": "HTTPSConnectionPool(host='www.hks-global.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.h"
+    },
+    {
+      "symbol": "7228.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7231.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7242.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7246.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7247.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7259.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7266.T",
+      "reason": "HTTPSConnectionPool(host='imasen.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='imasen.co.j"
+    },
+    {
+      "symbol": "7283.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7291.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7294.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7296.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.fcc-net.co.jp/"
+    },
+    {
+      "symbol": "7362.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7372.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7425.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7460.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7461.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7463.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7494.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7520.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7524.T",
+      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
+    },
+    {
+      "symbol": "7561.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7625.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7679.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7791.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.dreambed.jp/"
+    },
+    {
+      "symbol": "7875.T",
+      "reason": "HTTPSConnectionPool(host='takedaip-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='takeda"
+    },
+    {
+      "symbol": "7902.T",
+      "reason": "HTTPSConnectionPool(host='www.sonocom.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE"
+    },
+    {
+      "symbol": "7917.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7919.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7927.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7942.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7963.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7986.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7987.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.nakabayashi.co.jp/"
+    },
+    {
+      "symbol": "7990.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8041.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8043.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.starzen.co.jp/"
+    },
+    {
+      "symbol": "8052.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8076.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8091.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8103.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8147.T",
+      "reason": "HTTPSConnectionPool(host='www.tomitaj.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.to"
+    },
+    {
+      "symbol": "8158.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8165.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8285.T",
+      "reason": "HTTPSConnectionPool(host='www.mitani.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INSUFFICIE"
+    },
+    {
+      "symbol": "8584.T",
+      "reason": "HTTPSConnectionPool(host='www.jaccs.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "symbol": "8617.T",
+      "reason": "HTTPSConnectionPool(host='www.kosei.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kose"
+    },
+    {
+      "symbol": "8699.T",
+      "reason": "HTTPSConnectionPool(host='www.sawada-holdings.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SS"
+    },
+    {
+      "symbol": "8772.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8793.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.necap.co.jp/"
+    },
+    {
+      "symbol": "8844.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8869.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8904.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8917.T",
+      "reason": "HTTPSConnectionPool(host='www.f-juken.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.f-"
+    },
+    {
+      "symbol": "8931.T",
+      "reason": "HTTPSConnectionPool(host='www.wadakohsan.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
+      "symbol": "9049.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9057.T",
+      "reason": "HTTPSConnectionPool(host='www.enshu-truck.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
+    },
+    {
+      "symbol": "9063.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9119.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9127.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9130.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9171.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9193.T",
+      "reason": "HTTPSConnectionPool(host='www.tokyokisen.co.jp', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+    },
+    {
+      "symbol": "9201.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jal.com/en"
+    },
+    {
+      "symbol": "92015.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jal.com/en"
+    },
+    {
+      "symbol": "9253.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9268.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9366.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9368.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9404.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9409.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9501.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.tepco.co.jp/"
+    },
+    {
+      "symbol": "9504.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9506.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9536.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9619.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9635.T",
+      "reason": "HTTPSConnectionPool(host='www.musashino-k.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
+    },
+    {
+      "symbol": "9685.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9763.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9816.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9846.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9867.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9888.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9890.T",
+      "reason": "HTTPSConnectionPool(host='www.makiya-group.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
+    },
+    {
+      "symbol": "9932.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9955.T",
+      "reason": "HTTPSConnectionPool(host='www.yonkyu.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIF"
+    },
+    {
+      "symbol": "9987.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9991.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9994.T",
+      "reason": "HTTPSConnectionPool(host='www.yamaya.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.yamaya"
+    },
+    {
+      "symbol": "9997.T",
+      "reason": "HTTPSConnectionPool(host='www.belluna.co.jp', port=443): Read timed out. (read timeout=15)"
+    }
+  ]
 }
