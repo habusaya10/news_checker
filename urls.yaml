@@ -1,11 +1,97 @@
 sites:
-  # ここに監視したいサイトを追加していくだけでOK！
   - name: 大同信号
     url: https://www.daido-signal.co.jp/newsrelease/
 
-  # 追加例（コメントアウトを外せば有効になります）
-  # - name: ○○電機
-  #   url: https://www.example.co.jp/news/
+  - name: 前澤HD
+    url: https://maezawa-hd.co.jp/ir/news/
+    dynamic: true
 
-  # - name: △△工業
-  #   url: https://www.example2.co.jp/newsrelease/
+  - name: 新日本建設
+    url: https://www.shinnihon-c.co.jp/ir/news/
+
+  - name: 南海化学
+    url: https://www.nankai-chem.co.jp/ir/
+    dynamic: true
+
+  - name: 三社電機製作所
+    url: https://www.sansha.co.jp/ir/index.html
+    dynamic: true
+
+  - name: 丸文
+    url: https://www.marubun.co.jp/ir/
+
+  - name: 日本リーテック
+    url: https://www.j-rietec.co.jp/news/
+    dynamic: true
+
+  - name: 協立電機
+    url: https://www.kdwan.co.jp/news/
+
+  - name: 大光銀行
+    url: https://www.taikobank.jp/news_release/
+
+  - name: SBI新生銀行
+    url: https://corp.sbishinseibank.co.jp/ja/news/news.html
+
+  - name: 東洋電機製造
+    url: https://www.toyodenki.co.jp/ir/release.html
+
+  - name: オーナンバ
+    url: https://www.onamba.co.jp/ir-information/
+
+  - name: 日本高純度化学
+    url: https://www.netjpc.com/ir/
+    dynamic: true
+
+  - name: サンリツ
+    url: https://www.srt.co.jp/ir/
+    dynamic: true
+
+  - name: 中央自動車工業
+    url: https://www.central-auto.co.jp/ja/index.html
+
+  - name: 鉄建建設
+    url: https://www.tekken.co.jp/ir/news/
+    dynamic: true
+
+  - name: 飛島HD
+    url: https://www.tobishimahd.co.jp/ir/
+
+  - name: トレイダーズHD
+    url: https://www.tradershd.com/ir/
+    dynamic: true
+
+  - name: デイトナ
+    url: https://corporate.daytona.co.jp/ir/news/
+    dynamic: true
+
+  - name: リケンNPR
+    url: https://www.npr-riken.co.jp/ir/
+
+  - name: 南海辰村建設
+    url: https://www.nantatsu.co.jp/info/index.html
+
+  - name: 三菱UFJフィナンシャル・グループ
+    url: https://www.mufg.jp/pressrelease/index.html
+
+  - name: ダイニック
+    url: https://www.dynic.co.jp/ir/
+
+  - name: 遠藤照明
+    url: https://www.endo-lighting.co.jp/ir/
+    dynamic: true
+
+  - name: ひろぎんHD
+    url: https://www.hirogin-hd.co.jp/news/
+
+  - name: スーパーバッグ
+    url: https://www.superbag.co.jp/ir/
+
+  - name: 東京インキ
+    url: https://www.tokyoink.co.jp/ir/news/
+
+  - name: シイエム・シイ
+    url: https://www.cmc.co.jp/
+
+  - name: 靜甲
+    url: https://www.seiko-co.com/ir/
