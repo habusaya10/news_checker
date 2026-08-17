@@ -26,7 +26,7 @@ jobs:
           pip install requests beautifulsoup4 pyyaml playwright yfinance
           playwright install --with-deps chromium
 
-      - name: PER・PBR条件銘柄を自動更新
+      - name: 日本の全上場企業を自動更新
         continue-on-error: true
         run: python auto_discovery.py
 
