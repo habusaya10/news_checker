@@ -1,4 +1,4 @@
-"""割安条件に合う日本株の公式ニュースページを自動管理する。
+"""日本の全上場企業の公式ニュースページを自動管理する。
 
 urls.yaml はユーザー指定の固定銘柄であり、このスクリプトは変更しない。
 自動抽出した銘柄だけを auto_urls.json に保存する。
@@ -18,8 +18,6 @@ from yfinance import EquityQuery
 
 
 OUTPUT_FILE = "auto_urls.json"
-PER_MAX = 12.0
-PBR_MAX = 1.0
 TIMEOUT = 15
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; news-checker/1.0)"}
 DATE_RE = re.compile(
@@ -35,15 +33,9 @@ def load_previous():
         return json.load(file)
 
 
-def screen_value_stocks():
-    query = EquityQuery(
-        "and",
-        [
-            EquityQuery("eq", ["region", "jp"]),
-            EquityQuery("btwn", ["peratio.lasttwelvemonths", 0.01, PER_MAX]),
-            EquityQuery("btwn", ["pricebookratio.quarterly", 0.01, PBR_MAX]),
-        ],
-    )
+def screen_japanese_stocks():
+    # PER・PBRでは絞らず、日本地域の全株式を取得する。
+    query = EquityQuery("eq", ["region", "jp"])
     quotes = []
     offset = 0
     while True:
@@ -126,8 +118,6 @@ def page_looks_like_news(url):
 def discover_one(symbol, quote, previous_by_symbol):
     old = previous_by_symbol.get(symbol)
     if old and page_looks_like_news(old["url"]):
-        old["per"] = quote.get("trailingPE")
-        old["pbr"] = quote.get("priceToBook")
         return old
 
     info = yf.Ticker(symbol).get_info()
@@ -145,8 +135,6 @@ def discover_one(symbol, quote, previous_by_symbol):
                 "name": name,
                 "url": candidate,
                 "symbol": symbol,
-                "per": quote.get("trailingPE"),
-                "pbr": quote.get("priceToBook"),
                 "auto": True,
             }
         try:
@@ -160,8 +148,6 @@ def discover_one(symbol, quote, previous_by_symbol):
                 "name": name,
                 "url": candidate,
                 "symbol": symbol,
-                "per": quote.get("trailingPE"),
-                "pbr": quote.get("priceToBook"),
                 "auto": True,
             }
     raise RuntimeError("公式ニュースページを確認できず")
@@ -172,7 +158,7 @@ def main():
     previous_by_symbol = {
         site["symbol"]: site for site in previous.get("sites", []) if site.get("symbol")
     }
-    quotes = screen_value_stocks()
+    quotes = screen_japanese_stocks()
     sites = []
     unresolved = []
 
@@ -193,13 +179,13 @@ def main():
 
     result = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "criteria": {"per_max": PER_MAX, "pbr_max": PBR_MAX, "basis": "trailing"},
+        "criteria": {"market": "Japan", "scope": "all listed equities"},
         "sites": sorted(sites, key=lambda site: site["symbol"]),
         "unresolved": sorted(unresolved, key=lambda item: item["symbol"]),
     }
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         json.dump(result, file, ensure_ascii=False, indent=2)
-    print(f"条件該当: {len(quotes)} / URL確認済み: {len(sites)} / 保留: {len(unresolved)}")
+    print(f"日本株: {len(quotes)} / URL確認済み: {len(sites)} / 保留: {len(unresolved)}")
 
 
 if __name__ == "__main__":
