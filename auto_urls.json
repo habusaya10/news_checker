@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:38:41.901060+00:00",
+  "updated_at": "2026-08-20T10:56:12.944581+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -754,6 +754,12 @@
       "auto": true
     },
     {
+      "name": "NIPPON DENSETSU KOGYO CO",
+      "url": "https://www.densetsuko.co.jp/news/?news-tag=fy2026",
+      "symbol": "1950.T",
+      "auto": true
+    },
+    {
       "name": "EXEO GROUP INC",
       "url": "https://www.exeo.co.jp/news/",
       "symbol": "1951.T",
@@ -921,6 +927,12 @@
       "name": "MITSUI DM SUGAR CO LTD",
       "url": "https://www.msdm-hd.com/ir/news/",
       "symbol": "2109.T",
+      "auto": true
+    },
+    {
+      "name": "ENSUIKO SUGAR REFINING CO",
+      "url": "https://www.ensuiko.co.jp/ir/info.php",
+      "symbol": "2112.T",
       "auto": true
     },
     {
@@ -1787,7 +1799,7 @@
     },
     {
       "name": "KEY COFFEE INC",
-      "url": "https://www.keycoffee.co.jp/news/detail/news_260817",
+      "url": "https://www.keycoffee.co.jp/news/detail/news_260813",
       "symbol": "2594.T",
       "auto": true
     },
@@ -5843,6 +5855,12 @@
       "name": "BROADBAND SECURITY INC",
       "url": "https://www.bbsec.co.jp/news/20260716.html",
       "symbol": "4398.T",
+      "auto": true
+    },
+    {
+      "name": "ADEKA CORPORATION",
+      "url": "https://www.adeka.co.jp/news/2026/08/260820.html",
+      "symbol": "4401.T",
       "auto": true
     },
     {
@@ -10676,6 +10694,12 @@
       "auto": true
     },
     {
+      "name": "IRISO ELECTRONICS CO",
+      "url": "https://www.irisoele.com/jp/ir/management/president-message/",
+      "symbol": "6908.T",
+      "auto": true
+    },
+    {
       "name": "KIKUSUI HOLDINGS CORPORATION",
       "url": "https://kikusui-holdings.co.jp/investor/news-ir/",
       "symbol": "6912.T",
@@ -11941,7 +11965,7 @@
     },
     {
       "name": "PLAZA HOLDINGS CO LTD",
-      "url": "https://www.plazacreate.co.jp/news/",
+      "url": "https://www.plazacreate.co.jp/news/page/37/",
       "symbol": "7502.T",
       "auto": true
     },
@@ -12401,6 +12425,12 @@
       "name": "TOKYO SEIMITSU CO",
       "url": "https://www.accretech.com/jp/ir/news.html",
       "symbol": "7729.T",
+      "auto": true
+    },
+    {
+      "name": "OLYMPUS CORPORATION",
+      "url": "https://www.olympus.co.jp/news/2026/nr03042.html",
+      "symbol": "7733.T",
       "auto": true
     },
     {
@@ -15454,6 +15484,12 @@
       "auto": true
     },
     {
+      "name": "NTT INC",
+      "url": "https://group.ntt/en/newsrelease/2026/05/19/260519a.html",
+      "symbol": "9432.T",
+      "auto": true
+    },
+    {
       "name": "KDDI CORPORATION",
       "url": "https://newsroom.kddi.com/news/index?category=newsrelease",
       "symbol": "9433.T",
@@ -15777,10 +15813,8 @@
     },
     {
       "name": "CERESPO CO LTD",
-      "url": "https://www.cerespo.co.jp/topics/detail.php?i=662&PHPSESSID=72258d75ab5af42d89f0eb2830f85760",
+      "url": "https://www.cerespo.co.jp/topics/detail.php?i=662&PHPSESSID=9ec35b70987048527803253c248aa3ff",
       "symbol": "9625.T",
-      "per": 6.706185,
-      "pbr": 0.5265253,
       "auto": true
     },
     {
@@ -16670,6 +16704,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.daiwahouse.co.jp/"
     },
     {
+      "symbol": "1928.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.sekisuihouse.co.jp/"
+    },
+    {
       "symbol": "192A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -16688,10 +16726,6 @@
     {
       "symbol": "194A.T",
       "reason": "403 Client Error: Forbidden for url: https://www.wolveshand.jp/"
-    },
-    {
-      "symbol": "1950.T",
-      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "1959.T",
@@ -16747,10 +16781,6 @@
     },
     {
       "symbol": "2108.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2112.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -16812,10 +16842,6 @@
     {
       "symbol": "2226.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2229.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.calbee.co.jp/"
     },
     {
       "symbol": "2268.T",
@@ -16920,6 +16946,10 @@
     {
       "symbol": "2437.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2459.T",
+      "reason": "HTTPSConnectionPool(host='www.auncon.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2469.T",
@@ -17263,7 +17293,7 @@
     },
     {
       "symbol": "3058.T",
-      "reason": "HTTPSConnectionPool(host='www.sanyodo.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3067.T",
@@ -18030,10 +18060,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4171.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4172.T",
       "reason": "HTTPSConnectionPool(host='www.towa-hi-sys.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ww"
     },
@@ -18199,10 +18225,6 @@
     },
     {
       "symbol": "4397.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4401.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18415,7 +18437,7 @@
     },
     {
       "symbol": "4671.T",
-      "reason": "HTTPSConnectionPool(host='www.falco-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WH"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4673.T",
@@ -18492,10 +18514,6 @@
     {
       "symbol": "4792.T",
       "reason": "403 Client Error: Forbidden for url: https://www.yamada-cg.co.jp/"
-    },
-    {
-      "symbol": "4801.T",
-      "reason": "HTTPSConnectionPool(host='www.central.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4812.T",
@@ -19135,7 +19153,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19259,7 +19277,7 @@
     },
     {
       "symbol": "6342.T",
-      "reason": "HTTPSConnectionPool(host='www.taihei-ss.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6343.T",
@@ -19432,10 +19450,6 @@
     {
       "symbol": "6539.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6540.T",
-      "reason": "502 Server Error: connect failed for url: https://www.semba1008.co.jp/"
     },
     {
       "symbol": "6552.T",
@@ -19759,10 +19773,6 @@
     },
     {
       "symbol": "6905.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6908.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20171,7 +20181,7 @@
     },
     {
       "symbol": "7462.T",
-      "reason": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7463.T",
@@ -20359,7 +20369,7 @@
     },
     {
       "symbol": "7725.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.inter-action.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
     },
     {
       "symbol": "7730.T",
@@ -20367,10 +20377,6 @@
     },
     {
       "symbol": "7731.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7733.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20456,6 +20462,10 @@
     {
       "symbol": "7860.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7863.T",
+      "reason": "HTTPSConnectionPool(host='www.pp-hiraga.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
     },
     {
       "symbol": "7864.T",
@@ -20627,7 +20637,7 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.sanyeicorp.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "8143.T",
@@ -20807,7 +20817,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21004,6 +21014,10 @@
     {
       "symbol": "9010.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9012.T",
+      "reason": "HTTPSConnectionPool(host='www.chichibu-railway.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "9020.T",
@@ -21230,10 +21244,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9432.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "9436.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21267,7 +21277,7 @@
     },
     {
       "symbol": "9506.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9531.T",
@@ -21347,7 +21357,7 @@
     },
     {
       "symbol": "9691.T",
-      "reason": "HTTPSConnectionPool(host='www.ryomo.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_F"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9692.T",
