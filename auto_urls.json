@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:56:12.944581+00:00",
+  "updated_at": "2026-08-21T10:58:45.285387+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -11286,6 +11286,12 @@
       "auto": true
     },
     {
+      "name": "CHUOU INTERNATIONAL GROUP CO LT",
+      "url": "https://www.cig-ins.co.jp/ir/ir/",
+      "symbol": "7170.T",
+      "auto": true
+    },
+    {
       "name": "IMAMURA SECURITIES CO LTD(THE)",
       "url": "https://www.imamura.co.jp/news/index.html",
       "symbol": "7175.T",
@@ -15964,6 +15970,12 @@
       "auto": true
     },
     {
+      "name": "ROYAL HOTEL LIMITED",
+      "url": "https://corp.rihga.co.jp/news?sort=date&start=0&count=9&group=0&site=1AWT2YTH&charset=utf-8&type=2",
+      "symbol": "9713.T",
+      "auto": true
+    },
+    {
       "name": "TRANSCOSMOS INC",
       "url": "https://www.trans-cosmos.co.jp/newstopic/",
       "symbol": "9715.T",
@@ -16621,7 +16633,7 @@
     },
     {
       "symbol": "1736.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.o-tec.co.jp/"
+      "reason": "HTTPSConnectionPool(host='www.o-tec.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.o-te"
     },
     {
       "symbol": "1771@F.T",
@@ -16641,7 +16653,7 @@
     },
     {
       "symbol": "1793.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.ohmoto.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ohm"
     },
     {
       "symbol": "1795.T",
@@ -16948,10 +16960,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2459.T",
-      "reason": "HTTPSConnectionPool(host='www.auncon.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "2469.T",
       "reason": "403 Client Error: Forbidden for url: https://www.hibino.co.jp/"
     },
@@ -17042,6 +17050,10 @@
     {
       "symbol": "2683.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2693.T",
+      "reason": "HTTPSConnectionPool(host='www.ykt.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ykt.co"
     },
     {
       "symbol": "269A.T",
@@ -17137,7 +17149,7 @@
     },
     {
       "symbol": "2907.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.ahjikan.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ah"
     },
     {
       "symbol": "290A.T",
@@ -17165,7 +17177,7 @@
     },
     {
       "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "HTTPSConnectionPool(host='www.ams-life.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ams"
     },
     {
       "symbol": "2928@S.T",
@@ -17189,7 +17201,7 @@
     },
     {
       "symbol": "2961.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.nitcho.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nit"
     },
     {
       "symbol": "296A.T",
@@ -17309,7 +17321,7 @@
     },
     {
       "symbol": "3075.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.choushimaru.co.jp/"
+      "reason": "HTTPSConnectionPool(host='www.choushimaru.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
     },
     {
       "symbol": "3079.T",
@@ -17397,7 +17409,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
+      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.icda.jp'"
     },
     {
       "symbol": "3189.T",
@@ -17405,7 +17417,7 @@
     },
     {
       "symbol": "3190.T",
-      "reason": "HTTPSConnectionPool(host='www.yg-hotman.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
+      "reason": "HTTPSConnectionPool(host='www.yg-hotman.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.yg"
     },
     {
       "symbol": "3191.T",
@@ -17812,6 +17824,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3779.T",
+      "reason": "HTTPSConnectionPool(host='www.j-escom.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.j-"
+    },
+    {
       "symbol": "3791.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17888,6 +17904,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.terrasky.co.jp/"
     },
     {
+      "symbol": "3922.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "3926.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17934,6 +17954,10 @@
     {
       "symbol": "3977@S.T",
       "reason": "公式サイトURLなし"
+    },
+    {
+      "symbol": "3985.T",
+      "reason": "HTTPSConnectionPool(host='temona.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "3988.T",
@@ -18042,6 +18066,10 @@
     {
       "symbol": "4116.T",
       "reason": "HTTPSConnectionPool(host='www.daicolor.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAK"
+    },
+    {
+      "symbol": "4120.T",
+      "reason": "HTTPSConnectionPool(host='www.sugai-chem.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "4151.T",
@@ -18174,6 +18202,10 @@
     {
       "symbol": "4351.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4369.T",
+      "reason": "HTTPSConnectionPool(host='trichemical.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='trichemi"
     },
     {
       "symbol": "436A.T",
@@ -18344,6 +18376,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4531.T",
+      "reason": "HTTPSConnectionPool(host='www.yuki-gosei.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
       "symbol": "4536.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18437,7 +18473,7 @@
     },
     {
       "symbol": "4671.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.falco-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.f"
     },
     {
       "symbol": "4673.T",
@@ -18609,7 +18645,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -18780,6 +18816,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.yamax.co.jp/"
     },
     {
+      "symbol": "5288.T",
+      "reason": "HTTPSConnectionPool(host='www.asiapile-hd.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+    },
+    {
       "symbol": "5302.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18882,6 +18922,10 @@
     {
       "symbol": "5713.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5726.T",
+      "reason": "HTTPSConnectionPool(host='www.osaka-ti.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.o"
     },
     {
       "symbol": "575A.T",
@@ -19145,7 +19189,7 @@
     },
     {
       "symbol": "6138.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.dijet.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dije"
     },
     {
       "symbol": "6141.T",
@@ -19316,6 +19360,10 @@
       "reason": "HTTPSConnectionPool(host='www.nikkiso.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE"
     },
     {
+      "symbol": "6380.T",
+      "reason": "HTTPSConnectionPool(host='www.ocm.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ocm.co"
+    },
+    {
       "symbol": "6381.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19330,6 +19378,10 @@
     {
       "symbol": "6395.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6396.T",
+      "reason": "HTTPSConnectionPool(host='www.unozawa.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.un"
     },
     {
       "symbol": "6402.T",
@@ -19366,6 +19418,10 @@
     {
       "symbol": "6465.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6467.T",
+      "reason": "HTTPSConnectionPool(host='www.nichidai.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nich"
     },
     {
       "symbol": "6471.T",
@@ -19514,6 +19570,10 @@
     {
       "symbol": "6619.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6620.T",
+      "reason": "HTTPSConnectionPool(host='www.miyakoshi-holdings.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(hos"
     },
     {
       "symbol": "6625.T",
@@ -19864,6 +19924,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7021.T",
+      "reason": "HTTPSConnectionPool(host='www.nitchitsu.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+    },
+    {
       "symbol": "7030.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20144,6 +20208,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7416.T",
+      "reason": "HTTPSConnectionPool(host='www.haruyama.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.h"
+    },
+    {
       "symbol": "7421.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20181,7 +20249,7 @@
     },
     {
       "symbol": "7462.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='capita-inc.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='capita-inc"
     },
     {
       "symbol": "7463.T",
@@ -20241,7 +20309,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
     },
     {
       "symbol": "7531.T",
@@ -20349,7 +20417,7 @@
     },
     {
       "symbol": "7707.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.pss.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pss.co"
     },
     {
       "symbol": "7709.T",
@@ -20369,7 +20437,11 @@
     },
     {
       "symbol": "7725.T",
-      "reason": "HTTPSConnectionPool(host='www.inter-action.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7727.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -20464,10 +20536,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7863.T",
-      "reason": "HTTPSConnectionPool(host='www.pp-hiraga.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
-    },
-    {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20518,6 +20586,10 @@
     {
       "symbol": "7951.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7953.T",
+      "reason": "HTTPSConnectionPool(host='www.kikusui-chem.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
     },
     {
       "symbol": "7963.T",
@@ -20637,7 +20709,7 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "HTTPSConnectionPool(host='www.sanyeicorp.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8143.T",
@@ -20649,7 +20721,7 @@
     },
     {
       "symbol": "8147.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.tomitaj.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.to"
     },
     {
       "symbol": "8153.T",
@@ -20804,10 +20876,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "8524@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "8542.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20817,7 +20885,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8559@F.T",
@@ -20893,7 +20961,7 @@
     },
     {
       "symbol": "8783.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.gfa.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gfa.co"
     },
     {
       "symbol": "8793.T",
@@ -20937,7 +21005,7 @@
     },
     {
       "symbol": "8898.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "8904.T",
@@ -21016,10 +21084,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9012.T",
-      "reason": "HTTPSConnectionPool(host='www.chichibu-railway.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "9020.T",
       "reason": "403 Client Error: Forbidden for url: https://www.jreast.co.jp/"
     },
@@ -21054,6 +21118,10 @@
     {
       "symbol": "9049.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9057.T",
+      "reason": "HTTPSConnectionPool(host='www.enshu-truck.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
     },
     {
       "symbol": "9063.T",
@@ -21277,7 +21345,7 @@
     },
     {
       "symbol": "9506.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9531.T",
@@ -21301,7 +21369,7 @@
     },
     {
       "symbol": "9601.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9602.T",
@@ -21333,7 +21401,7 @@
     },
     {
       "symbol": "9635.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.musashino-k.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
     },
     {
       "symbol": "9636.T",
@@ -21352,12 +21420,16 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9679.T",
+      "reason": "HTTPSConnectionPool(host='www.horai-kk.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.h"
+    },
+    {
       "symbol": "9685.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9691.T",
-      "reason": "公式サイトURLなし"
+      "reason": "HTTPSConnectionPool(host='www.ryomo.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_F"
     },
     {
       "symbol": "9692.T",
@@ -21366,10 +21438,6 @@
     {
       "symbol": "9697.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9713.T",
-      "reason": "HTTPSConnectionPool(host='www.royalhotel.jpn.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='ww"
     },
     {
       "symbol": "9726.T",
@@ -21398,6 +21466,10 @@
     {
       "symbol": "9795.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9799.T",
+      "reason": "HTTPSConnectionPool(host='www.aiskk.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.aisk"
     },
     {
       "symbol": "9816.T",
@@ -21450,6 +21522,10 @@
     {
       "symbol": "9888.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9890.T",
+      "reason": "HTTPSConnectionPool(host='www.makiya-group.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
     },
     {
       "symbol": "9914.T",
