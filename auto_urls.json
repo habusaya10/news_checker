@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:47:28.598697+00:00",
+  "updated_at": "2026-08-23T10:48:03.723658+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -16996,6 +16996,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.wasou.com/"
     },
     {
+      "symbol": "250A.T",
+      "reason": "500 Server Error: Internal Server Error for url: https://www.shimadaya.co.jp/"
+    },
+    {
       "symbol": "253A.T",
       "reason": "HTTPSConnectionPool(host='ets-group.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
@@ -17172,10 +17176,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17197,7 +17197,7 @@
     },
     {
       "symbol": "2961.T",
-      "reason": "HTTPSConnectionPool(host='www.nitcho.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "296A.T",
@@ -17522,10 +17522,6 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18625,7 +18621,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -19273,7 +19269,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -19690,10 +19686,6 @@
     {
       "symbol": "6806.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6807.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.jae.com/"
     },
     {
       "symbol": "6809.T",
@@ -20197,7 +20189,7 @@
     },
     {
       "symbol": "7462.T",
-      "reason": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7463.T",
@@ -20257,7 +20249,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "7531.T",
@@ -20417,7 +20409,7 @@
     },
     {
       "symbol": "7791.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.dreambed.jp/"
+      "reason": "HTTPSConnectionPool(host='dreambed.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tl"
     },
     {
       "symbol": "7793.T",
@@ -21377,7 +21369,7 @@
     },
     {
       "symbol": "9735.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9759.T",
@@ -21409,7 +21401,7 @@
     },
     {
       "symbol": "9827.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9828.T",
