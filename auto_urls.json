@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T10:48:03.723658+00:00",
+  "updated_at": "2026-08-24T11:03:02.349319+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3409,7 +3409,7 @@
     },
     {
       "name": "PROGRESS TECHNOLOGIES GROUP INC",
-      "url": "https://www.progresstech-group.jp/news/",
+      "url": "https://www.progresstech-group.jp/news/topics/",
       "symbol": "339A.T",
       "auto": true
     },
@@ -9086,6 +9086,12 @@
       "auto": true
     },
     {
+      "name": "616A.T",
+      "url": "https://www.suri.co.jp/news/19/",
+      "symbol": "616A.T",
+      "auto": true
+    },
+    {
       "name": "C.E.MANAGEMENT INTEGRATED LABOR",
       "url": "https://www.dksiken.co.jp/ir-news/",
       "symbol": "6171.T",
@@ -12429,7 +12435,7 @@
     },
     {
       "name": "TOKYO SEIMITSU CO",
-      "url": "https://www.accretech.com/jp/ir/news.html",
+      "url": "https://www.accretech.com/jp/ir/mail.html",
       "symbol": "7729.T",
       "auto": true
     },
@@ -16572,6 +16578,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "1438.T",
+      "reason": "HTTPSConnectionPool(host='www.gifu-zohen.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
       "symbol": "143A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -16622,6 +16632,10 @@
     {
       "symbol": "1718.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "171A.T",
+      "reason": "HTTPSConnectionPool(host='www.zerojapan.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zer"
     },
     {
       "symbol": "1720.T",
@@ -16806,6 +16820,10 @@
     {
       "symbol": "2130.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2137@S.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2139.T",
@@ -16996,10 +17014,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.wasou.com/"
     },
     {
-      "symbol": "250A.T",
-      "reason": "500 Server Error: Internal Server Error for url: https://www.shimadaya.co.jp/"
-    },
-    {
       "symbol": "253A.T",
       "reason": "HTTPSConnectionPool(host='ets-group.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
@@ -17174,6 +17188,10 @@
     {
       "symbol": "2926.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2928@S.T",
@@ -17921,7 +17939,7 @@
     },
     {
       "symbol": "3948.T",
-      "reason": "HTTPSConnectionPool(host='hikaribf.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='hikaribf."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3951.T",
@@ -18470,6 +18488,10 @@
     {
       "symbol": "4686.T",
       "reason": "HTTPSConnectionPool(host='www.justsystems.com', port=443): Max retries exceeded with url: /jp/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RE"
+    },
+    {
+      "symbol": "469A.T",
+      "reason": "HTTPSConnectionPool(host='www.fitcrew.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fi"
     },
     {
       "symbol": "4704.T",
@@ -19352,6 +19374,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6430.T",
+      "reason": "HTTPSConnectionPool(host='www.daikoku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.da"
+    },
+    {
       "symbol": "6444.T",
       "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
@@ -19872,6 +19898,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7018.T",
+      "reason": "HTTPSConnectionPool(host='www.naikaizosen.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
+    },
+    {
       "symbol": "7030.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20117,7 +20147,7 @@
     },
     {
       "symbol": "7362.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.t-s-i.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.t-s-i.j"
     },
     {
       "symbol": "7367.T",
@@ -20249,7 +20279,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7531.T",
@@ -20932,6 +20962,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "8891.T",
+      "reason": "HTTPSConnectionPool(host='www.amg-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.amg"
+    },
+    {
       "symbol": "8892.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21124,6 +21158,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9249.T",
+      "reason": "HTTPSConnectionPool(host='www.jp-eco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jp-"
+    },
+    {
       "symbol": "9253.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21304,6 +21342,10 @@
       "reason": "HTTPSConnectionPool(host='toho.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='toho.co.jp', "
     },
     {
+      "symbol": "9602@F.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "9605.T",
       "reason": "403 Client Error: Forbidden for url: https://www.toei.co.jp/"
     },
@@ -21401,7 +21443,7 @@
     },
     {
       "symbol": "9827.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9828.T",
