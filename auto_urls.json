@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T11:03:02.349319+00:00",
+  "updated_at": "2026-08-25T10:53:56.043056+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -297,12 +297,6 @@
       "name": "HAZAMA ANDO CORP",
       "url": "https://www.ad-hzm.co.jp/ir/ir_news/",
       "symbol": "1719.T",
-      "auto": true
-    },
-    {
-      "name": "ZEROJAPAN CO LTD",
-      "url": "https://zerojapan.jp/news/2991/",
-      "symbol": "171A.T",
       "auto": true
     },
     {
@@ -1419,7 +1413,7 @@
     },
     {
       "name": "NIPPON INFORMATION DEVELOPMENT ",
-      "url": "https://www.nid.co.jp/ir/news/",
+      "url": "https://www.nid.co.jp/news/",
       "symbol": "2349.T",
       "auto": true
     },
@@ -1963,6 +1957,12 @@
       "symbol": "2708.T",
       "per": 5.0495753,
       "pbr": 0.9190327,
+      "auto": true
+    },
+    {
+      "name": "ACCELIA INC",
+      "url": "https://www.accelia.net/news/2026/0722-2/",
+      "symbol": "271A.T",
       "auto": true
     },
     {
@@ -6452,6 +6452,12 @@
       "auto": true
     },
     {
+      "name": "ASAHIPEN CORP",
+      "url": "https://www.asahipen.jp/company/ir-top.html",
+      "symbol": "4623.T",
+      "auto": true
+    },
+    {
       "name": "ISAMU PAINT CO",
       "url": "https://www.isamu.co.jp/news/custom02-13489/",
       "symbol": "4624.T",
@@ -7150,6 +7156,12 @@
       "auto": true
     },
     {
+      "name": "KONISHI CO LTD",
+      "url": "https://www.bond.co.jp/ir/news/",
+      "symbol": "4956.T",
+      "auto": true
+    },
+    {
       "name": "T.HASEGAWA CO",
       "url": "https://www.t-hasegawa.co.jp/news?news_cat=ir",
       "symbol": "4958.T",
@@ -7423,7 +7435,7 @@
     },
     {
       "name": "FINES INC",
-      "url": "https://e-tenki.co.jp/news/%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+      "url": "https://e-tenki.co.jp/news",
       "symbol": "5125.T",
       "auto": true
     },
@@ -7437,6 +7449,12 @@
       "name": "LINKERS CORPORATION",
       "url": "https://corp.linkers.net/news/topics/",
       "symbol": "5131.T",
+      "auto": true
+    },
+    {
+      "name": "PLUSZERO INC",
+      "url": "https://plus-zero.co.jp/news/release/inckU",
+      "symbol": "5132.T",
       "auto": true
     },
     {
@@ -7513,6 +7531,12 @@
       "name": "AGC INC",
       "url": "https://www.agc.com/ir/support/calendar/index.html",
       "symbol": "5201.T",
+      "auto": true
+    },
+    {
+      "name": "ISHIZUKA GLASS CO",
+      "url": "https://www.ishizuka.co.jp/2026/08/25/3704",
+      "symbol": "5204.T",
       "auto": true
     },
     {
@@ -8367,6 +8391,12 @@
       "name": "SBI LEASING SERVICES CO. LTD",
       "url": "https://www.sbils.co.jp/news/",
       "symbol": "5834.T",
+      "auto": true
+    },
+    {
+      "name": "NIPPON SOUKEN CO LTD",
+      "url": "https://www.iba-ns.com/news/entry-193.html",
+      "symbol": "5840.T",
       "auto": true
     },
     {
@@ -10277,7 +10307,7 @@
     },
     {
       "name": "OSAKI ELECTRIC CO",
-      "url": "https://www.osaki.co.jp/ja/ir/news.html",
+      "url": "https://www.osaki.co.jp/ja/ir/news/news-1734530239137336329.html",
       "symbol": "6644.T",
       "auto": true
     },
@@ -15323,7 +15353,7 @@
     },
     {
       "name": "AXIS CONSULTING CORPORATION",
-      "url": "https://axc-g.co.jp/news/2026/08/14_01-8/",
+      "url": "https://axc-g.co.jp/news/2026/08/25_01-6/",
       "symbol": "9344.T",
       "auto": true
     },
@@ -16473,7 +16503,7 @@
     },
     {
       "name": "BELC CO LTD",
-      "url": "https://www.belc.jp/news/20260810",
+      "url": "https://www.belc.jp/news/sanrio_cr2026_result",
       "symbol": "9974.T",
       "auto": true
     },
@@ -16632,10 +16662,6 @@
     {
       "symbol": "1718.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "171A.T",
-      "reason": "HTTPSConnectionPool(host='www.zerojapan.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zer"
     },
     {
       "symbol": "1720.T",
@@ -16955,7 +16981,7 @@
     },
     {
       "symbol": "2425.T",
-      "reason": "HTTPSConnectionPool(host='www.care.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
+      "reason": "HTTPSConnectionPool(host='www.care.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2428.T",
@@ -17190,16 +17216,16 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2929.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2930@S.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2931.T",
@@ -17247,6 +17273,10 @@
     },
     {
       "symbol": "298A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2990.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -17540,6 +17570,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18438,10 +18472,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4623.T",
-      "reason": "HTTPSConnectionPool(host='www.asahipen.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.asah"
-    },
-    {
       "symbol": "462A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18630,10 +18660,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.axxzia.co.jp/"
     },
     {
-      "symbol": "4956.T",
-      "reason": "HTTPSConnectionPool(host='www.bond.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FA"
-    },
-    {
       "symbol": "4966.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18643,7 +18669,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -18718,10 +18744,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "5132.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "5133.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18755,10 +18777,6 @@
     },
     {
       "symbol": "5202.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5204.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19378,6 +19396,10 @@
       "reason": "HTTPSConnectionPool(host='www.daikoku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.da"
     },
     {
+      "symbol": "6432.T",
+      "reason": "HTTPSConnectionPool(host='www.takeuchi-mfg.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
+    },
+    {
       "symbol": "6444.T",
       "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
@@ -19898,10 +19920,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7018.T",
-      "reason": "HTTPSConnectionPool(host='www.naikaizosen.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
-    },
-    {
       "symbol": "7030.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19998,8 +20016,16 @@
       "reason": "403 Client Error: Forbidden for url: https://www.kyushu-fg.co.jp/"
     },
     {
+      "symbol": "7180@F.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "7181.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7183.T",
+      "reason": "HTTPSConnectionPool(host='anshin-gs.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "7184.T",
@@ -20092,6 +20118,10 @@
     {
       "symbol": "7267.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7270.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.subaru.co.jp/"
     },
     {
       "symbol": "7272.T",
@@ -21314,8 +21344,12 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9517.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.erex.co.jp/"
+    },
+    {
       "symbol": "9531.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9532.T",
