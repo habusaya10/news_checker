@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:53:56.043056+00:00",
+  "updated_at": "2026-08-26T11:00:41.894768+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1891,6 +1891,12 @@
       "name": "TAKACHIHO KOHEKI CO",
       "url": "https://www.takachiho-kk.co.jp/news/notice",
       "symbol": "2676.T",
+      "auto": true
+    },
+    {
+      "name": "TOWARISE CORPORATION",
+      "url": "https://www.towarise.jp/news/",
+      "symbol": "267A.T",
       "auto": true
     },
     {
@@ -6962,6 +6968,12 @@
       "auto": true
     },
     {
+      "name": "SCALA INC",
+      "url": "https://www.scalagrp.jp/news/2026/8-scala01/",
+      "symbol": "4845.T",
+      "auto": true
+    },
+    {
       "name": "INTELLIGENT WAVE INC",
       "url": "https://www.iwi.co.jp/news/2026/07/post-61.html#002818",
       "symbol": "4847.T",
@@ -10196,6 +10208,12 @@
       "auto": true
     },
     {
+      "name": "NIDEC CORPORATION",
+      "url": "https://www.nidec.com/jp/corporate/news/",
+      "symbol": "6594.T",
+      "auto": true
+    },
+    {
       "name": "HPC SYSTEMS INC",
       "url": "https://www.hpc.co.jp/company/news/ir-fair2026/",
       "symbol": "6597.T",
@@ -12855,7 +12873,7 @@
     },
     {
       "name": "NODA CORP",
-      "url": "https://www.noda-co.jp/news/2026/detail/20260817113915.html",
+      "url": "https://www.noda-co.jp/news/2026/detail/20260824101153.html",
       "symbol": "7879.T",
       "auto": true
     },
@@ -16608,10 +16626,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "1438.T",
-      "reason": "HTTPSConnectionPool(host='www.gifu-zohen.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
-    },
-    {
       "symbol": "143A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -16634,6 +16648,10 @@
     {
       "symbol": "147A.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "149A.T",
+      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.thinca.co.jp/"
     },
     {
       "symbol": "151A.T",
@@ -16981,7 +16999,7 @@
     },
     {
       "symbol": "2425.T",
-      "reason": "HTTPSConnectionPool(host='www.care.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "HTTPSConnectionPool(host='www.care.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
     },
     {
       "symbol": "2428.T",
@@ -17214,6 +17232,10 @@
     {
       "symbol": "2926.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2928@S.T",
@@ -17570,10 +17592,6 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18520,10 +18538,6 @@
       "reason": "HTTPSConnectionPool(host='www.justsystems.com', port=443): Max retries exceeded with url: /jp/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RE"
     },
     {
-      "symbol": "469A.T",
-      "reason": "HTTPSConnectionPool(host='www.fitcrew.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fi"
-    },
-    {
       "symbol": "4704.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18604,10 +18618,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4845.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4875.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18669,7 +18679,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -19064,6 +19074,10 @@
       "reason": "HTTPSConnectionPool(host='www.iwabuchi.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
     },
     {
+      "symbol": "5985.T",
+      "reason": "HTTPSConnectionPool(host='www.suncall.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.su"
+    },
+    {
       "symbol": "5986.T",
       "reason": "HTTPSConnectionPool(host='www.molitec.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mo"
     },
@@ -19222,6 +19236,10 @@
     {
       "symbol": "6178.T",
       "reason": "HTTPSConnectionPool(host='japanpost.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='japanpost.j"
+    },
+    {
+      "symbol": "617A.T",
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6181.T",
@@ -19392,14 +19410,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6430.T",
-      "reason": "HTTPSConnectionPool(host='www.daikoku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.da"
-    },
-    {
-      "symbol": "6432.T",
-      "reason": "HTTPSConnectionPool(host='www.takeuchi-mfg.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
-    },
-    {
       "symbol": "6444.T",
       "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
@@ -19460,10 +19470,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6506@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "6508.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19501,7 +19507,7 @@
     },
     {
       "symbol": "6538.T",
-      "reason": "HTTPSConnectionPool(host='www.disruptors.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www"
+      "reason": "403 Client Error: Forbidden for url: https://disruptors.co.jp/"
     },
     {
       "symbol": "6539.T",
@@ -19558,10 +19564,6 @@
     {
       "symbol": "6592.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6594.T",
-      "reason": "404 Client Error: Not Found for url: https://www.nidec.com/"
     },
     {
       "symbol": "6616.T",
@@ -20024,10 +20026,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7183.T",
-      "reason": "HTTPSConnectionPool(host='anshin-gs.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "7184.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20066,6 +20064,10 @@
     {
       "symbol": "7213.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7217.T",
+      "reason": "HTTPSConnectionPool(host='www.tein.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tein."
     },
     {
       "symbol": "7219.T",
@@ -20177,7 +20179,7 @@
     },
     {
       "symbol": "7362.T",
-      "reason": "HTTPSConnectionPool(host='www.t-s-i.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.t-s-i.j"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7367.T",
@@ -20349,7 +20351,7 @@
     },
     {
       "symbol": "7602.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.ledax.co.jp/"
+      "reason": "HTTPSConnectionPool(host='www.ledax.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "7603.T",
@@ -20992,10 +20994,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "8891.T",
-      "reason": "HTTPSConnectionPool(host='www.amg-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.amg"
-    },
-    {
       "symbol": "8892.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21188,10 +21186,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9249.T",
-      "reason": "HTTPSConnectionPool(host='www.jp-eco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jp-"
-    },
-    {
       "symbol": "9253.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21349,7 +21343,7 @@
     },
     {
       "symbol": "9531.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9532.T",
