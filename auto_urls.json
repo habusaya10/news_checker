@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:00:41.894768+00:00",
+  "updated_at": "2026-08-27T20:57:33.352230+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -9068,12 +9068,6 @@
       "auto": true
     },
     {
-      "name": "614A.T",
-      "url": "https://www.ys-group.co.jp/news",
-      "symbol": "614A.T",
-      "auto": true
-    },
-    {
       "name": "TAKEDA MACHINERY CO",
       "url": "https://www.takeda-mc.co.jp/ir/",
       "symbol": "6150.T",
@@ -13261,8 +13255,6 @@
       "name": "DAIKO XTECH LTD",
       "url": "https://www.daiko-xtech.co.jp/irinfo/",
       "symbol": "8023.T",
-      "per": 8.890644,
-      "pbr": 0.9619256,
       "auto": true
     },
     {
@@ -16025,7 +16017,7 @@
     },
     {
       "name": "ROYAL HOTEL LIMITED",
-      "url": "https://corp.rihga.co.jp/news?sort=date&start=0&count=9&group=0&site=1AWT2YTH&charset=utf-8&type=2",
+      "url": "https://www.rihga.co.jp/release",
       "symbol": "9713.T",
       "auto": true
     },
@@ -16616,6 +16608,10 @@
     {
       "symbol": "1418.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "1429.T",
+      "reason": "503 Server Error: Service Unavailable for url: https://www.n-aqua.jp/"
     },
     {
       "symbol": "1430.T",
@@ -17592,6 +17588,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -19074,10 +19074,6 @@
       "reason": "HTTPSConnectionPool(host='www.iwabuchi.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
     },
     {
-      "symbol": "5985.T",
-      "reason": "HTTPSConnectionPool(host='www.suncall.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.su"
-    },
-    {
       "symbol": "5986.T",
       "reason": "HTTPSConnectionPool(host='www.molitec.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mo"
     },
@@ -19207,7 +19203,7 @@
     },
     {
       "symbol": "6138.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.dijet.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.dije"
     },
     {
       "symbol": "6141.T",
@@ -19327,7 +19323,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -20066,10 +20062,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7217.T",
-      "reason": "HTTPSConnectionPool(host='www.tein.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tein."
-    },
-    {
       "symbol": "7219.T",
       "reason": "HTTPSConnectionPool(host='www.hks-global.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.h"
     },
@@ -20351,7 +20343,7 @@
     },
     {
       "symbol": "7602.T",
-      "reason": "HTTPSConnectionPool(host='www.ledax.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.ledax.co.jp/"
     },
     {
       "symbol": "7603.T",
@@ -20703,7 +20695,7 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.sanyeicorp.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "8143.T",
@@ -21519,7 +21511,7 @@
     },
     {
       "symbol": "9932.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9936.T",
