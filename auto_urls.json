@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:54:08.213348+00:00",
+  "updated_at": "2026-09-01T15:03:46.679656+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3809,7 +3809,7 @@
     },
     {
       "name": "ASCENTECH K K",
-      "url": "https://www.ascentech.co.jp/news/press/pr260803_01.html",
+      "url": "https://www.ascentech.co.jp/news/press/pr260820_01.html",
       "symbol": "3565.T",
       "auto": true
     },
@@ -4315,6 +4315,12 @@
       "name": "UNIRITA INC",
       "url": "https://www.unirita.co.jp/ir/news.html",
       "symbol": "3800.T",
+      "auto": true
+    },
+    {
+      "name": "IMAGE INFORMATION INC",
+      "url": "https://www.image-inf.co.jp/news/",
+      "symbol": "3803.T",
       "auto": true
     },
     {
@@ -7444,12 +7450,6 @@
       "auto": true
     },
     {
-      "name": "SHOWA HOLDINGS CO LTD",
-      "url": "https://www.showa-holdings.co.jp/news/sh_news_j.html",
-      "symbol": "5103.T",
-      "auto": true
-    },
-    {
       "name": "TOYO TIRE CORPORATION",
       "url": "https://www.toyotires.co.jp/press/2026/260731.html",
       "symbol": "5105.T",
@@ -8986,6 +8986,12 @@
       "auto": true
     },
     {
+      "name": "WILL GROUP INC",
+      "url": "https://willgroup.co.jp/profile/news/2026/08/31/6795/",
+      "symbol": "6089.T",
+      "auto": true
+    },
+    {
       "name": "WESCO HOLDINGS INC",
       "url": "https://www.wescohd.co.jp/news/629",
       "symbol": "6091.T",
@@ -9155,12 +9161,6 @@
       "name": "FUJI DIE CO LTD",
       "url": "https://www.fujidie.co.jp/ir/news",
       "symbol": "6167.T",
-      "auto": true
-    },
-    {
-      "name": "616A.T",
-      "url": "https://www.suri.co.jp/news/19/",
-      "symbol": "616A.T",
       "auto": true
     },
     {
@@ -16900,10 +16900,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2137@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "2139.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -16977,7 +16973,7 @@
     },
     {
       "symbol": "2304.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.css-holdings.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
     },
     {
       "symbol": "231A@F.T",
@@ -17480,6 +17476,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3161.T",
+      "reason": "HTTPSConnectionPool(host='www.azearth.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.az"
+    },
+    {
       "symbol": "3167.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17936,10 +17936,6 @@
       "reason": "HTTPSConnectionPool(host='www.ecomic.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecomic"
     },
     {
-      "symbol": "3803.T",
-      "reason": "HTTPSConnectionPool(host='www.image-inf.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
-    },
-    {
       "symbol": "3810.T",
       "reason": "403 Client Error: Forbidden for url: https://cshd.cyberstep.com/"
     },
@@ -18260,6 +18256,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4317.T",
+      "reason": "HTTPSConnectionPool(host='www.ray.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ray.co"
+    },
+    {
       "symbol": "431A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18496,6 +18496,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4584.T",
+      "reason": "HTTPSConnectionPool(host='www.kidswellbio.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "4588.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18701,11 +18705,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
-    },
-    {
-      "symbol": "4976.T",
-      "reason": "HTTPSConnectionPool(host='www.drilube.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -18774,6 +18774,10 @@
     {
       "symbol": "5122.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5125.T",
+      "reason": "400 Client Error: Bad Request for url: https://www.e-tenki.co.jp/"
     },
     {
       "symbol": "5129.T",
@@ -18922,10 +18926,6 @@
     {
       "symbol": "5574.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5578.T",
-      "reason": "HTTPSConnectionPool(host='www.ari-jp.com', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "5579@S.T",
@@ -19208,10 +19208,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6089.T",
-      "reason": "403 Client Error: Forbidden for url: https://willgroup.co.jp/"
-    },
-    {
       "symbol": "6090.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19250,10 +19246,6 @@
     {
       "symbol": "6157.T",
       "reason": "HTTPSConnectionPool(host='www.ns-tool.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
-    },
-    {
-      "symbol": "6158.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.waida.co.jp/"
     },
     {
       "symbol": "6159.T",
@@ -19361,7 +19353,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19598,6 +19590,10 @@
     {
       "symbol": "6592.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6594.T",
+      "reason": "404 Client Error: Not Found for url: https://www.nidec.com/"
     },
     {
       "symbol": "6596.T",
@@ -20160,10 +20156,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7270.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.subaru.co.jp/"
-    },
-    {
       "symbol": "7272.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20297,7 +20289,7 @@
     },
     {
       "symbol": "7472.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.toba.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.toba."
     },
     {
       "symbol": "7475.T",
@@ -20421,7 +20413,7 @@
     },
     {
       "symbol": "7679.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.yakuodo-hd.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "7682.T",
@@ -20570,6 +20562,10 @@
     {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
       "symbol": "7875.T",
@@ -20913,7 +20909,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21389,7 +21385,7 @@
     },
     {
       "symbol": "9601.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9602.T",
@@ -21537,7 +21533,7 @@
     },
     {
       "symbol": "9888.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.uex-ltd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ue"
     },
     {
       "symbol": "9914.T",
