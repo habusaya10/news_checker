@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:03:46.679656+00:00",
+  "updated_at": "2026-09-02T14:38:46.218815+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1972,12 +1972,6 @@
       "auto": true
     },
     {
-      "name": "ACCELIA INC",
-      "url": "https://www.accelia.net/news/2026/0722-2/",
-      "symbol": "271A.T",
-      "auto": true
-    },
-    {
       "name": "IK HOLDINGS CO LTD",
       "url": "https://www.ai-kei.co.jp/news",
       "symbol": "2722.T",
@@ -2331,7 +2325,7 @@
     },
     {
       "name": "FUJICCO CO LTD",
-      "url": "https://www.fujicco.co.jp/corp/quality/anshin/kensa_radio.html",
+      "url": "https://www.fujicco.co.jp/corp/",
       "symbol": "2908.T",
       "auto": true
     },
@@ -5634,6 +5628,12 @@
       "auto": true
     },
     {
+      "name": "HIMACS LTD",
+      "url": "https://www.himacs.jp/news/",
+      "symbol": "4299.T",
+      "auto": true
+    },
+    {
       "name": "TEKSCEND PHOTOMASK CORP.",
       "url": "https://www.photomask.com/en/news/topic/20260330150000.html",
       "symbol": "429A.T",
@@ -8433,12 +8433,6 @@
       "name": "SBI LEASING SERVICES CO. LTD",
       "url": "https://www.sbils.co.jp/news/",
       "symbol": "5834.T",
-      "auto": true
-    },
-    {
-      "name": "NIPPON SOUKEN CO LTD",
-      "url": "https://www.iba-ns.com/news/entry-193.html",
-      "symbol": "5840.T",
       "auto": true
     },
     {
@@ -16973,7 +16967,7 @@
     },
     {
       "symbol": "2304.T",
-      "reason": "HTTPSConnectionPool(host='www.css-holdings.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "231A@F.T",
@@ -17260,10 +17254,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2919@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "2926.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17278,10 +17268,6 @@
     {
       "symbol": "2929.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2930@S.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2931.T",
@@ -17329,10 +17315,6 @@
     },
     {
       "symbol": "298A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2990.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -17474,10 +17456,6 @@
     {
       "symbol": "3160.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3161.T",
-      "reason": "HTTPSConnectionPool(host='www.azearth.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.az"
     },
     {
       "symbol": "3167.T",
@@ -17626,6 +17604,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18248,10 +18230,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4299.T",
-      "reason": "HTTPSConnectionPool(host='www.himacs.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.himacs"
-    },
-    {
       "symbol": "4307.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18494,10 +18472,6 @@
     {
       "symbol": "4579.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4584.T",
-      "reason": "HTTPSConnectionPool(host='www.kidswellbio.com', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4588.T",
@@ -18774,10 +18748,6 @@
     {
       "symbol": "5122.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5125.T",
-      "reason": "400 Client Error: Bad Request for url: https://www.e-tenki.co.jp/"
     },
     {
       "symbol": "5129.T",
@@ -19353,7 +19323,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -19436,6 +19406,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6440.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "6444.T",
       "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
@@ -19494,6 +19468,10 @@
     {
       "symbol": "6505.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6506.T",
+      "reason": "HTTPSConnectionPool(host='www.yaskawa.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "6508.T",
@@ -19792,6 +19770,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6844.T",
+      "reason": "HTTPSConnectionPool(host='www.shindengen.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "6845.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19952,6 +19934,10 @@
       "reason": "HTTPSConnectionPool(host='kanadevia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICA"
     },
     {
+      "symbol": "7011@S.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "7012.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20041,7 +20027,7 @@
     },
     {
       "symbol": "7164.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.zenkoku.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "7172.T",
@@ -20054,10 +20040,6 @@
     {
       "symbol": "7180.T",
       "reason": "403 Client Error: Forbidden for url: https://www.kyushu-fg.co.jp/"
-    },
-    {
-      "symbol": "7180@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7181.T",
@@ -20289,7 +20271,7 @@
     },
     {
       "symbol": "7472.T",
-      "reason": "HTTPSConnectionPool(host='www.toba.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.toba."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7475.T",
@@ -20413,7 +20395,7 @@
     },
     {
       "symbol": "7679.T",
-      "reason": "HTTPSConnectionPool(host='www.yakuodo-hd.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7682.T",
@@ -20562,10 +20544,6 @@
     {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
       "symbol": "7875.T",
@@ -21533,7 +21511,7 @@
     },
     {
       "symbol": "9888.T",
-      "reason": "HTTPSConnectionPool(host='www.uex-ltd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ue"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9914.T",
