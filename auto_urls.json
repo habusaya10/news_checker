@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:50:50.068380+00:00",
+  "updated_at": "2026-09-07T15:58:47.807749+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3845,7 +3845,7 @@
     },
     {
       "name": "TSI HOLDINGS CO LTD",
-      "url": "https://www.tsi-holdings.com/tsuki.html",
+      "url": "https://www.tsi-holdings.com/press/20262_10.html",
       "symbol": "3608.T",
       "auto": true
     },
@@ -6549,6 +6549,12 @@
       "name": "SAKATA INX CORP",
       "url": "https://www.inx.co.jp/news/ir/",
       "symbol": "4633.T",
+      "auto": true
+    },
+    {
+      "name": "ARTIENCE CO LTD",
+      "url": "https://www.artiencegroup.com/en/news/",
+      "symbol": "4634.T",
       "auto": true
     },
     {
@@ -10196,6 +10202,12 @@
       "auto": true
     },
     {
+      "name": "OPEN GROUP INC",
+      "url": "https://open-group.co.jp/info/2026/09/leriro/?type=news",
+      "symbol": "6572.T",
+      "auto": true
+    },
+    {
       "name": "CRAVIA INC",
       "url": "https://cravia.jp/news/pr",
       "symbol": "6573.T",
@@ -11335,6 +11347,12 @@
       "name": "FINANCIAL PARTNERS GROUP CO LTD",
       "url": "https://www.fpg.jp/news/2026/08/wtt.html",
       "symbol": "7148.T",
+      "auto": true
+    },
+    {
+      "name": "THE SHIMANE BANK LTD",
+      "url": "https://www.shimagin.co.jp/news/",
+      "symbol": "7150.T",
       "auto": true
     },
     {
@@ -16734,10 +16752,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.o-tec.co.jp/"
     },
     {
-      "symbol": "1758.T",
-      "reason": "HTTPSConnectionPool(host='taiyoukiso.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "1771@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -17630,10 +17644,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
-    },
-    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18063,7 +18073,7 @@
     },
     {
       "symbol": "3988.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.syshd.co.jp', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.syshd"
     },
     {
       "symbol": "3994.T",
@@ -18535,10 +18545,6 @@
     },
     {
       "symbol": "4631.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4634.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19255,7 +19261,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
     },
     {
       "symbol": "6147@F.T",
@@ -19586,10 +19592,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6572.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6579.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19810,6 +19812,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6844.T",
+      "reason": "HTTPSConnectionPool(host='www.shindengen.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "6845.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19843,7 +19849,7 @@
     },
     {
       "symbol": "6863.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6864.T",
@@ -20056,10 +20062,6 @@
     {
       "symbol": "7140.T",
       "reason": "403 Client Error: Forbidden for url: https://corp.petgo.jp/"
-    },
-    {
-      "symbol": "7150.T",
-      "reason": "HTTPSConnectionPool(host='www.shimagin.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
     },
     {
       "symbol": "7164.T",
@@ -20494,6 +20496,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7727.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
+    },
+    {
       "symbol": "7730.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20586,6 +20592,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+    },
+    {
       "symbol": "7878.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20656,6 +20666,10 @@
     {
       "symbol": "7983.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7985@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7986.T",
@@ -20927,7 +20941,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8559@F.T",
@@ -21036,10 +21050,6 @@
     {
       "symbol": "8848.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "8860.T",
-      "reason": "HTTPSConnectionPool(host='www.fuji-jutaku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
     },
     {
       "symbol": "8869.T",
@@ -21400,10 +21410,6 @@
     {
       "symbol": "9554.T",
       "reason": "HTTPSConnectionPool(host='www.avic.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE"
-    },
-    {
-      "symbol": "9563.T",
-      "reason": "HTTPSConnectionPool(host='www.atlstech.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHIL"
     },
     {
       "symbol": "9601.T",
