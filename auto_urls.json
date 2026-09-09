@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:35:27.473255+00:00",
+  "updated_at": "2026-09-09T14:53:37.513440+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3629,12 +3629,6 @@
       "name": "TKP CORPORATION",
       "url": "https://www.tkp.jp/ir/calendar.html",
       "symbol": "3479.T",
-      "auto": true
-    },
-    {
-      "name": "J S B CO LTD",
-      "url": "https://www.jsb.co.jp/news/",
-      "symbol": "3480.T",
       "auto": true
     },
     {
@@ -9125,10 +9119,8 @@
     },
     {
       "name": "NITTO KOHKI CO LTD",
-      "url": "https://www.nitto-kohki.co.jp/news/2026/release/002329.html",
+      "url": "https://www.nitto-kohki.co.jp/news/",
       "symbol": "6151.T",
-      "per": 15.3839445,
-      "pbr": 0.5408563,
       "auto": true
     },
     {
@@ -9947,7 +9939,7 @@
     },
     {
       "name": "NICHIDAI CORPORATION",
-      "url": "https://www.nichidai.jp/news/news.cgi",
+      "url": "https://www.nichidai.jp/news/778/",
       "symbol": "6467.T",
       "auto": true
     },
@@ -12463,6 +12455,12 @@
       "name": "COPA CORP INC",
       "url": "https://www.copa.co.jp/news/374/",
       "symbol": "7689.T",
+      "auto": true
+    },
+    {
+      "name": "KOUKANDEKIRUKUN INC",
+      "url": "https://www.dekirukun.co.jp/co/ir/",
+      "symbol": "7695.T",
       "auto": true
     },
     {
@@ -15340,12 +15338,6 @@
       "auto": true
     },
     {
-      "name": "ASAGAMI CORPORATION",
-      "url": "https://www.asagami.co.jp/news/news_category/ir/",
-      "symbol": "9311.T",
-      "auto": true
-    },
-    {
       "name": "KEIHIN CO LTD",
       "url": "https://www.keihin.co.jp/category/ir/",
       "symbol": "9312.T",
@@ -15541,14 +15533,6 @@
       "name": "TBS HOLDINGS INC",
       "url": "https://www.tbsholdings.co.jp/ir/stakeholders/individual.html",
       "symbol": "9401.T",
-      "auto": true
-    },
-    {
-      "name": "BSN MEDIA HOLDINGS INC",
-      "url": "https://www.ohbsn.com/holdings/release/20250825.php",
-      "symbol": "9408.T",
-      "per": 11.025287,
-      "pbr": 0.5719671,
       "auto": true
     },
     {
@@ -16908,10 +16892,6 @@
       "reason": "公式サイトURLなし"
     },
     {
-      "symbol": "2060.T",
-      "reason": "HTTPSConnectionPool(host='www.feed-one.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.f"
-    },
-    {
       "symbol": "2108.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17529,7 +17509,7 @@
     },
     {
       "symbol": "3222.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "3223.T",
@@ -17537,7 +17517,7 @@
     },
     {
       "symbol": "3224.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "3232.T",
@@ -18229,7 +18209,7 @@
     },
     {
       "symbol": "4264.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://secureinc.co.jp/"
     },
     {
       "symbol": "4265.T",
@@ -18864,6 +18844,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "5341.T",
+      "reason": "HTTPSConnectionPool(host='www.asahieito-holdings.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "5351.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19225,7 +19209,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
     },
     {
       "symbol": "6147@F.T",
@@ -19253,6 +19237,10 @@
     },
     {
       "symbol": "6186.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "618A.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19344,12 +19332,20 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "632A.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "6330.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6337.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "633A.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6342.T",
@@ -19390,10 +19386,6 @@
     {
       "symbol": "6376.T",
       "reason": "HTTPSConnectionPool(host='www.nikkiso.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE"
-    },
-    {
-      "symbol": "6380.T",
-      "reason": "HTTPSConnectionPool(host='www.ocm.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ocm.co"
     },
     {
       "symbol": "6381.T",
@@ -19513,7 +19505,7 @@
     },
     {
       "symbol": "6532.T",
-      "reason": "HTTPSConnectionPool(host='www.baycurrent.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6535.T",
@@ -20045,7 +20037,7 @@
     },
     {
       "symbol": "7185.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "symbol": "7186.T",
@@ -20317,7 +20309,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7531.T",
@@ -20405,10 +20397,6 @@
     },
     {
       "symbol": "7694.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7695.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20546,10 +20534,6 @@
     {
       "symbol": "7874.T",
       "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
-    },
-    {
-      "symbol": "7894@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7897.T",
@@ -21037,7 +21021,7 @@
     },
     {
       "symbol": "8953.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "8955.T",
@@ -21385,7 +21369,7 @@
     },
     {
       "symbol": "9633.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9635.T",
@@ -21445,7 +21429,7 @@
     },
     {
       "symbol": "9778.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "symbol": "9795.T",
