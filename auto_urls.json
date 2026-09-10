@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:53:37.513440+00:00",
+  "updated_at": "2026-09-10T14:45:12.027630+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3961,7 +3961,7 @@
     },
     {
       "name": "ISTYLE INC",
-      "url": "https://www.istyle.co.jp#ir",
+      "url": "https://www.istyle.co.jp/news/seminor/2026/08/20260820-2.html",
       "symbol": "3660.T",
       "auto": true
     },
@@ -11452,6 +11452,12 @@
       "auto": true
     },
     {
+      "name": "LECIP HLDG CORP",
+      "url": "https://www.lecip.co.jp/lecip/news/2026/0910-1.html",
+      "symbol": "7213.T",
+      "auto": true
+    },
+    {
       "name": "GMB CORP",
       "url": "https://www.gmb.jp/news/ir-info",
       "symbol": "7214.T",
@@ -15338,6 +15344,12 @@
       "auto": true
     },
     {
+      "name": "ASAGAMI CORPORATION",
+      "url": "https://www.asagami.co.jp/news/news_category/ir/",
+      "symbol": "9311.T",
+      "auto": true
+    },
+    {
       "name": "KEIHIN CO LTD",
       "url": "https://www.keihin.co.jp/category/ir/",
       "symbol": "9312.T",
@@ -17217,7 +17229,7 @@
     },
     {
       "symbol": "2789.T",
-      "reason": "HTTPSConnectionPool(host='www.re-marumatu.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: C"
+      "reason": "HTTPSConnectionPool(host='www.re-marumatu.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
     },
     {
       "symbol": "2809.T",
@@ -17509,7 +17521,7 @@
     },
     {
       "symbol": "3222.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3223.T",
@@ -17517,7 +17529,7 @@
     },
     {
       "symbol": "3224.T",
-      "reason": "Too Many Requests. Rate limited. Try after a while."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3232.T",
@@ -18209,7 +18221,7 @@
     },
     {
       "symbol": "4264.T",
-      "reason": "403 Client Error: Forbidden for url: https://secureinc.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4265.T",
@@ -18444,6 +18456,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4563.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "4565.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18497,6 +18513,10 @@
     },
     {
       "symbol": "4631.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4634.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18673,7 +18693,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -18842,10 +18862,6 @@
     {
       "symbol": "5337.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5341.T",
-      "reason": "HTTPSConnectionPool(host='www.asahieito-holdings.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "5351.T",
@@ -19209,7 +19225,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19325,7 +19341,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19928,10 +19944,6 @@
       "reason": "HTTPSConnectionPool(host='kanadevia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICA"
     },
     {
-      "symbol": "7011@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "7012.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20037,7 +20049,7 @@
     },
     {
       "symbol": "7185.T",
-      "reason": "Expecting value: line 1 column 1 (char 0)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7186.T",
@@ -20065,10 +20077,6 @@
     },
     {
       "symbol": "7212.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7213.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20434,10 +20442,6 @@
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7727.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -20869,7 +20873,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -20917,7 +20921,7 @@
     },
     {
       "symbol": "8698.T",
-      "reason": "HTTPSConnectionPool(host='www.monexgroup.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.monexgroup.jp/"
     },
     {
       "symbol": "8699.T",
@@ -20973,7 +20977,7 @@
     },
     {
       "symbol": "8844.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "8848.T",
@@ -21021,7 +21025,7 @@
     },
     {
       "symbol": "8953.T",
-      "reason": "Too Many Requests. Rate limited. Try after a while."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8955.T",
@@ -21369,7 +21373,7 @@
     },
     {
       "symbol": "9633.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9635.T",
@@ -21429,7 +21433,7 @@
     },
     {
       "symbol": "9778.T",
-      "reason": "Expecting value: line 1 column 1 (char 0)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9795.T",
