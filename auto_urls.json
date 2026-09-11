@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:45:12.027630+00:00",
+  "updated_at": "2026-09-11T14:36:55.779506+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -9216,6 +9216,12 @@
       "auto": true
     },
     {
+      "name": "618A.T",
+      "url": "https://kompeito.co.jp/news/",
+      "symbol": "618A.T",
+      "auto": true
+    },
+    {
       "name": "PHOENIXBIO CO LTD",
       "url": "https://phoenixbio.co.jp/news/sumitomo-chemical_registration-in-us_new-herbicide_pxb-mouse.html",
       "symbol": "6190.T",
@@ -15548,6 +15554,12 @@
       "auto": true
     },
     {
+      "name": "BSN MEDIA HOLDINGS INC",
+      "url": "https://www.ohbsn.com/holdings/release/20250825.php",
+      "symbol": "9408.T",
+      "auto": true
+    },
+    {
       "name": "SKY PERFECT JSAT CORPORATION",
       "url": "https://www.skyperfectjsat.space/jp/news",
       "symbol": "9412.T",
@@ -16896,6 +16908,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2009@F.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "2053.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17042,10 +17058,6 @@
     {
       "symbol": "2413.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2415.T",
-      "reason": "HTTPSConnectionPool(host='www.athuman.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
     {
       "symbol": "2425.T",
@@ -17229,7 +17241,7 @@
     },
     {
       "symbol": "2789.T",
-      "reason": "HTTPSConnectionPool(host='www.re-marumatu.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww"
+      "reason": "HTTPSConnectionPool(host='www.re-marumatu.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: C"
     },
     {
       "symbol": "2809.T",
@@ -17278,6 +17290,10 @@
     {
       "symbol": "2926.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2928@S.T",
@@ -17618,6 +17634,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -17980,6 +18000,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3910.T",
+      "reason": "HTTPSConnectionPool(host='www.mks.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mks.jp', "
+    },
+    {
       "symbol": "3914.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18098,6 +18122,10 @@
     {
       "symbol": "4025.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4026.T",
+      "reason": "HTTPSConnectionPool(host='www.konoshima.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4042.T",
@@ -18653,7 +18681,7 @@
     },
     {
       "symbol": "4918.T",
-      "reason": "HTTPSConnectionPool(host='www.ivy.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key "
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "4919.T",
@@ -18880,6 +18908,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "5401@F.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "5401@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -18966,10 +18998,6 @@
     {
       "symbol": "5802.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5802@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "5803.T",
@@ -19256,10 +19284,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "618A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6191.T",
       "reason": "403 Client Error: Forbidden for url: https://www.airtrip.co.jp/"
     },
@@ -19380,6 +19404,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "635A.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "6361.T",
       "reason": "403 Client Error: Forbidden for url: https://www.ebara.com/jp-ja/"
     },
@@ -19390,6 +19418,10 @@
     {
       "symbol": "6368.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "636A.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6370.T",
@@ -20536,8 +20568,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+      "symbol": "7894@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7897.T",
@@ -20977,7 +21009,7 @@
     },
     {
       "symbol": "8844.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8848.T",
@@ -20985,7 +21017,7 @@
     },
     {
       "symbol": "8869.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "8892.T",
@@ -21398,10 +21430,6 @@
     {
       "symbol": "9685.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9691.T",
-      "reason": "HTTPSConnectionPool(host='www.ryomo.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_F"
     },
     {
       "symbol": "9692.T",
