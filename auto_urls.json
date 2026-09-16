@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T15:29:19.632741+00:00",
+  "updated_at": "2026-09-16T15:15:27.669189+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -8568,14 +8568,6 @@
       "auto": true
     },
     {
-      "name": "TAKIGAMI STEEL CONSTRUCTION CO",
-      "url": "https://www.takigami.co.jp/ir_news",
-      "symbol": "5918.T",
-      "per": 16.54054,
-      "pbr": 0.29953703,
-      "auto": true
-    },
-    {
       "name": "KAWAGISHI BRIDGE WORKS CO LTD",
       "url": "https://kawagishi.co.jp/news/260727/",
       "symbol": "5921.T",
@@ -9249,6 +9241,12 @@
       "name": "SERAKU CO LTD",
       "url": "https://www.seraku.co.jp/ir/library/",
       "symbol": "6199.T",
+      "auto": true
+    },
+    {
+      "name": "619A.T",
+      "url": "https://www.oliverinc.co.jp/news/detail/20260916/",
+      "symbol": "619A.T",
       "auto": true
     },
     {
@@ -17300,10 +17298,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17621,7 +17615,7 @@
     },
     {
       "symbol": "3299.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.mugen-estate.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3333.T",
@@ -17848,10 +17842,6 @@
       "reason": "HTTPSConnectionPool(host='www.matuoka.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ma"
     },
     {
-      "symbol": "3612.T",
-      "reason": "HTTPSConnectionPool(host='corp.world.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "3623.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18009,7 +17999,7 @@
     },
     {
       "symbol": "3914.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.jig-saw.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.jig-"
     },
     {
       "symbol": "3915.T",
@@ -18484,6 +18474,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4564.T",
+      "reason": "500 Server Error: Internal Server Error for url: https://www.oncotherapy.co.jp/"
+    },
+    {
       "symbol": "4565.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18717,7 +18711,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -19296,10 +19290,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "619A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6203.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19513,27 +19503,23 @@
     },
     {
       "symbol": "6494.T",
-      "reason": "HTTPSConnectionPool(host='www.nfk-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
+      "reason": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "symbol": "6503.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "6504.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "6505.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6506@F.T",
-      "reason": "公式サイトURLなし"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "6508.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6513.T",
@@ -19557,7 +19543,7 @@
     },
     {
       "symbol": "6532.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "symbol": "6535.T",
@@ -19798,6 +19784,10 @@
     {
       "symbol": "6806.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6807.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jae.com/"
     },
     {
       "symbol": "6809.T",
@@ -20593,7 +20583,7 @@
     },
     {
       "symbol": "7917.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "symbol": "7919.T",
@@ -20790,10 +20780,6 @@
     {
       "symbol": "8219.T",
       "reason": "403 Client Error: Forbidden for url: https://www.aoyama-syouji.co.jp/"
-    },
-    {
-      "symbol": "8225.T",
-      "reason": "HTTPSConnectionPool(host='kk-takachiho.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='kk-takac"
     },
     {
       "symbol": "8227.T",
@@ -21366,6 +21352,10 @@
     {
       "symbol": "9506.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9517.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.erex.co.jp/"
     },
     {
       "symbol": "9531.T",
