@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:34:29.382120+00:00",
+  "updated_at": "2026-09-21T16:47:54.878604+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -17328,6 +17328,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17664,10 +17668,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
-    },
-    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17678,6 +17678,10 @@
     {
       "symbol": "3382.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3392.T",
+      "reason": "HTTPSConnectionPool(host='www.delica.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.del"
     },
     {
       "symbol": "3397.T",
@@ -18737,7 +18741,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -18974,6 +18978,10 @@
     {
       "symbol": "5592.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5597.T",
+      "reason": "HTTPSConnectionPool(host='www.blue-i.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.blu"
     },
     {
       "symbol": "5602.T",
@@ -19385,7 +19393,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19502,10 +19510,6 @@
     {
       "symbol": "6481.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6484.T",
-      "reason": "HTTPSConnectionPool(host='www.kvk.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.kvk.co"
     },
     {
       "symbol": "6486.T",
@@ -19897,7 +19901,7 @@
     },
     {
       "symbol": "6905.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.cosel.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.cose"
     },
     {
       "symbol": "6914.T",
@@ -20001,7 +20005,7 @@
     },
     {
       "symbol": "7042.T",
-      "reason": "HTTPSConnectionPool(host='www.access-t.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7044.T",
@@ -20993,7 +20997,7 @@
     },
     {
       "symbol": "8783.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8793.T",
@@ -21213,7 +21217,7 @@
     },
     {
       "symbol": "9212.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.gei.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "9215.T",
