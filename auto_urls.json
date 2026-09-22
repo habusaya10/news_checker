@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:47:54.878604+00:00",
+  "updated_at": "2026-09-22T15:12:11.217158+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -6707,7 +6707,7 @@
     },
     {
       "name": "WASHINGTON HOTEL CORPORATION",
-      "url": "https://www.washingtonhotel.co.jp/corporation/news/228/",
+      "url": "https://www.washingtonhotel.co.jp/corporation/news/229/",
       "symbol": "4691.T",
       "auto": true
     },
@@ -9811,12 +9811,6 @@
       "symbol": "6393.T",
       "per": 10.775558,
       "pbr": 0.45347872,
-      "auto": true
-    },
-    {
-      "name": "UNOZAWA GUMI IRON WORKS",
-      "url": "https://www.unozawa.co.jp/news/",
-      "symbol": "6396.T",
       "auto": true
     },
     {
@@ -16972,20 +16966,12 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2153.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2157.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "215A.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2164@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2172@S.T",
@@ -17278,6 +17264,10 @@
     {
       "symbol": "2789.T",
       "reason": "HTTPSConnectionPool(host='www.re-marumatu.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: C"
+    },
+    {
+      "symbol": "2795.T",
+      "reason": "HTTPSConnectionPool(host='www.primex.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2809.T",
@@ -17668,6 +17658,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17886,6 +17880,10 @@
     {
       "symbol": "3625.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3626.T",
+      "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "symbol": "3627.T",
@@ -18928,10 +18926,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "5401@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "5423.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19901,7 +19895,7 @@
     },
     {
       "symbol": "6905.T",
-      "reason": "HTTPSConnectionPool(host='www.cosel.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.cose"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6914.T",
@@ -20580,10 +20574,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
-    },
-    {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -20992,6 +20982,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "8771.T",
+      "reason": "HTTPSConnectionPool(host='www.eguarantee.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "8772.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21296,6 +21290,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9376.T",
+      "reason": "HTTPSConnectionPool(host='www.eurasia.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "9380.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21446,10 +21444,6 @@
     {
       "symbol": "9685.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9691.T",
-      "reason": "HTTPSConnectionPool(host='www.ryomo.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_F"
     },
     {
       "symbol": "9692.T",
