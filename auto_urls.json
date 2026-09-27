@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T14:54:03.324734+00:00",
+  "updated_at": "2026-09-27T15:52:06.953275+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -12985,7 +12985,7 @@
     },
     {
       "name": "NODA CORP",
-      "url": "https://www.noda-co.jp/news/2026/detail/20260824101153.html",
+      "url": "https://www.noda-co.jp/news/2026/detail/20260924172642.html",
       "symbol": "7879.T",
       "auto": true
     },
@@ -16878,6 +16878,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "1888.T",
+      "reason": "HTTPSConnectionPool(host='www.wakachiku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+    },
+    {
       "symbol": "1893.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17084,6 +17088,10 @@
     {
       "symbol": "2341.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2370.T",
+      "reason": "HTTPSConnectionPool(host='www.medinet-inc.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: C"
     },
     {
       "symbol": "2371.T",
@@ -17686,10 +17694,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
-    },
-    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17908,10 +17912,6 @@
     {
       "symbol": "3625.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3626.T",
-      "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "symbol": "3627.T",
@@ -18571,7 +18571,7 @@
     },
     {
       "symbol": "4612.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.nipponpaint-holdings.com', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4619.T",
@@ -18748,6 +18748,10 @@
     {
       "symbol": "4931.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4933.T",
+      "reason": "503 Server Error: Service Unavailable for url: https://i-ne.co.jp/"
     },
     {
       "symbol": "4936.T",
@@ -19267,7 +19271,7 @@
     },
     {
       "symbol": "6090.T",
-      "reason": "HTTPSConnectionPool(host='www.humanmetabolome.com', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6094.T",
@@ -19295,7 +19299,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19419,7 +19423,7 @@
     },
     {
       "symbol": "6305.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6317.T",
@@ -20143,7 +20147,7 @@
     },
     {
       "symbol": "7212.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.ftech.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ftec"
     },
     {
       "symbol": "7219.T",
@@ -20939,7 +20943,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8559@F.T",
@@ -21391,7 +21395,7 @@
     },
     {
       "symbol": "9532.T",
-      "reason": "HTTPSConnectionPool(host='www.osakagas.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9536.T",
@@ -21443,7 +21447,7 @@
     },
     {
       "symbol": "9636.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.kin-ei.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kin"
     },
     {
       "symbol": "9644.T",
@@ -21482,16 +21486,12 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9739.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "9759.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9763.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.maruken-lease.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='"
     },
     {
       "symbol": "9766.T",
