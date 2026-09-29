@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:32:13.464463+00:00",
+  "updated_at": "2026-09-29T16:45:44.571095+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3668,6 +3668,12 @@
       "auto": true
     },
     {
+      "name": "CRE LOGISTICS REIT INC",
+      "url": "https://cre-reit.co.jp/ja/ir/schedule.html",
+      "symbol": "3487.T",
+      "auto": true
+    },
+    {
       "name": "CENTRAL REIT INV CORP",
       "url": "https://www.xymaxreit.co.jp/ja/ir/schedule.html",
       "symbol": "3488.T",
@@ -4389,7 +4395,7 @@
     },
     {
       "name": "AVANT GROUP CORPORATION",
-      "url": "https://www.avantgroup.com/ja/ir/irnews.html",
+      "url": "https://www.avantgroup.com/ja/news/groupnews20260513110000.html",
       "symbol": "3836.T",
       "auto": true
     },
@@ -9798,6 +9804,12 @@
       "auto": true
     },
     {
+      "name": "637A.T",
+      "url": "https://allis-co.com/news/12187/",
+      "symbol": "637A.T",
+      "auto": true
+    },
+    {
       "name": "ORIENTAL CHAIN MFG CO",
       "url": "https://www.ocm.co.jp/news/index.html",
       "symbol": "6380.T",
@@ -10423,6 +10435,12 @@
       "name": "TERASAKI ELECTRIC CO.LTD.",
       "url": "https://www.terasaki.co.jp/investor/news/",
       "symbol": "6637.T",
+      "auto": true
+    },
+    {
+      "name": "MIMAKI ENGINEERING CO.LTD",
+      "url": "https://ir.mimaki.com/library/latest.html",
+      "symbol": "6638.T",
       "auto": true
     },
     {
@@ -12429,7 +12447,7 @@
     },
     {
       "name": "ICHIBANYA CO LTD",
-      "url": "https://www.ichibanya.co.jp/comp/",
+      "url": "https://www.ichibanya.co.jp/comp/whatsnew/../../whatsnew/2026/09/ir-1.html",
       "symbol": "7630.T",
       "auto": true
     },
@@ -16748,10 +16766,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "1379.T",
-      "reason": "500 Server Error: Internal Server Error for url: https://www.hokto-kinoko.co.jp/"
-    },
-    {
       "symbol": "1380.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17828,10 +17842,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3487.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "3489.T",
       "reason": "HTTPSConnectionPool(host='www.faithnetwork.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CER"
     },
@@ -18106,10 +18116,6 @@
     {
       "symbol": "3948.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3950.T",
-      "reason": "504 Server Error: Gateway Time-out for url: https://www.thepack.co.jp/"
     },
     {
       "symbol": "3951.T",
@@ -18594,10 +18600,6 @@
     {
       "symbol": "4619.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4625.T",
-      "reason": "HTTPSConnectionPool(host='www.atomix.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "462A.T",
@@ -19552,6 +19554,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "646A.T",
+      "reason": "公式サイトURLなし"
+    },
+    {
       "symbol": "6471.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19697,10 +19703,6 @@
     },
     {
       "symbol": "6629.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6638.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20141,7 +20143,7 @@
     },
     {
       "symbol": "7185.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://hirose-fx.co.jp/"
     },
     {
       "symbol": "7186.T",
@@ -20460,6 +20462,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7614.T",
+      "reason": "HTTPSConnectionPool(host='www.om2.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "7615.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20469,10 +20475,6 @@
     },
     {
       "symbol": "7625.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7630.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20538,10 +20540,6 @@
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7727.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -20634,10 +20632,6 @@
     {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
       "symbol": "7894@F.T",
@@ -20889,6 +20883,10 @@
     },
     {
       "symbol": "8291.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8301.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -21429,7 +21427,7 @@
     },
     {
       "symbol": "9532.T",
-      "reason": "HTTPSConnectionPool(host='www.osakagas.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9536.T",
