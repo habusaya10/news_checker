@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:57:18.401170+00:00",
+  "updated_at": "2026-10-01T17:14:37.392663+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1691,6 +1691,12 @@
       "name": "ADWAYS INC",
       "url": "https://ir.adways.net/dt_news.html",
       "symbol": "2489.T",
+      "auto": true
+    },
+    {
+      "name": "VALUECOMMERCE CO.LTD.",
+      "url": "https://www.valuecommerce.co.jp/ir/ir_release/",
+      "symbol": "2491.T",
       "auto": true
     },
     {
@@ -4916,6 +4922,12 @@
       "auto": true
     },
     {
+      "name": "AXIS CO LTD",
+      "url": "https://www.axis-net.co.jp/news2/news20261001",
+      "symbol": "4012.T",
+      "auto": true
+    },
+    {
       "name": "KINJIRO CO LTD",
       "url": "https://www.kinjiro-e.com/ir/calendar/",
       "symbol": "4013.T",
@@ -6880,6 +6892,12 @@
       "auto": true
     },
     {
+      "name": "XNET CORPORATION",
+      "url": "https://www.xnet.co.jp/news/news1.html",
+      "symbol": "4762.T",
+      "auto": true
+    },
+    {
       "name": "SBI GLOBAL ASSET MANAGEMENT CO ",
       "url": "https://www.sbiglobalam.co.jp/release/press.html",
       "symbol": "4765.T",
@@ -7217,6 +7235,12 @@
       "name": "NOEVIR HLDGS CO LTD",
       "url": "https://www.noevirholdings.co.jp/ir/calendar/index.htm",
       "symbol": "4928.T",
+      "auto": true
+    },
+    {
+      "name": "ADJUVANT HOLDINGS CO LTD",
+      "url": "https://www.adjuvant-hd.co.jp/news/",
+      "symbol": "4929.T",
       "auto": true
     },
     {
@@ -9894,6 +9918,12 @@
       "auto": true
     },
     {
+      "name": "KANEMATSU ENGINEERING CO LTD",
+      "url": "https://www.kanematsu-eng.jp/news/261001eco",
+      "symbol": "6402.T",
+      "auto": true
+    },
+    {
       "name": "CKD CORP",
       "url": "https://www.ckd.co.jp/ir/newsrelease/",
       "symbol": "6407.T",
@@ -9905,6 +9935,12 @@
       "symbol": "6408.T",
       "per": 4.385965,
       "pbr": 0.3221359,
+      "auto": true
+    },
+    {
+      "name": "640A.T",
+      "url": "https://www.asnova.co.jp/news/2026/10/info/",
+      "symbol": "640A.T",
       "auto": true
     },
     {
@@ -9933,6 +9969,12 @@
       "symbol": "6419.T",
       "per": 8.861111,
       "pbr": 0.6708317,
+      "auto": true
+    },
+    {
+      "name": "641A.T",
+      "url": "https://www.nokgrp.com/news/ir/",
+      "symbol": "641A.T",
       "auto": true
     },
     {
@@ -10107,6 +10149,12 @@
       "name": "MAEZAWA KYUSO INDUSTRIES CO",
       "url": "https://www.qso.co.jp/news.html?tab=tab3",
       "symbol": "6485.T",
+      "auto": true
+    },
+    {
+      "name": "EAGLE INDUSTRY CO",
+      "url": "https://www.ekkeagle.com/news/technology/",
+      "symbol": "6486.T",
       "auto": true
     },
     {
@@ -15151,7 +15199,7 @@
     },
     {
       "name": "F CODE INC",
-      "url": "https://f-code.co.jp/news/",
+      "url": "https://f-code.co.jp/ir/top-message/",
       "symbol": "9211.T",
       "auto": true
     },
@@ -16182,6 +16230,12 @@
       "auto": true
     },
     {
+      "name": "CAPCOM CO LTD",
+      "url": "https://www.capcom.co.jp/ir/news",
+      "symbol": "9697.T",
+      "auto": true
+    },
+    {
       "name": "CREO CO LTD",
       "url": "https://www.creo.co.jp/news/",
       "symbol": "9698.T",
@@ -16289,7 +16343,7 @@
     },
     {
       "name": "NSW INC",
-      "url": "https://www.nsw.co.jp/topics/news_detail.html?eid=880&year=",
+      "url": "https://www.nsw.co.jp/topics/news_detail.html?eid=877&year=",
       "symbol": "9739.T",
       "auto": true
     },
@@ -17232,10 +17286,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2491.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2492.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17917,7 +17967,7 @@
     },
     {
       "symbol": "3538.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "353A@F.T",
@@ -18204,10 +18254,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4012.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4015.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18273,6 +18319,10 @@
     },
     {
       "symbol": "4107.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4114.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18724,10 +18774,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4762.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4763.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18806,10 +18852,6 @@
     {
       "symbol": "4927.T",
       "reason": "403 Client Error: Forbidden for url: https://www.po-holdings.co.jp/"
-    },
-    {
-      "symbol": "4929.T",
-      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4931.T",
@@ -18937,6 +18979,10 @@
     },
     {
       "symbol": "5202.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5233.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19253,7 +19299,7 @@
     },
     {
       "symbol": "6018.T",
-      "reason": "HTTPSConnectionPool(host='www.hanshin-dw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CE"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6023.T",
@@ -19357,7 +19403,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19552,15 +19598,19 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6402.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6405.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6412.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "6417.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "642A.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19605,10 +19655,6 @@
     },
     {
       "symbol": "6481.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6486.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19750,6 +19796,10 @@
     {
       "symbol": "6647.T",
       "reason": "HTTPSConnectionPool(host='www.morio.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFI"
+    },
+    {
+      "symbol": "6648.T",
+      "reason": "HTTPSConnectionPool(host='www.kawaden.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ka"
     },
     {
       "symbol": "6651.T",
@@ -20105,7 +20155,7 @@
     },
     {
       "symbol": "7068.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.feedforce.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7069.T",
@@ -20137,7 +20187,7 @@
     },
     {
       "symbol": "7114.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://foodison.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7131.T",
@@ -20445,15 +20495,11 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
     },
     {
       "symbol": "7531.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7538.T",
-      "reason": "HTTPSConnectionPool(host='www.daisui.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
     {
       "symbol": "7544.T",
@@ -20493,6 +20539,10 @@
     },
     {
       "symbol": "7603.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7606.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20540,6 +20590,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7695.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "7699.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20574,6 +20628,10 @@
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7727.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -20670,6 +20728,10 @@
     {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
       "symbol": "7894@F.T",
@@ -20881,7 +20943,7 @@
     },
     {
       "symbol": "8214.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.aoki-hd.co.jp/"
     },
     {
       "symbol": "8219.T",
@@ -21013,7 +21075,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8559@F.T",
@@ -21352,10 +21414,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9324.T",
-      "reason": "HTTPSConnectionPool(host='www.yasuda-soko.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "9325.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21540,16 +21598,16 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9697.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "9726.T",
       "reason": "HTTPConnectionPool(host='www.kntcthd.co.jp', port=80): Max retries exceeded with url: /en/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.kn"
     },
     {
       "symbol": "9735.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9740.T",
+      "reason": "HTTPSConnectionPool(host='www.we-are-csp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "9759.T",
