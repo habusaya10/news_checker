@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:14:37.392663+00:00",
+  "updated_at": "2026-10-02T16:49:00.145638+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1909,6 +1909,12 @@
       "name": "TOWARISE CORPORATION",
       "url": "https://www.towarise.jp/news/",
       "symbol": "267A.T",
+      "auto": true
+    },
+    {
+      "name": "GEO HOLDINGS CORP",
+      "url": "https://2nd-rtl.com/news/press/archive/",
+      "symbol": "2681.T",
       "auto": true
     },
     {
@@ -10004,6 +10010,12 @@
       "auto": true
     },
     {
+      "name": "642A.T",
+      "url": "https://www.kyuden.co.jp/news.html",
+      "symbol": "642A.T",
+      "auto": true
+    },
+    {
       "name": "DAIKOKU DENKI CO LTD",
       "url": "https://www.daikoku.co.jp/ir/news/",
       "symbol": "6430.T",
@@ -10099,6 +10111,12 @@
       "name": "HODEN SEIMITSU KAKO KENKYUSHO",
       "url": "https://www.hsk.co.jp/ja/ir/news.html",
       "symbol": "6469.T",
+      "auto": true
+    },
+    {
+      "name": "646A.T",
+      "url": "https://www.crasus.co.jp/news/2026/8.html",
+      "symbol": "646A.T",
       "auto": true
     },
     {
@@ -12635,7 +12653,7 @@
     },
     {
       "name": "KOUKANDEKIRUKUN INC",
-      "url": "https://www.dekirukun.co.jp/co/ir/",
+      "url": "https://reform-technology.co.jp/news/release/20260918.html",
       "symbol": "7695.T",
       "auto": true
     },
@@ -16186,6 +16204,12 @@
       "auto": true
     },
     {
+      "name": "NAGAWA CO LTD",
+      "url": "https://group.nagawa.co.jp/news.html",
+      "symbol": "9663.T",
+      "auto": true
+    },
+    {
       "name": "TOKYOTOKEIBA CO",
       "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
       "symbol": "9672.T",
@@ -17038,10 +17062,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.kinden.co.jp/"
     },
     {
-      "symbol": "1948.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "194A.T",
       "reason": "403 Client Error: Forbidden for url: https://www.wolveshand.jp/"
     },
@@ -17214,10 +17234,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2370.T",
-      "reason": "HTTPSConnectionPool(host='www.medinet-inc.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: C"
-    },
-    {
       "symbol": "2371.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17231,7 +17247,7 @@
     },
     {
       "symbol": "2395.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.snbl.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
     },
     {
       "symbol": "2410.T",
@@ -17259,7 +17275,7 @@
     },
     {
       "symbol": "2435.T",
-      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
+      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ce"
     },
     {
       "symbol": "2437.T",
@@ -17344,10 +17360,6 @@
     {
       "symbol": "2678.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2681.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.geonet.co.jp/"
     },
     {
       "symbol": "2683.T",
@@ -17467,7 +17479,7 @@
     },
     {
       "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "2928@S.T",
@@ -18319,10 +18331,6 @@
     },
     {
       "symbol": "4107.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4114.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19314,6 +19322,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "6033.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.e-xtreme.co.jp/"
+    },
+    {
       "symbol": "6034.T",
       "reason": "403 Client Error: Forbidden for url: https://www.medrt.co.jp/"
     },
@@ -19403,7 +19415,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
     },
     {
       "symbol": "6147@F.T",
@@ -19527,7 +19539,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6322.T",
@@ -19594,6 +19606,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "638A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "6395.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19607,10 +19623,6 @@
     },
     {
       "symbol": "6417.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "642A.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19640,10 +19652,6 @@
     {
       "symbol": "6465.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "646A.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6471.T",
@@ -19796,10 +19804,6 @@
     {
       "symbol": "6647.T",
       "reason": "HTTPSConnectionPool(host='www.morio.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFI"
-    },
-    {
-      "symbol": "6648.T",
-      "reason": "HTTPSConnectionPool(host='www.kawaden.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ka"
     },
     {
       "symbol": "6651.T",
@@ -20495,7 +20499,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7531.T",
@@ -20590,10 +20594,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7695.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "7699.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20628,10 +20628,6 @@
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7727.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -21075,7 +21071,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21316,6 +21312,10 @@
     {
       "symbol": "9072.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9076.T",
+      "reason": "503 Server Error: Service Unavailable for url: https://www.seino.co.jp/"
     },
     {
       "symbol": "9081.T",
@@ -21582,10 +21582,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9663.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "9685.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21604,10 +21600,6 @@
     {
       "symbol": "9735.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9740.T",
-      "reason": "HTTPSConnectionPool(host='www.we-are-csp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "9759.T",
