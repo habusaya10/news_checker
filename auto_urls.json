@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:49:00.145638+00:00",
+  "updated_at": "2026-10-03T15:22:59.360266+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1984,12 +1984,6 @@
       "auto": true
     },
     {
-      "name": "ACCELIA INC",
-      "url": "https://www.accelia.net/news/2026/0907/",
-      "symbol": "271A.T",
-      "auto": true
-    },
-    {
       "name": "IK HOLDINGS CO LTD",
       "url": "https://www.ai-kei.co.jp/news",
       "symbol": "2722.T",
@@ -3648,14 +3642,6 @@
       "auto": true
     },
     {
-      "name": "FORLIFE CO LTD",
-      "url": "https://www.forlifeand.com/news/%ef%bc%9c%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%9e2026%e5%b9%b48%e6%9c%888%e6%97%a5%e5%9c%9f%ef%bd%9e2025%e5%b9%b48%e6%9c%8816%e6%97%a5%e6%97%a5/",
-      "symbol": "3477.T",
-      "per": 6.55256,
-      "pbr": 0.8109371,
-      "auto": true
-    },
-    {
       "name": "TKP CORPORATION",
       "url": "https://www.tkp.jp/ir/calendar.html",
       "symbol": "3479.T",
@@ -4141,7 +4127,7 @@
     },
     {
       "name": "A-TIE CO LTD",
-      "url": "https://a-tie.co.jp/news/260813/",
+      "url": "https://a-tie.co.jp/news/260903/",
       "symbol": "369A.T",
       "auto": true
     },
@@ -4475,14 +4461,6 @@
       "name": "I'LL INC",
       "url": "https://www.ill.co.jp/",
       "symbol": "3854.T",
-      "auto": true
-    },
-    {
-      "name": "ABALANCE CORPORATION",
-      "url": "https://www.abalance.co.jp/welcome/",
-      "symbol": "3856.T",
-      "per": 1.042369,
-      "pbr": 0.1889869,
       "auto": true
     },
     {
@@ -6982,12 +6960,6 @@
       "auto": true
     },
     {
-      "name": "ORICON INC",
-      "url": "https://www.oricon.jp/ir/",
-      "symbol": "4800.T",
-      "auto": true
-    },
-    {
       "name": "CENTRAL SPORTS",
       "url": "https://company.central.co.jp/news/2026/5659/",
       "symbol": "4801.T",
@@ -8521,12 +8493,6 @@
       "name": "SBI LEASING SERVICES CO. LTD",
       "url": "https://www.sbils.co.jp/news/",
       "symbol": "5834.T",
-      "auto": true
-    },
-    {
-      "name": "NIPPON SOUKEN CO LTD",
-      "url": "https://www.iba-ns.com/news/entry-200.html",
-      "symbol": "5840.T",
       "auto": true
     },
     {
@@ -12105,12 +12071,6 @@
       "symbol": "7422.T",
       "per": 78.0911,
       "pbr": 0.3471345,
-      "auto": true
-    },
-    {
-      "name": "YAMADAI CORP",
-      "url": "https://www.yamadai.com/article/news/",
-      "symbol": "7426.T",
       "auto": true
     },
     {
@@ -17247,7 +17207,7 @@
     },
     {
       "symbol": "2395.T",
-      "reason": "HTTPSConnectionPool(host='www.snbl.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
+      "reason": "HTTPSConnectionPool(host='www.snbl.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFIC"
     },
     {
       "symbol": "2410.T",
@@ -17479,7 +17439,7 @@
     },
     {
       "symbol": "2927.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2928@S.T",
@@ -17535,10 +17495,6 @@
     },
     {
       "symbol": "298A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2990.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18163,10 +18119,6 @@
     },
     {
       "symbol": "3853.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3856.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18986,10 +18938,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "5202.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "5233.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19068,10 +19016,6 @@
     {
       "symbol": "5391.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5401@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "5423.T",
@@ -19514,18 +19458,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "628A.T",
-      "reason": "HTTPSConnectionPool(host='cado.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_"
-    },
-    {
-      "symbol": "628A@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
-      "symbol": "628A@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "6292.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19539,7 +19471,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "公式サイトURLなし"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -21034,6 +20966,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "8393.T",
+      "reason": "503 Server Error: Service Unavailable for url: https://www.miyagin.co.jp/"
+    },
+    {
       "symbol": "8398@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -21175,7 +21111,7 @@
     },
     {
       "symbol": "8844.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "8848.T",
@@ -21188,6 +21124,10 @@
     {
       "symbol": "8892.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8894.T",
+      "reason": "HTTPSConnectionPool(host='revolution.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='revolut"
     },
     {
       "symbol": "8898.T",
@@ -21266,6 +21206,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9012.T",
+      "reason": "500 Server Error: Internal Server Error for url: https://www.chichibu-railway.co.jp/"
+    },
+    {
       "symbol": "9020.T",
       "reason": "403 Client Error: Forbidden for url: https://www.jreast.co.jp/"
     },
@@ -21312,10 +21256,6 @@
     {
       "symbol": "9072.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9076.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.seino.co.jp/"
     },
     {
       "symbol": "9081.T",
