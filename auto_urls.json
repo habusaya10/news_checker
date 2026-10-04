@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T15:22:59.360266+00:00",
+  "updated_at": "2026-10-04T15:38:10.707955+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -18831,7 +18831,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -19139,7 +19139,7 @@
     },
     {
       "symbol": "5885.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "502 Server Error: Bad Gateway for url: https://info.gdep.co.jp/"
     },
     {
       "symbol": "5889.T",
@@ -19335,7 +19335,7 @@
     },
     {
       "symbol": "6094.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.fout.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "6098.T",
@@ -19359,7 +19359,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19471,7 +19471,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19943,7 +19943,7 @@
     },
     {
       "symbol": "6866.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.hioki.com/jp-ja"
     },
     {
       "symbol": "6867.T",
@@ -20658,10 +20658,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
-    },
-    {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -20966,10 +20962,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "8393.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.miyagin.co.jp/"
-    },
-    {
       "symbol": "8398@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -21007,7 +20999,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8559@F.T",
@@ -21111,7 +21103,7 @@
     },
     {
       "symbol": "8844.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8848.T",
@@ -21204,10 +21196,6 @@
     {
       "symbol": "9006.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9012.T",
-      "reason": "500 Server Error: Internal Server Error for url: https://www.chichibu-railway.co.jp/"
     },
     {
       "symbol": "9020.T",
