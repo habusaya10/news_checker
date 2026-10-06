@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T19:07:11.949244+00:00",
+  "updated_at": "2026-10-06T16:43:48.729749+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1909,12 +1909,6 @@
       "name": "TAKACHIHO KOHEKI CO",
       "url": "https://www.takachiho-kk.co.jp/news/notice",
       "symbol": "2676.T",
-      "auto": true
-    },
-    {
-      "name": "TOWARISE CORPORATION",
-      "url": "https://www.towarise.jp/news/",
-      "symbol": "267A.T",
       "auto": true
     },
     {
@@ -6381,7 +6375,7 @@
     },
     {
       "name": "ANGES INC",
-      "url": "https://www.anges.co.jp/ir/#ir_news",
+      "url": "https://www.anges.co.jp/ir/news",
       "symbol": "4563.T",
       "auto": true
     },
@@ -8372,6 +8366,12 @@
       "auto": true
     },
     {
+      "name": "JMC CORPORATION",
+      "url": "https://www.jmc-rp.co.jp/ir_management",
+      "symbol": "5704.T",
+      "auto": true
+    },
+    {
       "name": "MITSUI KINZOKU CO LTD",
       "url": "https://www.mitsui-kinzoku.com/toushi/ir_news/",
       "symbol": "5706.T",
@@ -10158,12 +10158,6 @@
       "auto": true
     },
     {
-      "name": "EAGLE INDUSTRY CO",
-      "url": "https://www.ekkeagle.com/news/technology/",
-      "symbol": "6486.T",
-      "auto": true
-    },
-    {
       "name": "PILLAR CORPORATION",
       "url": "https://www.pillar.co.jp/ja/ir/individual/meeting/",
       "symbol": "6490.T",
@@ -10773,7 +10767,7 @@
     },
     {
       "name": "JAPAN AVIATION ELECTRONICS INDU",
-      "url": "https://www.jae.com/releases/detail/id=116244",
+      "url": "https://www.jae.com/releases/detail/id=116494",
       "symbol": "6807.T",
       "auto": true
     },
@@ -11356,12 +11350,6 @@
       "auto": true
     },
     {
-      "name": "JIMOTY INC",
-      "url": "https://jmty.co.jp/news_all/",
-      "symbol": "7082.T",
-      "auto": true
-    },
-    {
       "name": "AHC GROUP INC",
       "url": "https://ahc.co.jp/category/news/",
       "symbol": "7083.T",
@@ -11713,12 +11701,6 @@
       "symbol": "7239.T",
       "per": 8.580493,
       "pbr": 0.7370946,
-      "auto": true
-    },
-    {
-      "name": "NOK CORP",
-      "url": "https://www.nokgrp.com/technology/news/",
-      "symbol": "7240.T",
       "auto": true
     },
     {
@@ -15248,12 +15230,6 @@
       "auto": true
     },
     {
-      "name": "ASNOVA CO LTD",
-      "url": "https://www.asnova.co.jp/news/",
-      "symbol": "9223.T",
-      "auto": true
-    },
-    {
       "name": "BRIDGE CONSULTING GROUP INC",
       "url": "https://bridge-group.co.jp/news/9658/",
       "symbol": "9225.T",
@@ -15935,14 +15911,6 @@
       "symbol": "9507.T",
       "per": 7.309232,
       "pbr": 0.7557213,
-      "auto": true
-    },
-    {
-      "name": "KYUSHU ELECTRIC POWER CO INC",
-      "url": "https://www.kyuden.co.jp/news.html",
-      "symbol": "9508.T",
-      "per": 5.8967514,
-      "pbr": 0.7064379,
       "auto": true
     },
     {
@@ -17456,10 +17424,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17609,7 +17573,7 @@
     },
     {
       "symbol": "3088.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.matsukiyococokara.com/"
     },
     {
       "symbol": "3089.T",
@@ -17648,10 +17612,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3166@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "3167.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17681,7 +17641,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
+      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "3189.T",
@@ -18217,7 +18177,7 @@
     },
     {
       "symbol": "3994.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://moneyforward.com:443/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3997.T",
@@ -18616,10 +18576,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4563.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4565.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18845,7 +18801,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -18885,7 +18841,7 @@
     },
     {
       "symbol": "5032.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.anycolor.co.jp/"
     },
     {
       "symbol": "5033.T",
@@ -19021,7 +18977,7 @@
     },
     {
       "symbol": "5363.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.tyk.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICA"
     },
     {
       "symbol": "5384.T",
@@ -19089,10 +19045,6 @@
     },
     {
       "symbol": "5697.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5704.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19166,6 +19118,10 @@
     {
       "symbol": "590A.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5921.T",
+      "reason": "HTTPSConnectionPool(host='kawagishi.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='kawagish"
     },
     {
       "symbol": "5923.T",
@@ -19481,7 +19437,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -20672,14 +20628,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
-      "symbol": "7877.T",
-      "reason": "HTTPSConnectionPool(host='www.eidaikako.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_W"
-    },
-    {
-      "symbol": "7894@F.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "7897.T",
       "reason": "HTTPSConnectionPool(host='www.hokushinmdf.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ww"
     },
@@ -20858,6 +20806,10 @@
     {
       "symbol": "8147.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "8151.T",
+      "reason": "429 Client Error: Too Many Requests for url: https://www.toyo.co.jp/"
     },
     {
       "symbol": "8153.T",
@@ -21332,10 +21284,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9271.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.wagokoro.co.jp/"
-    },
-    {
       "symbol": "9272.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21501,7 +21449,7 @@
     },
     {
       "symbol": "9628.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9629.T",
