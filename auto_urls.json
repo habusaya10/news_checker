@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T16:43:48.729749+00:00",
+  "updated_at": "2026-10-07T17:08:37.305334+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -4007,7 +4007,7 @@
     },
     {
       "name": "ATEAM HOLDINGS CO LTD",
-      "url": "https://www.a-tm.co.jp/news_category/service/page/4/",
+      "url": "https://www.a-tm.co.jp/news_category/service/page/5/",
       "symbol": "3662.T",
       "auto": true
     },
@@ -4873,7 +4873,7 @@
     },
     {
       "name": "WANTEDLY INC",
-      "url": "https://wantedlyinc.com/ja/news/info",
+      "url": "https://wantedlyinc.com/ir/faq/",
       "symbol": "3991.T",
       "auto": true
     },
@@ -8205,7 +8205,7 @@
     },
     {
       "name": "AR ADVANCED TECHNOLOGY INC",
-      "url": "https://ari-jp.com/news/20260730/17399/",
+      "url": "https://ari-jp.com/news/20260928/18032/",
       "symbol": "5578.T",
       "auto": true
     },
@@ -9837,12 +9837,6 @@
       "name": "RAIZNEXT CORPORATION",
       "url": "https://www.raiznext.co.jp/news/spc/index.html",
       "symbol": "6379.T",
-      "auto": true
-    },
-    {
-      "name": "637A.T",
-      "url": "https://allis-co.com/news/12187/",
-      "symbol": "637A.T",
       "auto": true
     },
     {
@@ -12436,8 +12430,8 @@
       "auto": true
     },
     {
-      "name": "UNITED ARROWS LTD",
-      "url": "https://www.united-arrows.co.jp/news/category/ir/",
+      "name": "TABAYA HOLDINGS CO LTD",
+      "url": "https://www.united-arrows.co.jp/news/8986/",
       "symbol": "7606.T",
       "auto": true
     },
@@ -16837,7 +16831,7 @@
     },
     {
       "symbol": "1380.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "symbol": "1381.T",
@@ -17080,10 +17074,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2137@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "2139.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17173,11 +17163,15 @@
     },
     {
       "symbol": "2340.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.gokurakuyu-holdings.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection("
     },
     {
       "symbol": "2341.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2370.T",
+      "reason": "HTTPSConnectionPool(host='www.medinet-inc.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: C"
     },
     {
       "symbol": "2371.T",
@@ -17424,6 +17418,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17641,7 +17639,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
     },
     {
       "symbol": "3189.T",
@@ -17758,6 +17756,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18841,7 +18843,7 @@
     },
     {
       "symbol": "5032.T",
-      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.anycolor.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5033.T",
@@ -18964,6 +18966,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "5332.T",
+      "reason": "403 Client Error: Forbidden for url: https://jp.toto.com/"
+    },
+    {
       "symbol": "5334.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19022,6 +19028,10 @@
     {
       "symbol": "5582.T",
       "reason": "HTTPSConnectionPool(host='www.gridpredict.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
+    },
+    {
+      "symbol": "5589.T",
+      "reason": "502 Server Error: Bad Gateway for url: https://www.autoserver.co.jp/"
     },
     {
       "symbol": "5591.T",
@@ -19325,7 +19335,7 @@
     },
     {
       "symbol": "6146.T",
-      "reason": "HTTPSConnectionPool(host='www.disco.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.disc"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6147@F.T",
@@ -19373,7 +19383,7 @@
     },
     {
       "symbol": "6208.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.ishiss.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
     {
       "symbol": "6218.T",
@@ -19437,7 +19447,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -20444,10 +20454,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7606.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "7611.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20624,8 +20630,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7874.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+      "symbol": "7894@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7897.T",
@@ -20806,10 +20812,6 @@
     {
       "symbol": "8147.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "8151.T",
-      "reason": "429 Client Error: Too Many Requests for url: https://www.toyo.co.jp/"
     },
     {
       "symbol": "8153.T",
@@ -21085,7 +21087,7 @@
     },
     {
       "symbol": "8892.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "8898.T",
@@ -21449,7 +21451,7 @@
     },
     {
       "symbol": "9628.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9629.T",
