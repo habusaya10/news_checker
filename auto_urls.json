@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T17:08:37.305334+00:00",
+  "updated_at": "2026-10-08T17:19:59.598663+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1765,6 +1765,12 @@
       "name": "GLTECHNO HOLDINGS INC",
       "url": "https://www.gltechno.co.jp/ir/news/index.html",
       "symbol": "255A.T",
+      "auto": true
+    },
+    {
+      "name": "TOBISHIMA HOLDINGS INC",
+      "url": "https://www.tobishimahd.co.jp/news/article/20260916154237.html",
+      "symbol": "256A.T",
       "auto": true
     },
     {
@@ -4300,14 +4306,6 @@
       "auto": true
     },
     {
-      "name": "TECHNO MATHEMATICAL CO.LTD",
-      "url": "https://www.tmath.co.jp/news/category/31181/",
-      "symbol": "3787.T",
-      "per": 8.808446,
-      "pbr": 0.41784963,
-      "auto": true
-    },
-    {
       "name": "GMO GLOBALSIGN HOLDINGS K.K.",
       "url": "https://www.gmogshd.com/news/news-term/ir",
       "symbol": "3788.T",
@@ -5704,12 +5702,6 @@
       "auto": true
     },
     {
-      "name": "BEMAP INC",
-      "url": "https://www.bemap.co.jp/irinfo/library.php",
-      "symbol": "4316.T",
-      "auto": true
-    },
-    {
       "name": "RAY CORPORATION",
       "url": "https://www.ray.co.jp/ir/news/",
       "symbol": "4317.T",
@@ -6996,6 +6988,12 @@
       "auto": true
     },
     {
+      "name": "DENTSU SOKEN INC",
+      "url": "https://www.dentsusoken.com/ir/",
+      "symbol": "4812.T",
+      "auto": true
+    },
+    {
       "name": "ACCESS CO LTD",
       "url": "https://www.access-company.com/news_event/archives/category/event/",
       "symbol": "4813.T",
@@ -7484,6 +7482,12 @@
       "auto": true
     },
     {
+      "name": "TESS HOLDINGS CO LTD",
+      "url": "https://www.tess-hd.co.jp/news/release/261008",
+      "symbol": "5074.T",
+      "auto": true
+    },
+    {
       "name": "INFRONEER HLDGS INC",
       "url": "https://www.infroneer.com/jp/ir/library/",
       "symbol": "5076.T",
@@ -7505,12 +7509,6 @@
       "name": "NOVAC CO LTD",
       "url": "https://www.novac-cnst.co.jp/news-release/3698.html",
       "symbol": "5079.T",
-      "auto": true
-    },
-    {
-      "name": "DIGITAL KNOWLEDGE CO LTD",
-      "url": "https://www.digital-knowledge.co.jp/archives/category/news/",
-      "symbol": "507A.T",
       "auto": true
     },
     {
@@ -9170,12 +9168,6 @@
       "auto": true
     },
     {
-      "name": "YAMAZAKI CO LTD",
-      "url": "https://www.yamazaki-iron.co.jp/ir/news/20230119-174.html",
-      "symbol": "6147.T",
-      "auto": true
-    },
-    {
       "name": "ODAWARA ENGINEERING CO",
       "url": "https://odawara-eng.co.jp/irinfo//ir_news/",
       "symbol": "6149.T",
@@ -9932,8 +9924,8 @@
       "auto": true
     },
     {
-      "name": "HEIWA CORP",
-      "url": "https://www.heiwanet.co.jp/news/",
+      "name": "HEIWA HOLDINGS INC",
+      "url": "https://www.heiwa-hd.co.jp/ja/news/",
       "symbol": "6412.T",
       "auto": true
     },
@@ -10061,6 +10053,12 @@
       "name": "SINKO INDUSTRIES LTD",
       "url": "https://www.sinko.co.jp/news_ir/",
       "symbol": "6458.T",
+      "auto": true
+    },
+    {
+      "name": "645A.T",
+      "url": "https://www.d-berry.jp/ir/",
+      "symbol": "645A.T",
       "auto": true
     },
     {
@@ -11714,14 +11712,6 @@
       "auto": true
     },
     {
-      "name": "SAKURAI LTD",
-      "url": "https://sakurai-net.co.jp/news_category/ir%e3%80%80news/",
-      "symbol": "7255.T",
-      "per": 7.4854136,
-      "pbr": 0.34566173,
-      "auto": true
-    },
-    {
       "name": "MURO CORPORATION",
       "url": "https://www.muro.co.jp/ir/news",
       "symbol": "7264.T",
@@ -12974,14 +12964,6 @@
       "auto": true
     },
     {
-      "name": "KAWASE COMPUTER SUPPLIES CO",
-      "url": "https://www.kc-s.co.jp/news/",
-      "symbol": "7851.T",
-      "per": 9.191361,
-      "pbr": 0.34526804,
-      "auto": true
-    },
-    {
       "name": "HAGIHARA INDUSTRIES",
       "url": "https://www.hagihara.co.jp/ir/ir_news",
       "symbol": "7856.T",
@@ -13232,12 +13214,6 @@
       "auto": true
     },
     {
-      "name": "KOYOSHA INC",
-      "url": "https://www.koyosha-inc.co.jp/ir",
-      "symbol": "7946.T",
-      "auto": true
-    },
-    {
       "name": "KOMATSU WALL INDUSTRY CO",
       "url": "https://www.komatsuwall.co.jp/news/index.html",
       "symbol": "7949.T",
@@ -13331,12 +13307,6 @@
       "name": "KOKUYO CO LTD",
       "url": "https://www.kokuyo.com/news/ir/",
       "symbol": "7984.T",
-      "auto": true
-    },
-    {
-      "name": "NEPON INC",
-      "url": "https://www.nepon.co.jp/news/notice/200",
-      "symbol": "7985.T",
       "auto": true
     },
     {
@@ -16831,7 +16801,7 @@
     },
     {
       "symbol": "1380.T",
-      "reason": "Expecting value: line 1 column 1 (char 0)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "1381.T",
@@ -17062,6 +17032,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2121.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "2124.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17163,7 +17137,7 @@
     },
     {
       "symbol": "2340.T",
-      "reason": "HTTPSConnectionPool(host='www.gokurakuyu-holdings.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection("
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "2341.T",
@@ -17258,10 +17232,6 @@
       "reason": "HTTPSConnectionPool(host='ets-group.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
     {
-      "symbol": "256A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2587.T",
       "reason": "403 Client Error: Forbidden for url: https://www.suntory.co.jp/softdrink/"
     },
@@ -17327,7 +17297,7 @@
     },
     {
       "symbol": "2736.T",
-      "reason": "HTTPSConnectionPool(host='www.festaria.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
+      "reason": "HTTPSConnectionPool(host='www.festaria.jp', port=443): Max retries exceeded with url: /company/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL:"
     },
     {
       "symbol": "2737.T",
@@ -17416,10 +17386,6 @@
     {
       "symbol": "2926.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2927.T",
-      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "2928@S.T",
@@ -17758,10 +17724,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3370.T",
-      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
-    },
-    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18004,10 +17966,6 @@
     {
       "symbol": "366A.T",
       "reason": "HTTPSConnectionPool(host='www.wellcoms.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFI"
-    },
-    {
-      "symbol": "3670.T",
-      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3674.T",
@@ -18566,6 +18524,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4539.T",
+      "reason": "HTTPSConnectionPool(host='www.chemiphar.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
+    },
+    {
       "symbol": "4543.T",
       "reason": "403 Client Error: Forbidden for url: https://www.terumo.com/"
     },
@@ -18722,10 +18684,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.yamada-cg.co.jp/"
     },
     {
-      "symbol": "4812.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4820.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18803,7 +18761,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -18860,10 +18818,6 @@
     {
       "symbol": "505A.T",
       "reason": "HTTPSConnectionPool(host='www.corp.geekly.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ww"
-    },
-    {
-      "symbol": "5074.T",
-      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "509A.T",
@@ -18966,10 +18920,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "5332.T",
-      "reason": "403 Client Error: Forbidden for url: https://jp.toto.com/"
-    },
-    {
       "symbol": "5334.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19027,7 +18977,7 @@
     },
     {
       "symbol": "5582.T",
-      "reason": "HTTPSConnectionPool(host='www.gridpredict.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5589.T",
@@ -19383,7 +19333,7 @@
     },
     {
       "symbol": "6208.T",
-      "reason": "HTTPSConnectionPool(host='www.ishiss.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6218.T",
@@ -19523,10 +19473,6 @@
     },
     {
       "symbol": "6405.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6412.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19807,7 +19753,7 @@
     },
     {
       "symbol": "6754.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.anritsu.com/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6758.T",
@@ -20036,6 +19982,10 @@
     {
       "symbol": "7004.T",
       "reason": "HTTPSConnectionPool(host='kanadevia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICA"
+    },
+    {
+      "symbol": "7011@S.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7012.T",
@@ -20514,10 +20464,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7709.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "7715.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20552,10 +20498,6 @@
     {
       "symbol": "7751.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7751@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7777.T",
@@ -20628,6 +20570,10 @@
     {
       "symbol": "7864.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
     },
     {
       "symbol": "7894@F.T",
@@ -21087,7 +21033,7 @@
     },
     {
       "symbol": "8892.T",
-      "reason": "Too Many Requests. Rate limited. Try after a while."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "8898.T",
@@ -21400,6 +21346,10 @@
     {
       "symbol": "9501.T",
       "reason": "403 Client Error: Forbidden for url: https://www.tepco.co.jp/"
+    },
+    {
+      "symbol": "9503.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.kepco.co.jp/"
     },
     {
       "symbol": "9506.T",
