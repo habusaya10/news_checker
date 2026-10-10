@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:59:54.061685+00:00",
+  "updated_at": "2026-10-10T16:05:27.596428+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -17386,6 +17386,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2927.T",
+      "reason": "HTTPSConnectionPool(host='www.ams-life.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "2928@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17603,7 +17607,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
+      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "3189.T",
@@ -17787,6 +17791,10 @@
     },
     {
       "symbol": "3434.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3435.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18476,6 +18484,10 @@
     {
       "symbol": "4482.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4484.T",
+      "reason": "429 Client Error: Too Many Requests for url: https://www.lancers.co.jp/"
     },
     {
       "symbol": "4486.T",
@@ -19395,7 +19407,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19462,10 +19474,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "638A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6395.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19478,16 +19486,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "643A.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "6444.T",
       "reason": "HTTPSConnectionPool(host='www.sanden.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
-    },
-    {
-      "symbol": "644A.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6457.T",
@@ -20570,6 +20570,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+    },
+    {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -20911,7 +20915,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
