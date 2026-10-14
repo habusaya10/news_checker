@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T17:45:57.011435+00:00",
+  "updated_at": "2026-10-14T15:24:05.475260+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -673,10 +673,8 @@
     },
     {
       "name": "SUMITOMO FORESTRY CO",
-      "url": "https://sfc.jp/information/ir/news/",
+      "url": "https://sfc.jp#tab1",
       "symbol": "1911.T",
-      "per": 9.665455,
-      "pbr": 0.656041,
       "auto": true
     },
     {
@@ -927,6 +925,12 @@
       "name": "KOZO KEIKAKU ENGINEERING HLDGS ",
       "url": "https://www.kke-hd.co.jp/ir/news/",
       "symbol": "208A.T",
+      "auto": true
+    },
+    {
+      "name": "NITTEN CO LTD",
+      "url": "https://www.nitten.co.jp/news/20260919_briefing_session/",
+      "symbol": "2108.T",
       "auto": true
     },
     {
@@ -1403,6 +1407,12 @@
       "name": "CUBE SYSTEM INC",
       "url": "https://www.cubesystem.co.jp/news",
       "symbol": "2335.T",
+      "auto": true
+    },
+    {
+      "name": "ICHIGO INC",
+      "url": "https://www.ichigo.gr.jp/ir/news/",
+      "symbol": "2337.T",
       "auto": true
     },
     {
@@ -2483,6 +2493,12 @@
       "name": "TSUKURUBA INC",
       "url": "https://tsukuruba.com/news/",
       "symbol": "2978.T",
+      "auto": true
+    },
+    {
+      "name": "SOSILA LOGISTICS REIT INC",
+      "url": "https://sosila-reit.co.jp/ja/ir/library.html",
+      "symbol": "2979.T",
       "auto": true
     },
     {
@@ -5499,6 +5515,12 @@
       "symbol": "4224.T",
       "per": 9.715061,
       "pbr": 0.5011484,
+      "auto": true
+    },
+    {
+      "name": "SEKISUI KASEI CO LTD",
+      "url": "https://www.sekisuikasei.com/news/detail.php?id=453",
+      "symbol": "4228.T",
       "auto": true
     },
     {
@@ -13796,6 +13818,12 @@
       "auto": true
     },
     {
+      "name": "LAPINE CO",
+      "url": "https://www.lapine.co.jp/ir.html",
+      "symbol": "8143.T",
+      "auto": true
+    },
+    {
       "name": "SANSHIN ELECTRONICS CO",
       "url": "https://www.sanshin.co.jp/news/",
       "symbol": "8150.T",
@@ -17046,10 +17074,6 @@
       "reason": "公式サイトURLなし"
     },
     {
-      "symbol": "2108.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2124.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17060,6 +17084,10 @@
     {
       "symbol": "2130.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "2137@S.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "2139.T",
@@ -17139,10 +17167,6 @@
     },
     {
       "symbol": "2332.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2337.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -17442,10 +17466,6 @@
       "reason": "公式サイトURLなし"
     },
     {
-      "symbol": "2979.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "297A.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17619,7 +17639,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
     },
     {
       "symbol": "3189.T",
@@ -18282,10 +18302,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4228.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4229.T",
       "reason": "HTTPSConnectionPool(host='www.gunei-chemical.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL"
     },
@@ -18539,7 +18555,7 @@
     },
     {
       "symbol": "4539.T",
-      "reason": "HTTPSConnectionPool(host='www.chemiphar.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
+      "reason": "HTTPSConnectionPool(host='www.chemiphar.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CER"
     },
     {
       "symbol": "4543.T",
@@ -18734,16 +18750,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4885.T",
-      "reason": "HTTPSConnectionPool(host='www.muro-chem.co.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "4888.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4893.T",
-      "reason": "HTTPSConnectionPool(host='www.noile-immune.com', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4918.T",
@@ -18780,6 +18788,10 @@
     {
       "symbol": "4968.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4971.T",
+      "reason": "HTTPSConnectionPool(host='www.mec-co.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC"
     },
     {
       "symbol": "4972.T",
@@ -19088,6 +19100,10 @@
     {
       "symbol": "5892.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5902.T",
+      "reason": "403 Client Error: Forbidden for url: https://hokkanholdings.co.jp/"
     },
     {
       "symbol": "590A.T",
@@ -19638,8 +19654,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6594.T",
-      "reason": "404 Client Error: Not Found for url: https://www.nidec.com/"
+      "symbol": "6599.T",
+      "reason": "HTTPSConnectionPool(host='ebrain.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ebrain.co.j"
     },
     {
       "symbol": "6616.T",
@@ -19871,7 +19887,7 @@
     },
     {
       "symbol": "6866.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.hioki.com/jp-ja"
     },
     {
       "symbol": "6867.T",
@@ -20011,7 +20027,7 @@
     },
     {
       "symbol": "7042.T",
-      "reason": "HTTPSConnectionPool(host='www.access-t.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7044.T",
@@ -20250,10 +20266,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7384.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.procrea-hd.co.jp/"
-    },
-    {
       "symbol": "7389.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20412,6 +20424,10 @@
     {
       "symbol": "7611.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7613.T",
+      "reason": "HTTPSConnectionPool(host='www.siix.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.siix."
     },
     {
       "symbol": "7615.T",
@@ -20578,6 +20594,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+    },
+    {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -20666,10 +20686,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7991.T",
-      "reason": "HTTPSConnectionPool(host='www.mamiya-op.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
-    },
-    {
       "symbol": "7994.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20747,10 +20763,6 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "8143.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -21472,6 +21484,10 @@
     {
       "symbol": "9778.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9782.T",
+      "reason": "HTTPSConnectionPool(host='www.dmsjp.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] w"
     },
     {
       "symbol": "9795.T",
