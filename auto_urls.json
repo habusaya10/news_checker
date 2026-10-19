@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:59:57.541176+00:00",
+  "updated_at": "2026-10-19T17:14:37.008977+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -4299,7 +4299,7 @@
     },
     {
       "name": "INTERNET INITIATIVE JAPAN INC",
-      "url": "https://www.iij.ad.jp#tab-02",
+      "url": "https://www.iij.ad.jp/ir/#anc01",
       "symbol": "3774.T",
       "auto": true
     },
@@ -10823,7 +10823,7 @@
     },
     {
       "name": "JAPAN AVIATION ELECTRONICS INDU",
-      "url": "https://www.jae.com/releases/detail/id=116244",
+      "url": "https://www.jae.com/releases/detail/id=116494",
       "symbol": "6807.T",
       "auto": true
     },
@@ -17208,10 +17208,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2370.T",
-      "reason": "HTTPSConnectionPool(host='www.medinet-inc.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: C"
-    },
-    {
       "symbol": "2371.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17461,7 +17457,7 @@
     },
     {
       "symbol": "2929.T",
-      "reason": "HTTPSConnectionPool(host='www.pharmafoods.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "2931.T",
@@ -17677,7 +17673,7 @@
     },
     {
       "symbol": "3190.T",
-      "reason": "HTTPSConnectionPool(host='www.yg-hotman.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
+      "reason": "403 Client Error: Forbidden for url: https://www.yg-hotman.com/"
     },
     {
       "symbol": "3191.T",
@@ -17786,6 +17782,10 @@
     {
       "symbol": "3359.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "3372.T",
@@ -18192,6 +18192,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3974.T",
+      "reason": "HTTPSConnectionPool(host='www.scat.inc', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "3977@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -18324,6 +18328,10 @@
       "reason": "HTTPSConnectionPool(host='www.ooc.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ooc.co"
     },
     {
+      "symbol": "4199.T",
+      "reason": "HTTPSConnectionPool(host='wonderpla.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='wonderpla."
+    },
+    {
       "symbol": "4204.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18354,6 +18362,10 @@
     {
       "symbol": "4248.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4250@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "4255.T",
@@ -18409,7 +18421,7 @@
     },
     {
       "symbol": "4372.T",
-      "reason": "HTTPSConnectionPool(host='www.ymir.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ymir."
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4374.T",
@@ -18638,6 +18650,10 @@
     {
       "symbol": "4597.T",
       "reason": "HTTPSConnectionPool(host='www.solasia.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTI"
+    },
+    {
+      "symbol": "4613.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.kansai.co.jp/"
     },
     {
       "symbol": "4619.T",
@@ -19441,7 +19457,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -19453,7 +19469,7 @@
     },
     {
       "symbol": "6337.T",
-      "reason": "HTTPSConnectionPool(host='www.tesec.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.tese"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6342.T",
@@ -19564,12 +19580,20 @@
       "reason": "HTTPSConnectionPool(host='www.nfk-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
     {
+      "symbol": "649A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "6503.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6504.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6504@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6505.T",
@@ -19806,10 +19830,6 @@
     {
       "symbol": "6768.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6769.T",
-      "reason": "HTTPSConnectionPool(host='www.thine.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
     {
       "symbol": "6770.T",
@@ -20272,10 +20292,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7371.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "7372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20402,6 +20418,10 @@
     {
       "symbol": "7531.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7532.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.ppih.co.jp/"
     },
     {
       "symbol": "7544.T",
@@ -20612,6 +20632,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7874.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lecinc.co.jp/"
+    },
+    {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
     },
@@ -20765,7 +20789,7 @@
     },
     {
       "symbol": "8111.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.goldwin.co.jp/"
     },
     {
       "symbol": "8118.T",
@@ -20941,7 +20965,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21205,7 +21229,7 @@
     },
     {
       "symbol": "9143.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "9145.T",
