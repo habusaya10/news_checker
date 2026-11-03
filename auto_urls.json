@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:16:48.790335+00:00",
+  "updated_at": "2026-11-03T17:57:48.830125+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -3427,10 +3427,8 @@
     },
     {
       "name": "TOELL CO.LTD",
-      "url": "https://www.toell.co.jp/newsrelease/",
+      "url": "https://www.toell.co.jp/newsrelease/detail/724",
       "symbol": "3361.T",
-      "per": 10.147795,
-      "pbr": 0.74380517,
       "auto": true
     },
     {
@@ -17117,7 +17115,7 @@
     },
     {
       "symbol": "184A.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.manabi-aid.jp/"
+      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.manabi-aid.jp/"
     },
     {
       "symbol": "1853.T",
@@ -17656,10 +17654,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2990.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2993.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17825,7 +17819,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
     },
     {
       "symbol": "3189.T",
@@ -18252,10 +18246,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3723.T",
-      "reason": "HTTPSConnectionPool(host='www.falcom.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
-    },
-    {
       "symbol": "3747.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18350,6 +18340,10 @@
     {
       "symbol": "3939.T",
       "reason": "HTTPSConnectionPool(host='www.kanamic.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
+    },
+    {
+      "symbol": "3940.T",
+      "reason": "HTTPSConnectionPool(host='www.nomura-system.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='"
     },
     {
       "symbol": "3944.T",
@@ -18458,10 +18452,6 @@
     {
       "symbol": "4059@F.T",
       "reason": "公式サイトURLなし"
-    },
-    {
-      "symbol": "4061.T",
-      "reason": "HTTPSConnectionPool(host='www.denka.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "4062.T",
@@ -19053,7 +19043,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -19197,10 +19187,6 @@
     },
     {
       "symbol": "5261.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5273.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19381,7 +19367,7 @@
     },
     {
       "symbol": "5923.T",
-      "reason": "HTTPSConnectionPool(host='www.takadakiko.com', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5928.T",
@@ -19697,7 +19683,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
     },
     {
       "symbol": "6322.T",
@@ -19765,7 +19751,7 @@
     },
     {
       "symbol": "6384.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.showashinku.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF"
     },
     {
       "symbol": "6395.T",
@@ -19966,6 +19952,10 @@
     {
       "symbol": "6629.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6632.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jvckenwood.com/"
     },
     {
       "symbol": "6637.T",
@@ -20314,10 +20304,6 @@
     {
       "symbol": "7004.T",
       "reason": "HTTPSConnectionPool(host='kanadevia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICA"
-    },
-    {
-      "symbol": "7011@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "7012.T",
@@ -20693,7 +20679,7 @@
     },
     {
       "symbol": "7515.T",
-      "reason": "HTTPSConnectionPool(host='ww2.maruyoshi-center.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[S"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7520.T",
@@ -20757,7 +20743,7 @@
     },
     {
       "symbol": "7603.T",
-      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.mac-house.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7611.T",
@@ -21309,7 +21295,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
