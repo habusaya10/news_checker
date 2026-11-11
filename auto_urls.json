@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:46:46.834281+00:00",
+  "updated_at": "2026-11-11T18:01:37.911333+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -5429,7 +5429,7 @@
     },
     {
       "name": "MITSUI CHEMICALS INC",
-      "url": "https://jp.mitsuichemicals.com/en/release/2026/2026_0817/index.htm",
+      "url": "https://jp.mitsuichemicals.com/en/release/2026/index.htm",
       "symbol": "4183.T",
       "auto": true
     },
@@ -10615,7 +10615,7 @@
     },
     {
       "name": "UMC ELECTRONICS CO TLD",
-      "url": "https://www.umc.co.jp/IRニュース｜ユー・エム・シー・エレクトロニクス.html",
+      "url": "https://www.umc.co.jp/IRスケジュール｜ユー・エム・シー・エレクトロニクス.html",
       "symbol": "6615.T",
       "auto": true
     },
@@ -10945,7 +10945,7 @@
     },
     {
       "name": "JAPAN AVIATION ELECTRONICS INDU",
-      "url": "https://www.jae.com/releases/",
+      "url": "https://www.jae.com/releases/detail/id=116494",
       "symbol": "6807.T",
       "auto": true
     },
@@ -16511,7 +16511,7 @@
     },
     {
       "name": "NSW INC",
-      "url": "https://www.nsw.co.jp/topics/news_detail.html?eid=883&year=",
+      "url": "https://www.nsw.co.jp/topics/news_detail.html?eid=888&year=",
       "symbol": "9739.T",
       "auto": true
     },
@@ -17855,7 +17855,7 @@
     },
     {
       "symbol": "3184.T",
-      "reason": "HTTPSConnectionPool(host='www.icda.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "403 Client Error: Forbidden for url: https://www.icda.jp/"
     },
     {
       "symbol": "3189.T",
@@ -18175,7 +18175,7 @@
     },
     {
       "symbol": "3598.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.e-yamaki.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3607.T",
@@ -18507,7 +18507,7 @@
     },
     {
       "symbol": "4172.T",
-      "reason": "HTTPSConnectionPool(host='www.towa-hi-sys.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ww"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4177.T",
@@ -18532,10 +18532,6 @@
     {
       "symbol": "4208.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4220.T",
-      "reason": "HTTPSConnectionPool(host='www.rikentechnos.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HAND"
     },
     {
       "symbol": "4229.T",
@@ -18611,7 +18607,7 @@
     },
     {
       "symbol": "4344.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.sourcenext.com/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4346.T",
@@ -19055,7 +19051,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
+      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
     },
     {
       "symbol": "4978.T",
@@ -19175,7 +19171,7 @@
     },
     {
       "symbol": "5243.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "503 Server Error: Service Unavailable for url: https://note.jp/"
     },
     {
       "symbol": "5247.T",
@@ -19679,7 +19675,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19936,6 +19932,10 @@
     {
       "symbol": "6629.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "663A.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6645.T",
@@ -20211,7 +20211,7 @@
     },
     {
       "symbol": "6929.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6932.T",
@@ -20348,10 +20348,6 @@
     {
       "symbol": "7114.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7122.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.kinkisharyo.co.jp/"
     },
     {
       "symbol": "7131.T",
@@ -20667,15 +20663,11 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
     },
     {
       "symbol": "7531.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7532.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.ppih.co.jp/"
     },
     {
       "symbol": "7544.T",
@@ -20802,6 +20794,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7727.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
+    },
+    {
       "symbol": "7730.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20896,6 +20892,10 @@
     {
       "symbol": "7894@F.T",
       "reason": "公式サイトURLなし"
+    },
+    {
+      "symbol": "7896.T",
+      "reason": "HTTPSConnectionPool(host='www.seven-gr.co.jp', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.se"
     },
     {
       "symbol": "7897.T",
@@ -21006,10 +21006,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "8023.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.daiko-xtech.co.jp/"
-    },
-    {
       "symbol": "8025.T",
       "reason": "403 Client Error: Forbidden for url: https://www.tsukamoto.co.jp/"
     },
@@ -21027,7 +21023,7 @@
     },
     {
       "symbol": "8051.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.yamazen.co.jp/"
+      "reason": "403 Client Error: Forbidden for url: https://www.yamazen.co.jp/maintenance/"
     },
     {
       "symbol": "8052.T",
@@ -21828,6 +21824,10 @@
     {
       "symbol": "9735.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9740.T",
+      "reason": "HTTPSConnectionPool(host='www.we-are-csp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "9763.T",
