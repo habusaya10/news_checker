@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:01:37.911333+00:00",
+  "updated_at": "2026-11-12T18:31:06.702405+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1951,7 +1951,7 @@
     },
     {
       "name": "TAKACHIHO KOHEKI CO",
-      "url": "https://www.takachiho-kk.co.jp/news/notice",
+      "url": "https://corp.takachiho-kk.co.jp/news/details.html?itemid=275",
       "symbol": "2676.T",
       "auto": true
     },
@@ -10512,6 +10512,12 @@
       "auto": true
     },
     {
+      "name": "ALLGANIZE HOLDINGS INC",
+      "url": "https://www.allganize.ai/ja/news",
+      "symbol": "656A.T",
+      "auto": true
+    },
+    {
       "name": "KYOWA CORPORATION CO LTD",
       "url": "https://www.kyowa-corp.co.jp/news",
       "symbol": "6570.T",
@@ -10691,6 +10697,12 @@
       "name": "MIMAKI ENGINEERING CO.LTD",
       "url": "https://ir.mimaki.com/library/latest.html",
       "symbol": "6638.T",
+      "auto": true
+    },
+    {
+      "name": "663A.T",
+      "url": "https://www.iglobe.co.jp/news-list/%e6%9d%b1%e4%ba%ac%e8%a8%bc%e5%88%b8%e5%8f%96%e5%bc%95%e6%89%80tokyo-pro-market%e3%81%b8%e3%81%ae%e6%96%b0%e8%a6%8f%e4%b8%8a%e5%a0%b4%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89",
+      "symbol": "663A.T",
       "auto": true
     },
     {
@@ -13103,7 +13115,7 @@
     },
     {
       "name": "WELLCO HOLDINGS CORP",
-      "url": "https://www.well-corp.jp/news/category/information/",
+      "url": "https://www.well-corp.jp/news/category/information/page/2/",
       "symbol": "7831.T",
       "auto": true
     },
@@ -17034,6 +17046,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "1379.T",
+      "reason": "500 Server Error: Internal Server Error for url: https://www.hokto-kinoko.co.jp/"
+    },
+    {
       "symbol": "1380.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17124,10 +17140,6 @@
     {
       "symbol": "1736.T",
       "reason": "403 Client Error: Forbidden for url: https://www.o-tec.co.jp/"
-    },
-    {
-      "symbol": "1766.T",
-      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.token.co.jp/"
     },
     {
       "symbol": "1771@F.T",
@@ -17978,6 +17990,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3370.T",
+      "reason": "HTTPSConnectionPool(host='www.fujitacorp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    },
+    {
       "symbol": "3372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18360,6 +18376,10 @@
     {
       "symbol": "3939.T",
       "reason": "HTTPSConnectionPool(host='www.kanamic.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
+    },
+    {
+      "symbol": "3940.T",
+      "reason": "HTTPSConnectionPool(host='www.nomura-system.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='"
     },
     {
       "symbol": "3944.T",
@@ -18758,10 +18778,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4502@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "4503.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18923,7 +18939,7 @@
     },
     {
       "symbol": "4705.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.clip-cor.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
     },
     {
       "symbol": "4714.T",
@@ -19051,7 +19067,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -19171,7 +19187,7 @@
     },
     {
       "symbol": "5243.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://note.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5247.T",
@@ -19723,7 +19739,7 @@
     },
     {
       "symbol": "6370.T",
-      "reason": "HTTPSConnectionPool(host='www.kurita-water.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CE"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6371.T",
@@ -19783,7 +19799,7 @@
     },
     {
       "symbol": "6471.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "Failed to perform, curl: (28) Operation timed out after 30001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html fi"
     },
     {
       "symbol": "6472.T",
@@ -19890,10 +19906,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "656A.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "6579.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19934,8 +19946,8 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "663A.T",
-      "reason": "公式サイトURLなし"
+      "symbol": "6632.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jvckenwood.com/"
     },
     {
       "symbol": "6645.T",
@@ -20211,7 +20223,7 @@
     },
     {
       "symbol": "6929.T",
-      "reason": "公式サイトURLなし"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6932.T",
@@ -20663,7 +20675,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7531.T",
@@ -20724,10 +20736,6 @@
     {
       "symbol": "7625.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7634.T",
-      "reason": "401 Client Error: Unauthorized for url: https://www.hosi.co.jp/"
     },
     {
       "symbol": "7640.T",
@@ -20792,10 +20800,6 @@
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7727.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -20894,10 +20898,6 @@
       "reason": "公式サイトURLなし"
     },
     {
-      "symbol": "7896.T",
-      "reason": "HTTPSConnectionPool(host='www.seven-gr.co.jp', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.se"
-    },
-    {
       "symbol": "7897.T",
       "reason": "HTTPSConnectionPool(host='www.hokushinmdf.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ww"
     },
@@ -20908,10 +20908,6 @@
     {
       "symbol": "7917.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7918.T",
-      "reason": "403 Client Error: Forbidden for url: https://movia.jpn.com/notice001.html"
     },
     {
       "symbol": "7919.T",
@@ -21075,10 +21071,6 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "8123.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -21251,7 +21243,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21824,10 +21816,6 @@
     {
       "symbol": "9735.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "9740.T",
-      "reason": "HTTPSConnectionPool(host='www.we-are-csp.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "9763.T",
