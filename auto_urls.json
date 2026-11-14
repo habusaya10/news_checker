@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:10:01.814259+00:00",
+  "updated_at": "2026-11-14T16:41:04.700951+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -11740,12 +11740,6 @@
       "auto": true
     },
     {
-      "name": "CHUOU INTERNATIONAL GROUP CO LT",
-      "url": "https://www.cig-ins.co.jp/ir/ir/",
-      "symbol": "7170.T",
-      "auto": true
-    },
-    {
       "name": "IMAMURA SECURITIES CO LTD(THE)",
       "url": "https://www.imamura.co.jp/news/index.html",
       "symbol": "7175.T",
@@ -12530,14 +12524,6 @@
       "auto": true
     },
     {
-      "name": "MANSEI  CORP",
-      "url": "https://www.mansei.co.jp/ir/news/",
-      "symbol": "7565.T",
-      "per": 11.655011,
-      "pbr": 0.9750452,
-      "auto": true
-    },
-    {
       "name": "SAKAE ELECTRONICS CORP",
       "url": "https://sakae-denshi.com/news/20260810_otherinformation2/",
       "symbol": "7567.T",
@@ -12639,7 +12625,7 @@
     },
     {
       "name": "SK JAPAN CO LTD",
-      "url": "https://www.sk-japan.co.jp/charatoru/topic/news/72920",
+      "url": "https://www.sk-japan.co.jp/charatoru/topic/news/73686",
       "symbol": "7608.T",
       "auto": true
     },
@@ -17312,10 +17298,6 @@
       "reason": "HTTPSConnectionPool(host='www.hip-pro.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.hi"
     },
     {
-      "symbol": "2137@S.T",
-      "reason": "公式サイトURLなし"
-    },
-    {
       "symbol": "2139.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17614,10 +17596,6 @@
     {
       "symbol": "2831.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2904.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.ichimasa.co.jp/"
     },
     {
       "symbol": "2907.T",
@@ -18417,7 +18395,7 @@
     },
     {
       "symbol": "3994.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.moneyforward.com/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3997.T",
@@ -18589,7 +18567,7 @@
     },
     {
       "symbol": "4265.T",
-      "reason": "HTTPSConnectionPool(host='i-globalsociety.com', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4287.T",
@@ -19061,7 +19039,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4978.T",
@@ -19301,7 +19279,7 @@
     },
     {
       "symbol": "5697.T",
-      "reason": "HTTPSConnectionPool(host='www.sanyu-cfs.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5707.T",
@@ -19533,7 +19511,7 @@
     },
     {
       "symbol": "6078.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.valuehr.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE"
     },
     {
       "symbol": "6085.T",
@@ -19685,7 +19663,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -19716,10 +19694,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6356.T",
-      "reason": "HTTPSConnectionPool(host='www.nippon-gear.jp', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "symbol": "6358.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19748,10 +19722,6 @@
       "reason": "HTTPSConnectionPool(host='www.nikkiso.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE"
     },
     {
-      "symbol": "6380.T",
-      "reason": "HTTPSConnectionPool(host='www.ocm.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ocm.co"
-    },
-    {
       "symbol": "6381.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19761,7 +19731,11 @@
     },
     {
       "symbol": "6384.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.showashinku.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF"
+    },
+    {
+      "symbol": "6391.T",
+      "reason": "HTTPSConnectionPool(host='www.kajitech.com', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "6395.T",
@@ -19946,10 +19920,6 @@
     {
       "symbol": "6629.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6632.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.jvckenwood.com/"
     },
     {
       "symbol": "6645.T",
@@ -20552,6 +20522,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7370.T",
+      "reason": "HTTPSConnectionPool(host='www.y-enjin.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "7372.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20681,7 +20655,7 @@
     },
     {
       "symbol": "7524.T",
-      "reason": "HTTPSConnectionPool(host='www.marche.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mar"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7531.T",
@@ -21812,6 +21786,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9699.T",
+      "reason": "HTTPSConnectionPool(host='www.nishio-grp.co.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
       "symbol": "9726.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21922,10 +21900,6 @@
     {
       "symbol": "9955.T",
       "reason": "HTTPSConnectionPool(host='www.yonkyu.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIF"
-    },
-    {
-      "symbol": "9956.T",
-      "reason": "HTTPSConnectionPool(host='valorholdings.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "9969.T",
