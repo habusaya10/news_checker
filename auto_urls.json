@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:56:49.430342+00:00",
+  "updated_at": "2026-11-24T21:09:56.885836+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1465,6 +1465,12 @@
       "name": "ICHIGO INC",
       "url": "https://www.ichigo.gr.jp/ir/news/",
       "symbol": "2337.T",
+      "auto": true
+    },
+    {
+      "name": "GOKURAKUYU HOLDINGSCO LTD",
+      "url": "https://www.gokurakuyu-holdings.co.jp/news/page_758.html",
+      "symbol": "2340.T",
       "auto": true
     },
     {
@@ -5023,7 +5029,7 @@
     },
     {
       "name": "NEEDS WELL INC",
-      "url": "https://www.needswell.com/news/index",
+      "url": "https://www.needswell.com/news/",
       "symbol": "3992.T",
       "auto": true
     },
@@ -6027,6 +6033,12 @@
       "name": "SIMPLEX HLDGS INC",
       "url": "https://www.simplex.holdings/news/2026/3129/",
       "symbol": "4373.T",
+      "auto": true
+    },
+    {
+      "name": "ROBOT PAYMENT INC",
+      "url": "https://www.robotpayment.co.jp/news/category/pressrelease/",
+      "symbol": "4374.T",
       "auto": true
     },
     {
@@ -7585,10 +7597,8 @@
     },
     {
       "name": "HOKKO CHEMICAL INDUSTRY CO",
-      "url": "https://www.hokkochem.co.jp/archives/category/news",
+      "url": "https://www.hokkochem.co.jp/ir",
       "symbol": "4992.T",
-      "per": 10.40234,
-      "pbr": 0.8617626,
       "auto": true
     },
     {
@@ -13965,10 +13975,8 @@
     },
     {
       "name": "HANWA CO LTD",
-      "url": "https://www.hanwa.co.jp/news/ir/",
+      "url": "https://www.hanwa.co.jp/ir",
       "symbol": "8078.T",
-      "per": 9.376295,
-      "pbr": 0.80145663,
       "auto": true
     },
     {
@@ -17579,7 +17587,7 @@
     },
     {
       "symbol": "2206.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.glico.com/global/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "2216.T",
@@ -17642,10 +17650,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2340.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "2341.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -17687,7 +17691,7 @@
     },
     {
       "symbol": "2435.T",
-      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
+      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTI"
     },
     {
       "symbol": "2437.T",
@@ -17864,10 +17868,6 @@
     {
       "symbol": "2831.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2871.T",
-      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://maint.nichirei.co.jp:443/"
     },
     {
       "symbol": "2877.T",
@@ -18091,7 +18091,7 @@
     },
     {
       "symbol": "3151.T",
-      "reason": "HTTPSConnectionPool(host='www.vitalksk.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.v"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.vitalksk.co.jp/"
     },
     {
       "symbol": "3153.T",
@@ -18319,7 +18319,7 @@
     },
     {
       "symbol": "3431.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.miyaji-eng.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.m"
     },
     {
       "symbol": "3434.T",
@@ -18510,10 +18510,6 @@
       "reason": "403 Client Error: Forbidden for url: https://m-upholdings.co.jp/"
     },
     {
-      "symbol": "366A.T",
-      "reason": "503 Server Error: Service Temporarily Unavailable for url: https://www.wellcoms.jp/"
-    },
-    {
       "symbol": "3674.T",
       "reason": "HTTPSConnectionPool(host='www.aucfan.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_"
     },
@@ -18654,12 +18650,12 @@
       "reason": "HTTPSConnectionPool(host='www.kanamic.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
     {
-      "symbol": "3944.T",
-      "reason": "HTTPSConnectionPool(host='www.furubayashi-shiko.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(ho"
+      "symbol": "3940.T",
+      "reason": "HTTPSConnectionPool(host='www.nomura-system.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='"
     },
     {
-      "symbol": "3946.T",
-      "reason": "HTTPSConnectionPool(host='www.tomoku.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tom"
+      "symbol": "3944.T",
+      "reason": "HTTPSConnectionPool(host='www.furubayashi-shiko.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(ho"
     },
     {
       "symbol": "3948.T",
@@ -18695,7 +18691,7 @@
     },
     {
       "symbol": "3994.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.moneyforward.com/"
     },
     {
       "symbol": "3997.T",
@@ -18854,10 +18850,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4246.T",
-      "reason": "HTTPSConnectionPool(host='www.daikyonishikawa.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host"
-    },
-    {
       "symbol": "4247.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18938,10 +18930,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "4374.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4378.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18955,7 +18943,7 @@
     },
     {
       "symbol": "4385.T",
-      "reason": "403 Client Error: Forbidden for url: https://about.mercari.com/"
+      "reason": "503 Server Error: Service Unavailable for url: https://about.mercari.com/"
     },
     {
       "symbol": "4386.T",
@@ -19206,6 +19194,10 @@
       "reason": "HTTPSConnectionPool(host='www.olc.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
+      "symbol": "4666.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.park24.co.jp/"
+    },
+    {
       "symbol": "4671.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19303,7 +19295,7 @@
     },
     {
       "symbol": "4882.T",
-      "reason": "HTTPSConnectionPool(host='www.ppmx.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ppmx.co"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.ppmx.com/"
     },
     {
       "symbol": "4883.T",
@@ -19359,7 +19351,7 @@
     },
     {
       "symbol": "4972.T",
-      "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
+      "reason": "HTTPSConnectionPool(host='www.soken-ce.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "4973.T",
@@ -19472,10 +19464,6 @@
     {
       "symbol": "519A.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5232.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.soc.co.jp/"
     },
     {
       "symbol": "5233.T",
@@ -19614,10 +19602,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "5706.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.mitsui-kinzoku.com/"
-    },
-    {
       "symbol": "5707.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19660,10 +19644,6 @@
     {
       "symbol": "584A.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "5857.T",
-      "reason": "HTTPSConnectionPool(host='www.are-holdings.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "5858.T",
@@ -19759,7 +19739,7 @@
     },
     {
       "symbol": "5970.T",
-      "reason": "HTTPSConnectionPool(host='www.g-tekt.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.g-tekt"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5974.T",
@@ -19787,7 +19767,7 @@
     },
     {
       "symbol": "5990.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.supertool.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "5998.T",
@@ -19966,16 +19946,16 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6237.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.iwakipumps.jp/"
-    },
-    {
       "symbol": "6255.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6257.T",
       "reason": "HTTPSConnectionPool(host='www.fujimarukun.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDS"
+    },
+    {
+      "symbol": "6262.T",
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "6266.T",
@@ -20011,7 +19991,7 @@
     },
     {
       "symbol": "6317.T",
-      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
+      "reason": "HTTPSConnectionPool(host='kiw.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='kiw.co.jp', po"
     },
     {
       "symbol": "6322.T",
@@ -20052,10 +20032,6 @@
     {
       "symbol": "6361.T",
       "reason": "403 Client Error: Forbidden for url: https://www.ebara.com/jp-ja/"
-    },
-    {
-      "symbol": "6364.T",
-      "reason": "HTTPSConnectionPool(host='www.airman.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.air"
     },
     {
       "symbol": "6367.T",
@@ -20164,10 +20140,6 @@
     {
       "symbol": "6505.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6506@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "6508.T",
@@ -20284,6 +20256,10 @@
     {
       "symbol": "6629.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "6632.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.jvckenwood.com/"
     },
     {
       "symbol": "6645.T",
@@ -21131,15 +21107,11 @@
     },
     {
       "symbol": "7723.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.aichitokei.net/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "7725.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7727.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.oval.co.jp/"
     },
     {
       "symbol": "7730.T",
@@ -21211,10 +21183,6 @@
     },
     {
       "symbol": "7839.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "7846.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -21378,10 +21346,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.mitsubishicorp.com/"
     },
     {
-      "symbol": "8059.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.djk.co.jp/"
-    },
-    {
       "symbol": "8060.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21431,7 +21395,7 @@
     },
     {
       "symbol": "8158.T",
-      "reason": "HTTPSConnectionPool(host='www.sodanikka.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www."
+      "reason": "503 Server Error: Service Unavailable for url: https://www.sodanikka.co.jp/"
     },
     {
       "symbol": "8163.T",
@@ -21444,10 +21408,6 @@
     {
       "symbol": "8167.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "8179@F.T",
-      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "8181.T",
@@ -21587,7 +21547,7 @@
     },
     {
       "symbol": "8558.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.towabank.co.jp/"
     },
     {
       "symbol": "8559@F.T",
@@ -21807,7 +21767,7 @@
     },
     {
       "symbol": "9028.T",
-      "reason": "502 Server Error: Bad Gateway for url: https://www.zero-group.co.jp/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9033.T",
@@ -21867,7 +21827,7 @@
     },
     {
       "symbol": "9090.T",
-      "reason": "HTTPSConnectionPool(host='www.az-com-maruwa-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(hos"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.az-com-maruwa-hd.co.jp/"
     },
     {
       "symbol": "9119.T",
