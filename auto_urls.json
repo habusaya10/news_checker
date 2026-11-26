@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:53:32.234851+00:00",
+  "updated_at": "2026-11-26T19:54:04.164946+00:00",
   "criteria": {
     "market": "Japan",
     "scope": "all listed equities"
@@ -1950,6 +1950,12 @@
       "auto": true
     },
     {
+      "name": "SCHOO INC",
+      "url": "https://corp.schoo.jp/newsroom/press/",
+      "symbol": "264A.T",
+      "auto": true
+    },
+    {
       "name": "AEON KYUSHU CO LTD",
       "url": "https://www.aeon-kyushu.info/ir/news/",
       "symbol": "2653.T",
@@ -2001,6 +2007,12 @@
       "name": "TAKACHIHO KOHEKI CO",
       "url": "https://www.takachiho-kk.co.jp/news/notice/?paged=2",
       "symbol": "2676.T",
+      "auto": true
+    },
+    {
+      "name": "TOWARISE CORPORATION",
+      "url": "https://www.towarise.jp/news/",
+      "symbol": "267A.T",
       "auto": true
     },
     {
@@ -4780,8 +4792,8 @@
       "auto": true
     },
     {
-      "name": "PCI HOLDINGS INC",
-      "url": "https://www.pci-h.co.jp/news/index.html",
+      "name": "PCI SOLUTIONS INC",
+      "url": "https://www.pci-sol.com#an-irnews",
       "symbol": "3918.T",
       "auto": true
     },
@@ -5593,6 +5605,12 @@
       "name": "SUMITOMO BAKELITE CO",
       "url": "https://www.sumibe.co.jp/newsletter/",
       "symbol": "4203.T",
+      "auto": true
+    },
+    {
+      "name": "SEKISUI CHEMICAL CO",
+      "url": "https://www.sekisuichemical.com/news/2026/?newsCategory=press",
+      "symbol": "4204.T",
       "auto": true
     },
     {
@@ -12674,6 +12692,12 @@
       "auto": true
     },
     {
+      "name": "THREE F CO LTD",
+      "url": "https://www.three-f.co.jp/company/newsRelease/index.html",
+      "symbol": "7544.T",
+      "auto": true
+    },
+    {
       "name": "NISHIMATSUYA CHAIN CO",
       "url": "https://www.24028.jp/news/shop",
       "symbol": "7545.T",
@@ -17330,6 +17354,10 @@
       "reason": "HTTPSConnectionPool(host='www.giken-hd.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERT"
     },
     {
+      "symbol": "1446.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.candeal.co.jp/"
+    },
+    {
       "symbol": "1449@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17355,7 +17383,7 @@
     },
     {
       "symbol": "168A.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.itamiarts.co.jp/"
     },
     {
       "symbol": "1717.T",
@@ -17410,6 +17438,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "1812.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.kajima.co.jp/"
+    },
+    {
       "symbol": "1832@S.T",
       "reason": "公式サイトURLなし"
     },
@@ -17454,6 +17486,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.daiwahouse.co.jp/"
     },
     {
+      "symbol": "1928.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.sekisuihouse.co.jp/"
+    },
+    {
       "symbol": "1929.T",
       "reason": "HTTPSConnectionPool(host='www.nittoc.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.nit"
     },
@@ -17463,7 +17499,11 @@
     },
     {
       "symbol": "1942.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.kandenko.co.jp/"
+    },
+    {
+      "symbol": "1944.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.kinden.co.jp/"
     },
     {
       "symbol": "194A.T",
@@ -17532,6 +17572,10 @@
     {
       "symbol": "2124.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "212A.T",
+      "reason": "403 Client Error: Forbidden for url: https://fiteasy.co.jp/"
     },
     {
       "symbol": "2130.T",
@@ -17607,7 +17651,11 @@
     },
     {
       "symbol": "2269.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.meiji.com/"
+    },
+    {
+      "symbol": "2281.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.primaham.co.jp/"
     },
     {
       "symbol": "2292.T",
@@ -17679,19 +17727,19 @@
     },
     {
       "symbol": "2435.T",
-      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTI"
+      "reason": "HTTPSConnectionPool(host='www.cedar-web.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
     },
     {
       "symbol": "2437.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "2445.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://corp.takamiya.co/"
-    },
-    {
       "symbol": "2454.T",
       "reason": "403 Client Error: Forbidden for url: https://allabout.co.jp/"
+    },
+    {
+      "symbol": "2469.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.hibino.co.jp/"
     },
     {
       "symbol": "2471.T",
@@ -17719,7 +17767,7 @@
     },
     {
       "symbol": "2499.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.wasou.com/"
     },
     {
       "symbol": "2587.T",
@@ -17727,10 +17775,6 @@
     },
     {
       "symbol": "2588.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "264A.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -17823,7 +17867,7 @@
     },
     {
       "symbol": "2784.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.alfresa.com/"
     },
     {
       "symbol": "2788.T",
@@ -17842,20 +17886,16 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "2813.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.wakoushokuhin.co.jp/"
+    },
+    {
       "symbol": "2814.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "2831.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "2877.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.nittobest.co.jp/"
-    },
-    {
-      "symbol": "2903.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.shinobufoods.co.jp/"
     },
     {
       "symbol": "2907.T",
@@ -18022,6 +18062,10 @@
       "reason": "403 Client Error: Forbidden for url: https://www.sanyodo.co.jp/"
     },
     {
+      "symbol": "3063.T",
+      "reason": "HTTPSConnectionPool(host='www.jgroup.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jgroup"
+    },
+    {
       "symbol": "3067.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18099,7 +18143,7 @@
     },
     {
       "symbol": "3175.T",
-      "reason": "HTTPSConnectionPool(host='apcompany.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='apcompany.j"
+      "reason": "HTTPSConnectionPool(host='apcompany.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICAT"
     },
     {
       "symbol": "3177.T",
@@ -18131,10 +18175,6 @@
     },
     {
       "symbol": "3191.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "3197.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18219,7 +18259,7 @@
     },
     {
       "symbol": "3297.T",
-      "reason": "HTTPSConnectionPool(host='www.toubu.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.toub"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.toubu.co.jp/"
     },
     {
       "symbol": "3299.T",
@@ -18442,10 +18482,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "3591.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.wacoalholdings.jp/"
-    },
-    {
       "symbol": "3598.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -18470,6 +18506,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3636.T",
+      "reason": "404 Client Error: Not Found for url: https://www.mri.co.jp/"
+    },
+    {
       "symbol": "3639.T",
       "reason": "HTTPSConnectionPool(host='www.voltage.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
     },
@@ -18488,6 +18528,10 @@
     {
       "symbol": "3659.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3661.T",
+      "reason": "403 Client Error: Forbidden for url: https://m-upholdings.co.jp/"
     },
     {
       "symbol": "3674.T",
@@ -18522,12 +18566,20 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "3697.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/"
+    },
+    {
       "symbol": "3710.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "3719.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3723.T",
+      "reason": "HTTPSConnectionPool(host='www.falcom.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIF"
     },
     {
       "symbol": "3747.T",
@@ -18548,6 +18600,10 @@
     {
       "symbol": "3802.T",
       "reason": "HTTPSConnectionPool(host='www.ecomic.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecomic"
+    },
+    {
+      "symbol": "3810.T",
+      "reason": "403 Client Error: Forbidden for url: https://cshd.cyberstep.com/"
     },
     {
       "symbol": "3823.T",
@@ -18600,6 +18656,10 @@
     {
       "symbol": "3914.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "3915.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.terrasky.co.jp/"
     },
     {
       "symbol": "3926.T",
@@ -18659,7 +18719,7 @@
     },
     {
       "symbol": "3997.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.tworks.co.jp/"
     },
     {
       "symbol": "3998.T",
@@ -18699,7 +18759,7 @@
     },
     {
       "symbol": "4042.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.tosoh.com/"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4047.T",
@@ -18786,19 +18846,7 @@
       "reason": "HTTPSConnectionPool(host='www.ooc.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ooc.co"
     },
     {
-      "symbol": "4197.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.asmarq.co.jp/"
-    },
-    {
-      "symbol": "4204.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
       "symbol": "4208.T",
-      "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "4224.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -18824,6 +18872,10 @@
     {
       "symbol": "4248.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "4250@F.T",
+      "reason": "公式サイトURLなし"
     },
     {
       "symbol": "4255.T",
@@ -18854,6 +18906,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "431A.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
       "symbol": "4323.T",
       "reason": "HTTPSConnectionPool(host='www.jast.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jast.jp'"
     },
@@ -18874,16 +18930,16 @@
       "reason": "HTTPSConnectionPool(host='www.nexyzgroup.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh "
     },
     {
-      "symbol": "4350.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.msnw.co.jp/"
-    },
-    {
       "symbol": "4351.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4366.T",
       "reason": "HTTPSConnectionPool(host='www.daitochemix.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: C"
+    },
+    {
+      "symbol": "436A.T",
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "4372.T",
@@ -18950,6 +19006,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4431.T",
+      "reason": "403 Client Error: Forbidden for url: https://corp.smaregi.jp/"
+    },
+    {
       "symbol": "4432.T",
       "reason": "HTTPSConnectionPool(host='www.wingarc.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
     },
@@ -18990,6 +19050,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4486.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.ug-inc.net/"
+    },
+    {
       "symbol": "4487.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19020,6 +19084,10 @@
     {
       "symbol": "4512.T",
       "reason": "503 Server Error: Service Unavailable for url: https://www.wakamoto-pharm.co.jp/"
+    },
+    {
+      "symbol": "4523.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.eisai.co.jp/"
     },
     {
       "symbol": "4524.T",
@@ -19102,6 +19170,10 @@
       "reason": "HTTPSConnectionPool(host='www.solasia.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTI"
     },
     {
+      "symbol": "4613.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.kansai.co.jp/"
+    },
+    {
       "symbol": "4619.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19127,7 +19199,7 @@
     },
     {
       "symbol": "4650.T",
-      "reason": "HTTPSConnectionPool(host='www.sdentertainment.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: "
+      "reason": "HTTPSConnectionPool(host='www.sdentertainment.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='w"
     },
     {
       "symbol": "4661.T",
@@ -19227,7 +19299,7 @@
     },
     {
       "symbol": "4875.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='medicinova.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='medicinov"
     },
     {
       "symbol": "4881.T",
@@ -19274,6 +19346,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "4936.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.axxzia.co.jp/"
+    },
+    {
       "symbol": "4966.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -19288,10 +19364,6 @@
     {
       "symbol": "4972.T",
       "reason": "423 Client Error:  for url: https://www.sokenchem.com/jp/"
-    },
-    {
-      "symbol": "4973.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.netjpc.com/"
     },
     {
       "symbol": "4978.T",
@@ -19376,6 +19448,10 @@
     {
       "symbol": "5138.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "5139.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.openwork.co.jp/"
     },
     {
       "symbol": "5186.T",
@@ -19511,11 +19587,15 @@
     },
     {
       "symbol": "5592.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://kusurinomadoguchi.co.jp/"
     },
     {
       "symbol": "5602.T",
       "reason": "HTTPSConnectionPool(host='www.kurimoto.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh"
+    },
+    {
+      "symbol": "5619.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.mrso.co.jp/"
     },
     {
       "symbol": "5695.T",
@@ -19659,7 +19739,7 @@
     },
     {
       "symbol": "5969.T",
-      "reason": "HTTPSConnectionPool(host='www.lobtex.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lob"
+      "reason": "503 Server Error: Service Unavailable for url: https://www.lobtex.co.jp/"
     },
     {
       "symbol": "5970.T",
@@ -19710,8 +19790,12 @@
       "reason": "403 Client Error: Forbidden for url: https://www.artra-group.co.jp/"
     },
     {
+      "symbol": "6033.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.e-xtreme.co.jp/"
+    },
+    {
       "symbol": "6034.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.medrt.co.jp/"
     },
     {
       "symbol": "6036.T",
@@ -19728,10 +19812,6 @@
     {
       "symbol": "6042.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6045.T",
-      "reason": "HTTPSConnectionPool(host='www.rentracks.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CER"
     },
     {
       "symbol": "6046.T",
@@ -19818,7 +19898,11 @@
       "reason": "HTTPSConnectionPool(host='japanpost.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='japanpost.j"
     },
     {
-      "symbol": "6180.T",
+      "symbol": "6181.T",
+      "reason": "403 Client Error: Forbidden for url: https://tameny.jp/"
+    },
+    {
+      "symbol": "6186.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -19847,7 +19931,7 @@
     },
     {
       "symbol": "621A.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://audiostock.co.jp/"
     },
     {
       "symbol": "6222.T",
@@ -19996,10 +20080,6 @@
     {
       "symbol": "6419.T",
       "reason": "HTTPSConnectionPool(host='www.mars-ghd.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.m"
-    },
-    {
-      "symbol": "6420.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.galilei-holdings.co.jp/"
     },
     {
       "symbol": "6432.T",
@@ -20174,10 +20254,6 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "6632.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.jvckenwood.com/"
-    },
-    {
       "symbol": "6645.T",
       "reason": "403 Client Error: Forbidden for url: https://www.omron.com/"
     },
@@ -20208,10 +20284,6 @@
     {
       "symbol": "6659.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6666.T",
-      "reason": "403 Client Error: Forbidden for url: https://www.river-ele.co.jp/"
     },
     {
       "symbol": "6694.T",
@@ -20344,10 +20416,6 @@
     {
       "symbol": "6810.T",
       "reason": "公式ニュースページを確認できず"
-    },
-    {
-      "symbol": "6814.T",
-      "reason": "HTTPSConnectionPool(host='www.furuno.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.fur"
     },
     {
       "symbol": "6817.T",
@@ -20598,6 +20666,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7157.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.lifenet-seimei.co.jp/"
+    },
+    {
       "symbol": "7164.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20762,6 +20834,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7367.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.celm.co.jp/"
+    },
+    {
       "symbol": "7369.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -20898,10 +20974,6 @@
       "reason": "403 Client Error: Forbidden for url: https://www.ppih.co.jp/"
     },
     {
-      "symbol": "7544.T",
-      "reason": "HTTPSConnectionPool(host='www.three-f.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
-    },
-    {
       "symbol": "7550.T",
       "reason": "HTTPSConnectionPool(host='zensho.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='zensho.co.j"
     },
@@ -20946,19 +21018,19 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "7637.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.hakudo.co.jp/"
-    },
-    {
       "symbol": "7640.T",
       "reason": "HTTPSConnectionPool(host='www.topculture.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
     },
     {
       "symbol": "7649.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.sugi-hd.co.jp/"
     },
     {
       "symbol": "7679.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7680.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -20987,7 +21059,7 @@
     },
     {
       "symbol": "7702.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.jms.cc/"
     },
     {
       "symbol": "7707.T",
@@ -21039,7 +21111,7 @@
     },
     {
       "symbol": "7791.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://dreambed.jp/"
     },
     {
       "symbol": "7793.T",
@@ -21170,6 +21242,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "7976.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.mpuni.co.jp/"
+    },
+    {
       "symbol": "7979.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21184,6 +21260,10 @@
     {
       "symbol": "7986.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "7987.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.nakabayashi.co.jp/"
     },
     {
       "symbol": "7988.T",
@@ -21215,7 +21295,11 @@
     },
     {
       "symbol": "8043.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.starzen.co.jp/"
+    },
+    {
+      "symbol": "8051.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.yamazen.co.jp/"
     },
     {
       "symbol": "8052.T",
@@ -21267,7 +21351,7 @@
     },
     {
       "symbol": "8119.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "HTTPSConnectionPool(host='www.sanyeicorp.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.s"
     },
     {
       "symbol": "8144.T",
@@ -21467,7 +21551,7 @@
     },
     {
       "symbol": "8604.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.nomuraholdings.com/"
     },
     {
       "symbol": "8613.T",
@@ -21498,6 +21582,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "8725.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.ms-ad-hd.com/"
+    },
+    {
       "symbol": "8739.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21511,7 +21599,7 @@
     },
     {
       "symbol": "8793.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.necap.co.jp/"
     },
     {
       "symbol": "8795.T",
@@ -21678,12 +21766,12 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
-      "symbol": "9072.T",
-      "reason": "公式ニュースページを確認できず"
+      "symbol": "9069.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.senkogrouphd.co.jp/"
     },
     {
-      "symbol": "9073.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.kyogoku.co.jp/"
+      "symbol": "9072.T",
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9074.T",
@@ -21700,10 +21788,6 @@
     {
       "symbol": "9085@S.T",
       "reason": "公式サイトURLなし"
-    },
-    {
-      "symbol": "9090.T",
-      "reason": "503 Server Error: Service Unavailable for url: https://www.az-com-maruwa-hd.co.jp/"
     },
     {
       "symbol": "9119.T",
@@ -21752,6 +21836,10 @@
     {
       "symbol": "9215.T",
       "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9241.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.futurelink.co.jp/"
     },
     {
       "symbol": "9248.T",
@@ -21842,6 +21930,10 @@
       "reason": "公式ニュースページを確認できず"
     },
     {
+      "symbol": "9376.T",
+      "reason": "HTTPSConnectionPool(host='www.eurasia.co.jp', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eu"
+    },
+    {
       "symbol": "9380.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21891,6 +21983,10 @@
     },
     {
       "symbol": "9466.T",
+      "reason": "公式ニュースページを確認できず"
+    },
+    {
+      "symbol": "9467.T",
       "reason": "公式ニュースページを確認できず"
     },
     {
@@ -21950,6 +22046,10 @@
       "reason": "HTTPSConnectionPool(host='toho.co.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='toho.co.jp', "
     },
     {
+      "symbol": "9605.T",
+      "reason": "403 Client Error: Forbidden for url: https://www.toei.co.jp/"
+    },
+    {
       "symbol": "9610.T",
       "reason": "公式ニュースページを確認できず"
     },
@@ -21971,7 +22071,7 @@
     },
     {
       "symbol": "9644.T",
-      "reason": "HTTPSConnectionPool(host='www.tanabeconsulting.co.jp', port=443): Read timed out. (read timeout=15)"
+      "reason": "公式ニュースページを確認できず"
     },
     {
       "symbol": "9658.T",
@@ -22067,7 +22167,7 @@
     },
     {
       "symbol": "9882.T",
-      "reason": "公式ニュースページを確認できず"
+      "reason": "403 Client Error: Forbidden for url: https://www.yellowhat.jp/"
     },
     {
       "symbol": "9887.T",
@@ -22104,6 +22204,10 @@
     {
       "symbol": "9980.T",
       "reason": "503 Server Error: Service Unavailable for url: https://www.mrkholdings.co.jp/"
+    },
+    {
+      "symbol": "9986.T",
+      "reason": "HTTPSConnectionPool(host='www.zaohnet.co.jp', port=443): Read timed out. (read timeout=15)"
     },
     {
       "symbol": "9987.T",
